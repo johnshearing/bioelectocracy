@@ -1,3 +1,5 @@
+<a href="https://johnshearing.github.io/">Main list of projects</a>  
+
 # bioelectocracy
 This is a placeholder for work on human governance and collective decision making based on Michael Levin's work with bioelectricity and neural cellular automata.  
 Writing and software development will start after a short period of orientation.  
