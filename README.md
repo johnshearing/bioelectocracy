@@ -46,5 +46,15 @@ This is so other leaders will have a more difficult time predicting their action
 Of course other nations with their own game theorists ignore the show and also create their own show of insanity in order to prevent being gamed.
 
 
+Been wondering about the inteligence in evolution.  
+Where does it come from.  
+Marvel at the intelligence of a single cell to navigate morphous space to reach it's target form.  
+What if what we view as the evolution of man is really just morphegenesis of the human super-organism as it grows to it's target form.  
+
+Still, where is the target form image (the blueprint) that the human super-organism is reading?  
+Is it all just guided by aggrigated preference?
+Are other super-organisms hacking our collective morphogenesis?
+
+
 
 
