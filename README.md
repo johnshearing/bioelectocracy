@@ -16,9 +16,14 @@ I think we see the central banks, corporations, and supporting industrial comple
 The body or work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
 
-
+Arguments in this document will be derived from the following sources.  
 Bioelectricity: The Body's Cognitive Glue - Michael Levin - 4/18/24
 https://youtu.be/lIHUWOv4nkE?si=EvQB1uxWhgGk2YcD&t=178
+
+Prices as Cognitive glue by Benjamin Lyons
+https://youtu.be/0Oo4ng6dWrQ?si=NfWdeQauLO_v_XJm
+
+https://benjaminflyons.com/
 
 
 Wow! That was very much worth watching!
