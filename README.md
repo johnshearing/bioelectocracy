@@ -26,6 +26,13 @@ https://youtu.be/0Oo4ng6dWrQ?si=NfWdeQauLO_v_XJm
 https://benjaminflyons.com/
 
 
+Rules for Rulers
+https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib
+
+Death and Dynasties
+https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt
+
+
 Wow! That was very much worth watching!
 It pointed out that our current forms of democracy all resolve mathematically to dictatorship.
 But it pointed out that a rated voting system can actually represent democracy in the case of voting for a leader.
