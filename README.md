@@ -11,7 +11,7 @@ When communication is blocked between communities, or when communities identify 
 
 Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
-The body or work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
+The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
 
 Arguments in this document will be derived from the following sources.  
@@ -22,7 +22,6 @@ Prices as Cognitive glue by Benjamin Lyons
 https://youtu.be/0Oo4ng6dWrQ?si=NfWdeQauLO_v_XJm
 
 https://benjaminflyons.com/
-
 
 Rules for Rulers
 https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib
@@ -55,13 +54,15 @@ Leaders must appear irrational (insane) in order to obscure their preferences, s
 This is so other leaders will have a more difficult time predicting their actions using Game Theory maths.
 Of course other nations with their own game theorists ignore the show and also create their own show of insanity in order to prevent being gamed.
 
-
 Been wondering about the inteligence in evolution.  
 Where does it come from.  
-Marvel at the intelligence of a single cell to navigate morphous space to reach it's target form.  
+We marvel at the intelligence of a single cell as it navigates morphous space to reach it's target form.  
 What if what we view as the evolution of man is really just morphegenesis of the human super-organism as it grows to it's target form.  
 
 Still, where is the target form image (the blueprint) that the human super-organism is reading?  
+What is the target form that the human super-organsim is trying to reach?
+Are 
+Is the target form try
 Is it all just guided by aggrigated preference?
 Are other super-organisms hacking our collective morphogenesis?
 
