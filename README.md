@@ -67,5 +67,26 @@ Is it all just guided by aggrigated preference?
 Are other super-organisms hacking our collective morphogenesis?
 
 
+So far I have the following index of papers by Benjamin Lyons:
+https://interestingessays.substack.com/archive
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878765
+https://osf.io/preprints/osf/3fdya
+
+I feel like these show where the controls are for human collective intelligence.
+This makes an interesting dilemma for governance because we are not supposed to control the intelligence but rather help it come to good collective decisions.
+
+BioElectocracy will attempt to address:
+What is the morphogenesis target of the human super organism?
+In other words, imagine if each one of us is a cell in a larger organism.
+In that case, what type of animal is the human collective trying to become?
+Where are the controls for morphogenesis of the human super organism,
+Who knows where the controls are and is using them now to control the morphogenesis of the human super organism?
+How to protect the humanity's development from being hijacked and turned it to something other than what it is trying to become?
+Once the target is known, how can we support its development so as to reach its natural target form without defects introduced by central powers?
+In other words, how can we help deliver this baby without defects?
+It will be an interesting and fun challenge to communicate these ideas and tell this story.
+
+
+
 
 
