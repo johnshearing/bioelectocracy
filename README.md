@@ -1,9 +1,9 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# bioelectocracy
-Collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work theorizing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue that causes individuals to cooperate and which provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. This price system which tracks relative scarcity seem to answer a lot of questions about how we can improve human collective decision making and governance.  
+# BioElectocracy
+Collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work theorizing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue causing individuals to cooperate and provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. This price system which tracks relative scarcity seems to answer a lot of questions about where the controls are on any form of collective intelligence.  
 
-For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. T 
+For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. 
 
 #### Below is notes and links which will be woven into the narative started above.
 
@@ -66,12 +66,6 @@ Is the target form try
 Is it all just guided by aggrigated preference?
 Are other super-organisms hacking our collective morphogenesis?
 
-
-So far I have the following index of papers by Benjamin Lyons:
-https://interestingessays.substack.com/archive
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878765
-https://osf.io/preprints/osf/3fdya
-
 I feel like these show where the controls are for human collective intelligence.
 This makes an interesting dilemma for governance because we are not supposed to control the intelligence but rather help it come to good collective decisions.
 
@@ -87,6 +81,8 @@ In other words, how can we help deliver this baby without defects?
 
 In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population as we have seen in the Effective Altruism movement. So what is healthy compassion with respect to cognative glue?
 
+Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=sAwWo8rufzu7m330) with Benjamin Lyon's ideas about cognitive glue
+
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
 
 
@@ -101,7 +97,7 @@ It will be an interesting and fun challenge to communicate these ideas and tell 
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
-        <DT><A HREF="https://download.ssrn.com/2024/6/27/4878765.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG8aCXVzLWVhc3QtMSJHMEUCIFLvWZy%2Fep8Rpm4H7dM1MhMATm7VoSr6KtBesSSY5lrfAiEAiHCAqbyiB9feBf2UScNFojN0F8qFDYoNy%2B6oin6nctYqxwUI%2BP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwzMDg0NzUzMDEyNTciDJVujs44rfdNJZqQZSqbBfFnTNKVXzWdtp%2BSTR7DQnIy9XXmCh%2Fqa3T9%2FxgHvu6lWq59f4irvKvmaYmOkDlUwJorD%2BpGxoBOwwY0HTDaf2eb1Wf1dTZjWSUJSuIMRIg%2Bia2JqGYa4d5fxUsMegAczfExzyxLWLtGSSZeLVXS9RRRd5KZ%2BqmzGMifL25%2BWuamkGpknFps51U1b0f2Q0Qqz1zKyB44R7HojZN4%2FCn10ueW6YUb4UsdeOpMdfEeGWj%2BydyUIRCkxhPgL8sUAxxeOogO0olU%2FQpz5kqb%2B3FecTGhTug8gGAyF0RolLlyWsgt71v48e9M3N9Ekqc8qLo2mvRO7vEN95vlMorL2mL6qG9Lr50CWyhTOuz%2BFJ2OFUwYm2aVKxB7qYF3U%2Ba0Yx%2FP%2FK8z4R3bPiBWcwWHD2zQGCxJODxx9PKAhN4zxpQz0XAHCg%2BHnRpdXOGurixxY3sZ5ogKQe8D8r%2BdvheBPmOcipxvBUCdtdV0Ajj5ACR7VvJIyRdKoj4gKZLg2l1ctG94dT%2FIRwCYEWs3cMsj3AiVwfUHxTs7%2F%2BLUUO31uceYpsaw8e3kDpci%2FS4OFXO%2F79HZQuFtMvvNABrhE4%2FovzkhoIHgaIFb8E2a9O6CxNZ4EXKU0EnRHeCktXfoisx4kqJ2GdywtIupuTdMQxgheT592%2FBH2YaQCMmvVr7vrqz9sl%2FACCVAOEsvcHRSD%2FdRpzHmYjGGzb68dPUWeyMqTKZZRmnZABB7P6DHtjZ0d7VLhPFBd7noVVG11AuGn7wYvDp%2F0npDPHlwxHaG4OfL4I%2BJXsPY3hd4yWWB0TYL6WHJ4E3bhfmpeehcJcIIl7uiZlcocdzQLpHoulafjHwaH1mD6wVe4qSdGyP%2FFSam1X7vEWM58oXt2kPAylbGYwkw2%2FfZuQY6sQFBQIMIiACbil87STT4ZwzY6kEHKWQUq2MH3yMwF4Y5fvi8ZcnbHeWoltuCXvJv29up0qYDvtjpZ0JWKYKburXIjXLuAW0Ol4rTSLPLoiPvf3mYwuZ65kjoJuEluTgfn2hpNZZtBCCeomuA8Ft%2FUTfg2EFpKz1xdjdTwWNJ%2BiMaAYt1P6TFysy7nIlMbXliELuxai8nn%2FZbxwdEab8%2BK50zWWzZ%2Bc%2FWIi3QcSviv9e3nbM%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241114T233156Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWE4YKR33WT%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2cd841758c76fd6d5bde11ab30aa4e0063c39c41276ae32a5f6e4d5b441b4870&abstractId=4878765" ADD_DATE="1731866008">The Problem of Externality in 2024</A>
+        <DT><A HREF="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878765">The Problem of Externality in 2024</A>           
         <DT><A HREF="https://osf.io/preprints/osf/3fdya">OSF Preprints | Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence</A>
         <DT><A HREF="https://benjaminflyons.com/essays/">Essays</A>
         <DT><A HREF="https://interestingessays.substack.com/archive">Archive - Interesting Essays</A>
