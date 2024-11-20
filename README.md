@@ -1,7 +1,8 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # bioelectocracy
-This is a placeholder for work on human governance and collective decision making based on Michael Levin's work with bioelectricity and neural cellular automata.
+This repository is a placeholder for work on collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work showing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue which causes individuals to cooperate and which provides the collective with emergent intelligence and competencies that no individual in the group possesses.
+
 Bioelectricity and neural cellular automata seem to answer a lot of questions about how we can improve human collective decision making and governance.  
 
 For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels).
