@@ -1,14 +1,11 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # bioelectocracy
-This repository is a placeholder for work on collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work showing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue which causes individuals to cooperate and which provides the collective with emergent intelligence and competencies that no individual in the group possesses.
+Collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work theorizing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue that causes individuals to cooperate and which provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. This price system which tracks relative scarcity seem to answer a lot of questions about how we can improve human collective decision making and governance.  
 
-Bioelectricity and neural cellular automata seem to answer a lot of questions about how we can improve human collective decision making and governance.  
+For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. T 
 
-For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels).
-The cells then act like a single cell organisms rather than community members and so feed upon neighbors. 
-This same kind of cancer seems to happen at the level of human society as well.
-When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others.
+#### Below is notes and links which will be woven into the narative started above.
 
 Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
