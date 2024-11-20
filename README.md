@@ -85,10 +85,11 @@ How to protect the humanity's development from being hijacked and turned it to s
 Once the target is known, how can we support its development so as to reach its natural target form without defects introduced by central powers?
 In other words, how can we help deliver this baby without defects?
 
-Love thy neighbor as thyself. 
+Love thy neighbor as thyself - Matthew 22:36-40 King James Version 
 Not like yourself but as yourself. 
 As if there is no way to discern the difference. 
-As if the two are one and the same.
+The Latin word for compassion means "to suffer with".
+Compassion is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)
 I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate.
 
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
