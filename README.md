@@ -84,6 +84,13 @@ Who knows where the controls are and is using them now to control the morphogene
 How to protect the humanity's development from being hijacked and turned it to something other than what it is trying to become?
 Once the target is known, how can we support its development so as to reach its natural target form without defects introduced by central powers?
 In other words, how can we help deliver this baby without defects?
+
+Love thy neighbor as thyself. 
+Not like yourself but as yourself. 
+As if there is no way to discern the difference. 
+As if the two are one and the same.
+I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate.
+
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
 
 
