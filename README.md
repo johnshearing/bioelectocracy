@@ -7,6 +7,8 @@ For instance Michael Levin shows that cancer occurs when a cell or group of cell
 
 #### Below is notes and links which will be woven into the narative started above.
 
+I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location. It's a lot like the cells in the body. 
+
 Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
 The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
