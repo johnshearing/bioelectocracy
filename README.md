@@ -85,12 +85,7 @@ How to protect the humanity's development from being hijacked and turned it to s
 Once the target is known, how can we support its development so as to reach its natural target form without defects introduced by central powers?
 In other words, how can we help deliver this baby without defects?
 
-In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the samething.  
-Not "like yourself" but rather "as yourself". 
-As if there is no way to discern the difference. 
-The Latin word for compassion means "to suffer with".
-Compassion is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love".
-I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate.
+In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population. So what is healthy compassion with respect to cognative glue?
 
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
 
