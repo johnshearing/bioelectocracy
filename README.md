@@ -1,13 +1,25 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # BioElectocracy
-Collective intelligence, collective decision making, and human governance based Michael Levin and Benjamin Lyons' work theorizing that collective intelligence at any scale from cellular morphogenesis to Adam Smith's invisible hand can all be mapped onto a price system which acts as the cognitive glue causing individuals to cooperate and provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. This price system which tracks relative scarcity seems to answer a lot of questions about where the controls are on any form of collective intelligence.  
+#### Collective Intelligence, Collective Decision Making, And Human Governance based Michael Levin and Benjamin Lyons' Work.
+
+Levin and Lyons theorize that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. 
+
+This price system which tracks relative scarcity seems to answer a lot of questions about where the controls are on any form of collective intelligence including human collective intelligence.  
+This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.
+So where are the controls on the human super-organism? How are they used? Who knows where the controls are and are already using them to control the human super-organism? And how can these controls be decentralized so that no central powers can decide the morphogenesis of the human super-organism?
+
 
 For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. 
 
 #### Below is notes and links which will be woven into the narative started above.
 
-I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location. It's a lot like the cells in the body. 
+All intelligence is collective intelligence.
+The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
+
+I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
+This is good for a few but not so good for others.
+It's a lot like the cells in the body. 
 
 Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
@@ -15,14 +27,6 @@ The body of work raises the question of what exactly is the target of morphogene
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
 
 Arguments in this document will be derived from the following sources.  
-Bioelectricity: The Body's Cognitive Glue - Michael Levin - 4/18/24
-https://youtu.be/lIHUWOv4nkE?si=WHBS-UqQ1XE-Y6RZ&t=276
-
-Prices as Cognitive glue by Benjamin Lyons
-https://youtu.be/0Oo4ng6dWrQ?si=NfWdeQauLO_v_XJm
-
-https://benjaminflyons.com/
-
 Rules for Rulers
 https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib
 
