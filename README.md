@@ -10,23 +10,23 @@
 [Their joint paper is found at this link here.](https://osf.io/preprints/osf/3fdya)  
 
 BioElectocracy imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
-In other words, [imagining Adam and Eve as the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), where a collective of humans is created that continue to reproduce and to assemble as a super-organism where each human is considered a single cell of this collective.  
-Lets call this a Macro-organism and lets call it Mac for short.  
-BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of it's human membership.
-BioElectocracy further imagines that Mac is trying assemble itself into a specific (target) life form, and that our job is to help Mac navigate the obstacles.  
+In other words, [imagining Adam and Eve as the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being.  
+Lets call this a macro-organism and lets call it Mac for short.  
+BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of it's human membership.  
+BioElectocracy further imagines that Mac is trying self-assemble itself into a specific (target) life form, and that our job is to help Mac navigate the obstacles in morphous-space so as to reach it's desired (target) form.  
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.  
-Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve but rather to help it navigate morphogenisis space to find itself at the target life form that it is trying to achieve.   
+Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve but rather to help it navigate morphous-space to find itself at the target life form that it is trying to achieve.   
 
 BioElectocracy asks:
 1. [Levin shows where the controls are for morphogenesis in biological organisms](https://youtu.be/7vsYIlukqn0?si=ZB6S0YzmSqSlGAWS&t=36)  
 2. Where are the controls on what Mac does and what Mac becomes?   
 3. How are the controls used?  
-4. [Levin shows an example of one organism hijacking the morphogenesis of another organsism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
+4. [Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
 5. [What does it look like when another macro-organism hijacks Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
 6. Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?   
-7. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human super-organism of which we are all a part?  
+7. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
 8. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
 10. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
 11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?  
