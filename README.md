@@ -1,7 +1,7 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # BioElectocracy
-#### Collective Intelligence, Collective Decision Making, And Human Governance based Michael Levin and Benjamin Lyons' Work.
+#### Collective Intelligence and Human Governance based Michael Levin and Benjamin Lyons' Work.
 
 Levin and Lyons theorize that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. 
 
@@ -26,34 +26,21 @@ I think we see the central banks, corporations, and supporting industrial comple
 The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
 
-Arguments in this document will be derived from the following sources.  
-Rules for Rulers
-https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib
-
-Death and Dynasties
-https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt
-
-
-Wow! That was very much worth watching!
-It pointed out that our current forms of democracy all resolve mathematically to dictatorship.
+[Video: Why Democracy Is Mathematically Impossible](https://youtu.be/qf7ws2DF-zk?si=brxyoh59HRFQK3Nf)
+The video pointed out that our current forms of democracy all resolve mathematically to dictatorship.
 But it pointed out that a rated voting system can actually represent democracy in the case of voting for a leader.
-https://youtu.be/qf7ws2DF-zk?si=brxyoh59HRFQK3Nf&t=1142
-
 I picked out two false premises in the video.
-
-That a voting system which leads to best collective decision must have these 5 qualities:
-https://youtu.be/qf7ws2DF-zk?si=MFM6N08a6Rbcnp0m&t=843
-Bees collective decision making process does not share these qualities.
+1. That a voting system which leads to best collective decision must have [these 5 qualities]((https://youtu.be/qf7ws2DF-zk?si=MFM6N08a6Rbcnp0m&t=843):
+[Bees collective decision making process](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md) does not share these qualities.
 Bees have a form of democracy which closely resembles governance by random juries which was not discussed in the video.
 This governance has been a stable and reliable way to produce the best decisions for the last million years.
-That elections should be rational:
-https://youtu.be/qf7ws2DF-zk?si=51knDhw2CCuxmx2X&t=3
+2. [That elections should be rational](https://youtu.be/qf7ws2DF-zk?si=51knDhw2CCuxmx2X&t=3):
 Game Theory only predicts an outcome if all actors in the game are rational and act in their own best interest.
 So if actors are rational then you can predict with certainty what they will do.
-If you can predict what the crowd will do then you have enough information to game the system and produce any outcome you want.
+If you can predict what your opponent will do then you have enough information to game the system and produce any outcome you want.
 Therefore a functional voting system must be irrational, unpredictable, and non-deterministic.
-Beemocracy has these qualities.🐝
-Not for nothing this is exactly why United States policy seems so crazy.
+[Beemocracy](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md) has these qualities.
+Perhaps this is exactly why United States policy seems so crazy.
 Leaders must appear irrational (insane) in order to obscure their preferences, self-interest, and rationality.
 This is so other leaders will have a more difficult time predicting their actions using Game Theory maths.
 Of course other nations with their own game theorists ignore the show and also create their own show of insanity in order to prevent being gamed.
@@ -85,7 +72,8 @@ In other words, how can we help deliver this baby without defects?
 
 In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population as we have seen in the Effective Altruism movement. So what is healthy compassion with respect to cognative glue?
 
-Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=sAwWo8rufzu7m330) with Benjamin Lyon's ideas about cognitive glue
+Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue
+
 
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
 
@@ -101,8 +89,9 @@ It will be an interesting and fun challenge to communicate these ideas and tell 
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
+        <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
+        <DT><A HREF="https://osf.io/preprints/osf/3fdya">OSF Preprints | Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence</A>            
         <DT><A HREF="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878765">The Problem of Externality in 2024</A>           
-        <DT><A HREF="https://osf.io/preprints/osf/3fdya">OSF Preprints | Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence</A>
         <DT><A HREF="https://benjaminflyons.com/essays/">Essays</A>
         <DT><A HREF="https://interestingessays.substack.com/archive">Archive - Interesting Essays</A>
         <DT><A HREF="https://interestingessays.substack.com/p/theres-no-such-thing-as-terminal">There&#39;s no such thing as terminal values</A>
@@ -128,6 +117,15 @@ It will be an interesting and fun challenge to communicate these ideas and tell 
         <DT><A HREF="https://www.youtube.com/watch?v=t2Hx67Lv1oY">The Science Behind Creating Heaven on Earth with Bruce Lipton - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=P60TX-dwd4s">The 2024 Nobel Prize in Economics: Explained - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/whos-the-data-implications-of-thoughts-are-thinkers-continuum-for-developmental-bioelectricity/">Forms of life, forms of mind | Dr. Michael Levin | Who’s the data? Implications of thoughts-are-thinkers continuum for developmental bioelectricity</A>
+        <DT><A HREF="https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib">Rules for Rulers</A>
+        <DT><A HREF="https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt">Rules for Rulers</A>
+
+
+
+
+
+
+            
     </DL><p>
 </DL><p>
 </body>
