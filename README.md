@@ -5,7 +5,7 @@
 
 [Morphogenesis according to Levin](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210) is the intelligent process where a single fertilized egg creates a community of cells who work collectively to navigate the building process to arive at the target organism.  
 
-[Levin and Lyons theorize](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone.  
+[Lyons theorized](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone.  
 
 [Their joint paper is found at this link here.](https://osf.io/preprints/osf/3fdya)  
 
