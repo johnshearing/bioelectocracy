@@ -118,14 +118,7 @@ It will be an interesting and fun challenge to communicate these ideas and tell 
         <DT><A HREF="https://www.youtube.com/watch?v=P60TX-dwd4s">The 2024 Nobel Prize in Economics: Explained - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/whos-the-data-implications-of-thoughts-are-thinkers-continuum-for-developmental-bioelectricity/">Forms of life, forms of mind | Dr. Michael Levin | Who’s the data? Implications of thoughts-are-thinkers continuum for developmental bioelectricity</A>
         <DT><A HREF="https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib">Rules for Rulers</A>
-        <DT><A HREF="https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt">Rules for Rulers</A>
-
-
-
-
-
-
-            
+        <DT><A HREF="https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt">Death & Dynasties</A>
     </DL><p>
 </DL><p>
 </body>
