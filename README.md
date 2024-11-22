@@ -29,28 +29,12 @@ BioElectocracy asks:
 9. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Below are notes and links which will be woven into the narative started above.  
 I have no idea where this is all going. Can't wait to find out.  
-Proverbs 3:5-6 King James Version
-5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
-6 In all thy ways acknowledge him, and he shall direct thy paths.
+Proverbs 3:5-6 King James Version  
+5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.  
+6 In all thy ways acknowledge him, and he shall direct thy paths.  
 
-
-All intelligence is collective intelligence.
-The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
@@ -63,10 +47,14 @@ So it might be said that domino (B) when standing, is listening, or watching for
 Perhaps it would be better to say that there is a relationship between domino (A) and domino (B) only when both are standing.  
 Whether or not information is passed from domino (A) to (B) depends on a relationship already being in place between the two.  
 If domino (B) is already laying down when domino (A) falls upon it then energy is being passed between the two but no information that we are interested in is passed.  
-If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.
-So underlying the passage of all information is relatioinship.
+If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.  
+So underlying the passage of all information is relatioinship.  
 
-Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.  
+Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.
+
+
+All intelligence is collective intelligence.  
+The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
 information is living. About the trinity Father - infinite intelligence and love, Son - thats us, Holy Spirit, Our relationship
 
