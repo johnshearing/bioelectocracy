@@ -1,21 +1,53 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # BioElectocracy
-#### Collective Intelligence and Human Governance based Michael Levin and Benjamin Lyons' Work.
+#### Collective Intelligence and Human Governance based Michael Levin and Benjamin Lyons' Work.  
 
-Levin and Lyons theorize that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone. 
+Morphogenesis is the intelligent process where a single fertilized egg creates a community of cells who work collectively to navigate the building process to arive at the target organism.  
 
-This price system which tracks relative scarcity seems to answer a lot of questions about where the controls are on any form of collective intelligence including human collective intelligence.  
-This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.
-So where are the controls on the human super-organism? How are they used? Who knows where the controls are and are already using them to control the human super-organism? And how can these controls be decentralized so that no central powers can decide the morphogenesis of the human super-organism?
+Levin and Lyons theorize that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerge from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone.  
+
+BioElectocracy imagines the collective of all humans to be in the process of morphogenesis.  
+In other words, imagining Adam and Eve as the sperm and egg, a collective of humans is created that continue to reproduce and to assemble a super-organism where each human is considered a single cell of this collective.  
+Lets call this a Macro-organism and lets call it Mac for short.  
+BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of it's human membership.
+BioElectocracy further imagines that Mac is trying assemble itself into a specific (target) life form, and that our job is to help Mac navigate the obstacles.  
+
+Lyon's price system which tracks relative scarcity seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
+This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.  
+Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve but rather to help it navigate morphogenisis space to find itself at the target life form that it is trying to achieve.   
+
+BioElectocracy asks:
+1. Where are the controls on what Mac does and what Mac becomes?  
+2. How are the controls used?
+3. Levin shows an example of one organism hijacking the morphogenesis of another organsism.
+4. What does it look like when another super-organism hijacks Mac's morphogenesis?
+5. Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?  
+6. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human super-organism of which we are all a part?
+7. Levin explains cancer in an organism.
+8. What does cancer look like in Mac?  
+9. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?  
 
 
-For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. 
 
-<html><body>
-<A HREF="https://github.com/johnshearing/IOTA-Secure-Airgapped-Accounting-and-Banking-System?tab=readme-ov-file#credits" target="_blank">
-Below are notes and links which will be woven into the narative started above. I have no idea where this is all going. Can't wait to find out.</A>
-</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+#### Below are notes and links which will be woven into the narative started above.  
+I have no idea where this is all going. Can't wait to find out.  
+Proverbs 3:5-6 King James Version
+5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+6 In all thy ways acknowledge him, and he shall direct thy paths.
+
 
 All intelligence is collective intelligence.
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
@@ -40,7 +72,10 @@ information is living. About the trinity Father - infinite intelligence and love
 
 I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
 This is good for a few but not so good for others.
-It's a lot like the cells in the body. 
+It's a lot like the cells in the body speciallizing. 
+Is this what Mac wants or is Mac's morphogenesis being hijacked?
+
+For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. 
 
 Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
@@ -92,17 +127,17 @@ In other words, how can we help deliver this baby without defects?
 
 In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population as we have seen in the Effective Altruism movement. So what is healthy compassion with respect to cognative glue?
 
-Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.
+Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.  
 
+Do cells war with each other during morphogenesis? If not, why do countries war?  
 
-
-It will be an interesting and fun challenge to communicate these ideas and tell this story.
+It will be an interesting and fun challenge to ask these questions, communicate these ideas, and tell this story.
 
 
 <html>
 <body>
 <DL><p>
-    <DT><H3 ADD_DATE="1731866008" LAST_MODIFIED="1731866008">BioElectocracy</H3>
+    <DT><H3>BioElectocracy</H3>
     <DL><p>
         <DT><A HREF="https://www.youtube.com/watch?v=oiuyG-2UKYQ">Tyson Yunkaporta, &quot;Sand Talk: How Indigenous Thinking Can Save the World&quot; - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/">Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work</A>
