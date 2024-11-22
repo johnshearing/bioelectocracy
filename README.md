@@ -17,6 +17,24 @@ For instance Michael Levin shows that cancer occurs when a cell or group of cell
 All intelligence is collective intelligence.
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
+It has been said that information is a difference that makes a difference.  
+In other words a change in one structure (A) causes a change in some other structure (B).  
+Structure (B) must notice that structure (A) has changed, so a small transfer of energy from (A) To (B) must be required to move information but that is not all that is required.  
+Stucture (B) must already be set to change its state as a result of the energy received by stucture (A).  
+It might be said that structure (B) must be listening for, or at least be receptive to changes is structure (A).   
+It's a relationship. There must be a relationship in place in order for information to be passed from (A) to (B).  
+A line of dominos must be standing in order for the falling of domino (A) to affect the state of domino (B).  
+So it might be said that domino (B) when standing, is listening, or watching for a change in domino (A).  
+Perhaps it would be better to say that there is a relationship between domino (A) and domino (B) only when both are standing.  
+Whether or not information is passed from domino (A) to (B) depends on a relationship already being in place between the two.  
+If domino (B) is already laying down when domino (A) falls upon it then energy is being passed between the two but no information that we are interested in is passed.  
+If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.
+So underlying the passage of all information is relatioinship.
+
+Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.  
+
+information is living. About the trinity Father - infinite intelligence and love, Son - thats us, Holy Spirit, Our relationship
+
 I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
 This is good for a few but not so good for others.
 It's a lot like the cells in the body. 
@@ -26,9 +44,8 @@ I think we see the central banks, corporations, and supporting industrial comple
 The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
 
-[Video: Why Democracy Is Mathematically Impossible](https://youtu.be/qf7ws2DF-zk?si=brxyoh59HRFQK3Nf)
-The video pointed out that our current forms of democracy all resolve mathematically to dictatorship.
-But it pointed out that a rated voting system can actually represent democracy in the case of voting for a leader.
+[Video: Why Democracy Is Mathematically Impossible](https://youtu.be/qf7ws2DF-zk?si=brxyoh59HRFQK3Nf)  
+The video pointed out that our current forms of democracy all resolve mathematically to dictatorship except for a rated voting system which can represent a democracy in the case of voting for a leader.
 I picked out two false premises in the video.
 1. That a voting system which leads to best collective decision must have [these 5 qualities]((https://youtu.be/qf7ws2DF-zk?si=MFM6N08a6Rbcnp0m&t=843):
 [Bees collective decision making process](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md) does not share these qualities.
@@ -72,7 +89,8 @@ In other words, how can we help deliver this baby without defects?
 
 In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population as we have seen in the Effective Altruism movement. So what is healthy compassion with respect to cognative glue?
 
-Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue
+Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.
+
 
 
 It will be an interesting and fun challenge to communicate these ideas and tell this story.
