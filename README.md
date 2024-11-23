@@ -35,11 +35,12 @@ BioElectocracy asks:
 10. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
 11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?
 12. How can we help Mac reach its target form when no human knows what type of organism Mac is trying to assemble itself into?
-    * Individual cells don't know what type of biological organism they are trying to build.
+    * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
     * All cell do is follow simple rules and the target organism results from the intelligence in the collective that no individual cell knows about. 
-    *  We humans do not need to know what type of macro-organism we are building any more than cells need to know what organism they are building.
+    *  We humans do not need to know what type of macro-organism we are building any more than cells need to know what organism they are building.  
     * All we need to do is follow a few simple rules from Jewish law some of which have been amplified by Jesus and Muhammad for clarity.
-      * Proverbs 3:5-6 King James Version
+    * Very few people will know how to unpack these rules and understand them as instructions for helping Mac's reach it's target state without needing to know what the target state is so we will restate all these ideas again later as we proceed without making any reference to spiritual teachings. But for now, the simple instructions needed to build Mac are listed below. 
+      * Proverbs 3:5-6 King James Version  
         * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
         * In all thy ways acknowledge him, and he shall direct thy paths.
       * Matthew 22:36-40 King James Version
