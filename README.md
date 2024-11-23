@@ -35,7 +35,22 @@ BioElectocracy asks:
 10. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
 11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?
 12. How can we help Mac reach its target form when no human knows what type of organism Mac is trying to assemble itself into?
-
+    * Individual cells don't know what biological organism they are trying to build nor do we need to know what type of macro-organism we are building.
+    * All we need to do is follow a few simple rules from Jewish law some of which have been amplified by Jesus for clarity.
+      * Proverbs 3:5-6 King James Version
+        * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+        * In all thy ways acknowledge him, and he shall direct thy paths.
+      * Matthew 22:36-40 King James Version
+        * Master, which is the great commandment in the law?
+        * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+        * This is the first and great commandment.
+        * And the second is like unto it, Thou shalt love thy neighbor as thyself.
+        * On these two commandments hang all the law and the prophets.
+      * Luke 11:1-4 King James Version
+        * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+        * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+        * Give us day by day our daily bread.
+        * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 #### Below are notes and links which will be woven into the narative started above.  
 I have no idea where this is all going. Can't wait to find out.  
