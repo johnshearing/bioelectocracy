@@ -36,25 +36,36 @@ BioElectocracy asks:
 11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?
 12. How can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
-    * All cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell knows about. 
+    * All the cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell know anything about. 
     * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
-    * All we need to do is follow a few simple rules and Mac will self-assemble into its target form.
+    * All we need to do is follow a few simple rules and Mac will self-assemble into its target form. 
     * These simple rules (listed below) have been stated in Jewish teachings and have been amplified by Jesus and Muhammad for clarity.
-    * Very few people will know how to unpack these simple rules and understand them as instructions for helping Mac's reach it's target state without needing to know what the target state is. So later as we proceed, all these simple rules will be stated again in a technical manner without making any reference to spiritual teachings.
-      * Proverbs 3:5-6 King James Version  
-        * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
-        * In all thy ways acknowledge him, and he shall direct thy paths.
-      * Matthew 22:36-40 King James Version
-        * Master, which is the great commandment in the law?
-        * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
-        * This is the first and great commandment.
-        * And the second is like unto it, Thou shalt love thy neighbor as thyself.
-        * On these two commandments hang all the law and the prophets.
-      * Luke 11:1-4 King James Version
-        * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
-        * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
-        * Give us day by day our daily bread.
-        * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
+    * We will be looking at these simple rules through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if they are the rules required to help Mac's reach it's target state without needing to know what the target state is.
+    * Some readers will not have any interest in looking at spiritual or religious writings. So later as we proceed, all these simple rules will be stated again in a technical manner without making any reference to spiritual or religious teachings.
+    * > Proverbs 3:5-6 King James Version  
+      > * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+      > * In all thy ways acknowledge him, and he shall direct thy paths.
+    * The above seems to indicate that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual.
+    * > Matthew 22:36-40 King James Version
+      > * Master, which is the great commandment in the law?
+      > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+      > * This is the first and great commandment.
+      > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
+      > * On these two commandments hang all the law and the prophets.
+    * The above seems to indicate:
+      1. What we feel, do, and think are choices.
+        * Most people understand that what we do is a choice, but the idea that we can also choose our thoughts and emotions is a new concept.
+      2. That we are to feel, do, and think in ways that acknowledge and love the collective intelligence which is managing the Mac's assembly.
+         * We are not being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences)
+         * Love for Mac flows down from that.
+      3. We are told to love our neighbors as ourselves.
+         * Not like ourselves but as ourselves - as if there is no distinction between our neighbor's and ourselves.
+         * This is very similar to what Levin describes in one of his videos which I will link soon where the cells work together because they truely cannot differentiat themselves from other cells.
+    * > Luke 11:1-4 King James Version
+      > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+      > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+      > * Give us day by day our daily bread.
+      > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 #### Below are notes and links which will be woven into the narative started above.  
 I have no idea where this is all going. Can't wait to find out.  
