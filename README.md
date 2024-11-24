@@ -36,31 +36,32 @@ BioElectocracy asks:
 11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?
 12. How can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
-    * All the cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell know anything about. 
+    * All the cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
     * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
     * All we need to do is follow a few simple rules and Mac will self-assemble into its target form. 
     * These simple rules (listed below) have been stated in Jewish teachings and have been amplified by Jesus and Muhammad for clarity.
-    * We will be looking at these simple rules through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if they are the rules required to help Mac's reach it's target state without needing to know what the target state is.
+    * We will be looking at these simple rules through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if they are the rules required to help Mac reach it's target state without needing to know what the target state is.
     * Some readers will not have any interest in looking at spiritual or religious writings. So later as we proceed, all these simple rules will be stated again in a technical manner without making any reference to spiritual or religious teachings.
     * > Proverbs 3:5-6 King James Version  
       > * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
       > * In all thy ways acknowledge him, and he shall direct thy paths.
-    * The above seems to indicate that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual.
+    * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual.
     * > Matthew 22:36-40 King James Version
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
-    * The above seems to indicate:
+    * The above indicates:
       1. What we feel, do, and think are choices.
-        * Most people understand that what we do is a choice, but the idea that we can also choose our thoughts and emotions is a new concept.
-      2. That we are to feel, do, and think in ways that acknowledge and love the collective intelligence which is managing the Mac's assembly.
-         * We are not being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences)
+        * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept. Once a person practices the art of deciding how they feel and what they think rather than letting the circomstance dictate, they become free to choose love no matter what the circumstances happen to be.
+      2. That we are to feel, do, and think in ways that acknowledge and love the collective being which is managing the Mac's assembly.
+         * We are not being told to love the collective intelligenc which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences)
          * Love for Mac flows down from that.
-      3. We are told to love our neighbors as ourselves.
-         * Not like ourselves but as ourselves - as if there is no distinction between our neighbor's and ourselves.
-         * This is very similar to what Levin describes in one of his videos which I will link soon where the cells work together because they truely cannot differentiat themselves from other cells.
+      3. We are told to love our neighbors **as** ourselves.
+         * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
+         * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to discribe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
+         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because they truely cannot differentiat themselves from other cells. So when one cell is being stressed, the other cells think they are being  stressed and respond to help. 
     * > Luke 11:1-4 King James Version
       > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
       > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
@@ -170,6 +171,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/">Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work</A>
         <DT><A HREF="https://www.youtube.com/watch?v=7vsYIlukqn0&t=60s">A Bioelectric Interface to the Collective Intelligence of Agential Materials for Bioengineering - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
+        <DT><A HREF="https://youtu.be/sViUqqkuTkA?si=_oAleBWmCzf8LLyp">Fixing cancer cells and Immortality - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
         <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
