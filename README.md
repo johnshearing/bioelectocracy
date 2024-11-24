@@ -45,23 +45,27 @@ BioElectocracy asks:
     * > Proverbs 3:5-6 King James Version  
       > * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
       > * In all thy ways acknowledge him, and he shall direct thy paths.
-    * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual.
-    * > Matthew 22:36-40 King James Version
+    * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
+    * We are not being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences). This is God.
+    * Many will ask how can one know what path God is asking us to follow. That's easy - its the choice that feels good during prayer and meditation when the mind is quiet. If none of your choices feel good then your mind is not quite enough. God will never send you a thought that doesn't feel good. Sit longer until your mind is quiet enough to hear what God is saying to you.
+    * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
+    * This not two great commandments, this is one commandment given in two different ways so that we will understand how to love the greatest collective intelligence (God) better. We love the entire collective when we care for our neighbors.
     * The above indicates:
-      1. What we feel, do, and think are choices.
-        * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept. Once a person practices the art of deciding how they feel and what they think rather than letting the circomstance dictate, they become free to choose love no matter what the circumstances happen to be.
+      1. That we have free will - That what we feel, do, and think are choices.
+        * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept. Once a person practices the art of deciding how they feel and what they think rather than letting the circomstance dictate mood and thought, they become free to choose love no matter what the circumstances happen to be. The power of creation is in this knowledge.
       2. That we are to feel, do, and think in ways that acknowledge and love the collective being which is managing the Mac's assembly.
-         * We are not being told to love the collective intelligenc which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences)
+         * We are not being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences). This is God.
          * Love for Mac flows down from that.
       3. We are told to love our neighbors **as** ourselves.
          * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
          * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to discribe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because they truely cannot differentiat themselves from other cells. So when one cell is being stressed, the other cells think they are being  stressed and respond to help. 
+         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. Our cells truely cannot differentiat themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+         * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
     * > Luke 11:1-4 King James Version
       > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
       > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
