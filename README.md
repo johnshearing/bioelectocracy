@@ -15,9 +15,9 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
 In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being.  
 **Lets call this human collective being a macro-organism and lets call it Mac for short.**  
-BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of it's human membership.  
-This is easier to imagine when you consider that many humans smoke cigarettes and consume sugar when both are an irritating to the cells in the short term and will kill the all the cells if enough is consumed in the long term.  
-BioElectocracy further imagines that Mac is trying self-assemble itself into a specific (target) life form, and that our job as it's cells is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
+BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership.  
+This is easier to imagine when you consider that many humans smoke cigarettes and consume sugar when both are irritating to the cells in the short term and will kill all the cells if enough is consumed in the long term.  
+BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job as it's cells is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.  
@@ -47,24 +47,24 @@ BioElectocracy asks:
       > * In all thy ways acknowledge him, and he shall direct thy paths.
     * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
     * We are not being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made from all the smaller collective intelligences). This is God.
-    * Many will ask how can one know what path God is asking us to follow. That's easy - its the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
+    * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
     * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
-    * This not two great commandments, this is one commandment given in two different ways so that we will understand how to love the greatest collective intelligence (God). We love the entire collective (God) when we care for our neighbors.
+    * This is not two great commandments, this is one commandment given in two different ways so that we will understand how to love the greatest collective intelligence (God). We love the entire collective (God) when we care for our neighbors.
     * The above indicates:
       1. That we have free will - That what we feel, do, and think are choices.
-        * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept to most. Once a person practices the art of deciding how they feel and what they think rather than letting the circomstance dictate mood and thought, they become free to choose love no matter what the circumstances happen to be. The power of creation is in this knowledge.
+        * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept to most. Once a person practices the art of deciding how they feel and what they think rather than letting the circumstance dictate mood and thought, they become free to choose love no matter what the circumstances happen to be. The power of creation is in this knowledge.
       2. That we are to feel, do, and think in ways that acknowledge and love the collective being (God) which is managing the Mac's assembly.
          * We are not being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences). This is God.
          * Love for Mac and each other flows down from that.
       3. We are told to love our neighbors **as** ourselves.
          * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
-         * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to discribe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truely cannot differentiat themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+         * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
+         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and respond to help. Cells have true compassion for each other because they literally feel each other's pain.
          * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from organism to macro-organism.  
          * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
          * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
@@ -73,7 +73,7 @@ BioElectocracy asks:
            * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
          * Lending at interests is arguably the greatest cause of human suffering.
            * In the Old Testament, God commands Jews not to lend at interest to other Jews or to foreigners but Moses allowed Jews to lend at interest to foreigners (Non-Jews).
-           * Jesus and and Muhammad both warned against usury and it is forbidden under Islamic law.
+           * Jesus and Muhammad both warned against usury and it is forbidden under Islamic law.
            * Lending at interests is arguably the greatest cause of human suffering and might be considered a form of cancer at the scale of macro-organism.
            * Usury would not exist at all in Jewish law if Moses felt the same sense of identity with all people that he felt for the Jewish people. 
            * So there is a clear link between cancer at the scale of macro-organism and group identity.
