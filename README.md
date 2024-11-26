@@ -87,13 +87,14 @@ BioElectocracy asks:
                * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
                * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
                * You must not lend them money at interest or sell them food at a profit.
-           * Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew. This is contrary to what God has instructed Moses to say.
+           * **Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.**
              * Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
                * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
                * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-           * Lending at interests is arguably the greatest cause of human suffering and might be considered a form of cancer at the scale of macro-organism.
-           * Usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
-           * So there is a clear link between cancer at the scale of macro-organism and group identity.
+           * Lending at interests is arguably the greatest cause of human suffering and fits Levin's definition of cancer at the scale of macro-organism.
+             * The underlying cause of cancer is identity.
+             * Usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
+             * So there is a clear link between cancer at the scale of macro-organism and group identity.
     * > Luke 11:1-4 King James Version
       > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
       > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
