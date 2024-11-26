@@ -7,21 +7,21 @@
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [See this video](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
-Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses alone.  
+Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
 [See this video](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 
-[Their joint paper is found at this link here.](https://osf.io/preprints/osf/3fdya)  
+[Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
 In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being.  
 **Lets call this human collective being a macro-organism and lets call it Mac for short.**  
 BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership.  
 This is easier to imagine when you consider that many humans smoke cigarettes and consume sugar when both are irritating to the cells in the short term and will kill all the cells if enough is consumed in the long term.  
-BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job as it's cells is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
+BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as it's cells, is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
-This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions.  
-Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve but rather to help Mac navigate morphous-space to find itself at the target life form that it is trying to achieve.   
+
+This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions. Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve, but rather, we are supposed to help Mac navigate morphous-space to find itself at the target life form that Mac is trying to achieve.   
 
 BioElectocracy asks:
 1. [Levin shows where the controls are for morphogenesis in biological organisms](https://youtu.be/7vsYIlukqn0?si=ZB6S0YzmSqSlGAWS&t=36)  
@@ -38,7 +38,7 @@ BioElectocracy asks:
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
     * All the cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
     * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
-    * All we need to do is follow a few simple rules and Mac will self-assemble into its target form. 
+    * All we need to do is follow a few simple rules and Mac will self-assemble into its preferred target form. 
     * These simple rules (listed below) have been stated in Jewish teachings and have been amplified by Jesus and Muhammad for clarity.
     * We will be looking at these simple rules through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if they are the rules required to help Mac reach it's target state without needing to know what the target state is.
     * Some readers will not have any interest in looking at spiritual or religious writings. So later as we proceed, all these simple rules will be stated again in a technical manner without making any reference to spiritual or religious teachings.
@@ -46,11 +46,11 @@ BioElectocracy asks:
       > * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
       > * In all thy ways acknowledge him, and he shall direct thy paths.
     * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
-    * We are not being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made from all the smaller collective intelligences). This is God.
+    * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
     * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
     * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
-      > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+      > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
@@ -59,13 +59,13 @@ BioElectocracy asks:
       1. That we have free will - That what we feel, do, and think are choices.
         * Most people understand that what we do is a choice. But the idea that we can also choose our emotions and our thoughts is a new concept to most. Once a person practices the art of deciding how they feel and what they think rather than letting the circumstance dictate mood and thought, they become free to choose love no matter what the circumstances happen to be. The power of creation is in this knowledge.
       2. That we are to feel, do, and think in ways that acknowledge and love the collective being (God) which is managing the Mac's assembly.
-         * We are not being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top (the one made of all the smaller collective intelligences). This is God.
-         * Love for Mac and each other flows down from that.
+         * We are **not** being told to love the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made of all the smaller collective intelligences. This is God.
+         * Love for Mac and love for each other flows down from that.
       3. We are told to love our neighbors **as** ourselves.
          * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
          * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-         * This is very similar to [what Levin describes in one of his videos](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and respond to help. Cells have true compassion for each other because they literally feel each other's pain.
-         * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from organism to macro-organism.  
+         * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+         * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
          * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
          * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
            * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
