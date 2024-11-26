@@ -72,10 +72,27 @@ BioElectocracy asks:
            * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
            * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
          * Lending at interests is arguably the greatest cause of human suffering.
-           * In the Old Testament, God commands Jews not to lend at interest to other Jews or to foreigners but Moses allowed Jews to lend at interest to foreigners (Non-Jews).
-           * Jesus and Muhammad both warned against usury and it is forbidden under Islamic law.
+           * The Central Banks
+             * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
+             * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
+             * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0">All Wars Are Bankers' Wars)
+             * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
+             * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
+             * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
+           * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
+           * In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.
+             * Exodus 22:25 New International Version (God is speaking to Moses)
+               * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
+             * Leviticus 25:35-37 New International Version (God is speaking to Moses)
+               * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
+               * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
+               * You must not lend them money at interest or sell them food at a profit.
+           * Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew. This is contrary to what God has instructed Moses to say.
+             * Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
+               * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
+               * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
            * Lending at interests is arguably the greatest cause of human suffering and might be considered a form of cancer at the scale of macro-organism.
-           * Usury would not exist at all in Jewish law if Moses felt the same sense of identity with all people that he felt for the Jewish people. 
+           * Usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
            * So there is a clear link between cancer at the scale of macro-organism and group identity.
     * > Luke 11:1-4 King James Version
       > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
@@ -107,6 +124,9 @@ So underlying the passage of all information is relatioinship.
 Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.
 
 [The instructions for morphogenesis are not in the genes.](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771)
+
+What type of attractor is human governance?  
+point attractors (a single stable point), limit cycle attractors (periodic oscillations), and strange attractors (complex, chaotic patterns) 
 
 All intelligence is collective intelligence.  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
@@ -184,6 +204,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
     <DL><p>
         <DT><A HREF="https://www.youtube.com/watch?v=oiuyG-2UKYQ">Tyson Yunkaporta, &quot;Sand Talk: How Indigenous Thinking Can Save the World&quot; - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/">Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work</A>
+        <DT><A HREF="https://thoughtforms.life/whos-the-data-implications-of-thoughts-are-thinkers-continuum-for-developmental-bioelectricity/">Forms of life, forms of mind | Dr. Michael Levin | Who’s the data? Implications of thoughts-are-thinkers continuum for developmental bioelectricity</A>  
         <DT><A HREF="https://www.youtube.com/watch?v=7vsYIlukqn0&t=60s">A Bioelectric Interface to the Collective Intelligence of Agential Materials for Bioengineering - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://youtu.be/sViUqqkuTkA?si=_oAleBWmCzf8LLyp">Fixing cancer cells and Immortality - YouTube</A>
@@ -216,9 +237,14 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://interestingessays.substack.com/p/some-basic-ideas-regarding-the-economics">Some basic ideas regarding the economics of collective intelligence</A>
         <DT><A HREF="https://www.youtube.com/watch?v=t2Hx67Lv1oY">The Science Behind Creating Heaven on Earth with Bruce Lipton - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=P60TX-dwd4s">The 2024 Nobel Prize in Economics: Explained - YouTube</A>
-        <DT><A HREF="https://thoughtforms.life/whos-the-data-implications-of-thoughts-are-thinkers-continuum-for-developmental-bioelectricity/">Forms of life, forms of mind | Dr. Michael Levin | Who’s the data? Implications of thoughts-are-thinkers continuum for developmental bioelectricity</A>
         <DT><A HREF="https://youtu.be/rStL7niR7gs?si=M6ijiWsrqnHcfaib">Rules for Rulers</A>
         <DT><A HREF="https://youtu.be/ig_qpNfXHIU?si=jvdvZQ8rkVKGi3tt">Death & Dynasties</A>
+        <DT><A HREF="https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query">All Wars Are Bankers' Wars: Search X for 43 minute video</A>
+        <DT><A HREF="https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22">All Wars Are Bankers' Wars: Search Rumble for 43 minute video</A>
+        <DT><A HREF="https://www.youtube.com/watch?v=BrKf9nYeXT0">All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted</A>         
+        <DT><A HREF="https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php">All Wars Are Bankers' Wars: Read as a webpage</A>
+        <DT><A HREF="https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf">All Wars Are Bankers' Wars: Read as a PDF</A>
+        <DT><A HREF="https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf">The Creature From Jekyll Island: Read as a PDF on Internet Archive</A>
     </DL><p>
 </DL><p>
 </body>
