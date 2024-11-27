@@ -84,9 +84,30 @@ BioElectocracy asks:
              * Levin shows that the underlying cause of cancer is identity.
              * The Cancer of usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
              * So there is a clear link between cancer at the scale of macro-organism and group identity.
-          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.           
+          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
+          * **Usery is not evil, it's cancer. Both are just a matter of scale and scope when asking the question "Who is my neighbor?"**
+            
+  ### The foundational question we will be asking as we explore BioElectocracy is: 
+  ### What form of Governance most widens the scope of who each of us consider to be neighbors?
 
-#### Below are notes and links which will be woven into the narative started above. 
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+---
+
+---
+
+---
+
+**Below are notes and links which will be woven into the narative started above.**  
 I have no idea where this is all going.  
 The following proverb will be my guide.  
 > Proverbs 3:5-6 King James Version  
@@ -94,14 +115,9 @@ The following proverb will be my guide.
 > * In all thy ways acknowledge him, and he shall direct thy paths.
   * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
   * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
-  * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation (when the mind is quiet). If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you. 
+  * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation (when the mind is quiet). If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
 
-> Luke 11:1-4 King James Version
-> * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
-> * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
-> * Give us day by day our daily bread.
-> * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
-
+Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
@@ -233,6 +249,13 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 </DL><p>
 </body>
 </html>
+
+
+> Luke 11:1-4 King James Version
+> * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+> * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+> * Give us day by day our daily bread.
+> * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 
 
