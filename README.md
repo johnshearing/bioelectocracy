@@ -56,7 +56,7 @@ BioElectocracy asks:
         * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
         * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
         * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
-        * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
+        * This is also very similar to [what Lyons describes in this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
         #### Who Is My Neighbor? To Whom Do I Charge Interest? Mac's Morphogenesis (Humanity's Destiny) Hangs On This Question.
           * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
           * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
@@ -90,7 +90,7 @@ BioElectocracy asks:
           * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
           * **Usury is not evil, it's cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
           * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor"
-            * Usury and all the suffering it causes will disapear as humans widen the scope of "neighbor".
+            * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
   ### What form of Governance most widens the scope of who each of us consider to be neighbors?
