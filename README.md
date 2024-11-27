@@ -62,7 +62,6 @@ BioElectocracy asks:
           * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
           * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
           * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
-          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
           * In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.
             > Exodus 22:25 New International Version (God is speaking to Moses)
             > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
@@ -85,7 +84,7 @@ BioElectocracy asks:
              * Levin shows that the underlying cause of cancer is identity.
              * The Cancer of usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
              * So there is a clear link between cancer at the scale of macro-organism and group identity.
-           
+          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.           
 
 #### Below are notes and links which will be woven into the narative started above. 
 
