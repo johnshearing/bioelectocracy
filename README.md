@@ -33,7 +33,7 @@ BioElectocracy asks:
 7. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
 8. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
 9. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
-10. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
+10. ### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
     * Both objectives are accomplished when everyone follows one simple rule.
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
     * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
