@@ -87,13 +87,14 @@ BioElectocracy asks:
              *  Note:
                *  While I have chosen Christianity, I am Jewish by birth and love Jewish people as much as I love all other people.
                *  **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
-          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
+               * Jesus warned against usury but it is still practiced by Christians.
+               * Usury is completely forbidden under Islamic law which may indicate that Muslims have the widest scope of "neighbor" in this category.
           * **Usury is not evil, it's cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
           * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor"
             * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
-  ### What form of Governance most widens the scope of who each of us consider to be neighbors?
+  ### What form of Governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
 
 ---
 
