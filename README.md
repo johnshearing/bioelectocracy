@@ -90,7 +90,7 @@ BioElectocracy asks:
                * Jesus warned against usury but it is still practiced by Christians.
                * Usury is completely forbidden under Islamic law which may indicate that Muslims have the widest scope of "neighbor" in this category.
           * **Usury is not evil, it's cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
-          * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor"
+            * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
             * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
