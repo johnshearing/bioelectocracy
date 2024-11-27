@@ -1,6 +1,6 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy
+# BioElectocracy: Who Is My Neighbor?
 ## Human Governance Based On Morphogenesis
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation on which this project stands 
 
