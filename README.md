@@ -32,15 +32,16 @@ BioElectocracy asks:
 6. Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?   
 7. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
 8. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
-10. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
-11. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing?
-12. How can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
+9. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
+10. How can the cure for cancer which Levin has already discovered be applied to Mac's wellbeing and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
+    * Both objectives are accomplished when everyone follows one simple rule.
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
-    * All the cells do is follow simple rules, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
+    * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
     * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
     * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
-    * This simple rule (written below) has been stated in Jewish teachings and has been amplified by Jesus and Muhammad for clarity.
-    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac reach it's target state without needing to know what the target state is.
+    * This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
+    * It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
+    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state without our needing to know what that target state is.
     * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
@@ -48,21 +49,32 @@ BioElectocracy asks:
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
       * This is not two great commandments, this is the one great commandment given in two different ways (And the second is like unto it)
-      * It was given to us twice so that we would understand that loving the collective intelligence next to us is how we love the greatest collective intelligence(God).
+      * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
       * We love the entire collective (God) when we care for our neighbors.
-      * The above indicates:
-        * We are told to love our neighbors **as** ourselves.
-          * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
-          * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-          * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
-          * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
-          * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
-        4. #### Who is my neighbor? Mac's morphogenesis and humanity's destiny hangs on this question.
-           * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
-             * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
-             * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
-             * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
-           * Lending at interests is arguably the greatest cause of human suffering.
+      * We are told to love our neighbors **as** ourselves.
+        * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
+        * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
+        * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+        * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
+        * This is also very similar to [what Lyons describes in his this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
+        #### Who Is My Neighbor? To Whom Do I Charge Interest? Mac's Morphogenesis (Humanity's Destiny) Hangs On This Question.
+          * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
+          * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
+          * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
+          * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
+          * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
+          * In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.
+            > Exodus 22:25 New International Version (God is speaking to Moses)
+            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
+            > Leviticus 25:35-37 New International Version (God is speaking to Moses)
+            > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
+            >  * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
+            >  * You must not lend them money at interest or sell them food at a profit.
+          * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
+            > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
+            > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
+            > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
+          * Lending at interests is arguably the greatest cause of human suffering and the cause (identity) fits Levin's definition of cancer at the scale of macro-organism.
              * The Central Banks
                * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
                * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
@@ -70,22 +82,18 @@ BioElectocracy asks:
                * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
                * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
                * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
-           * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
-           * In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.
-             * Exodus 22:25 New International Version (God is speaking to Moses)
-               * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
-             * Leviticus 25:35-37 New International Version (God is speaking to Moses)
-               * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
-               * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
-               * You must not lend them money at interest or sell them food at a profit.
-           * **Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.**
-             * Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
-               * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
-               * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-           * Lending at interests is arguably the greatest cause of human suffering and fits Levin's definition of cancer at the scale of macro-organism.
-             * The underlying cause of cancer is identity.
-             * Usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
+             * Levin shows that the underlying cause of cancer is identity.
+             * The Cancer of usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
              * So there is a clear link between cancer at the scale of macro-organism and group identity.
+           
+
+#### Below are notes and links which will be woven into the narative started above. 
+
+I have no idea where this is all going. The following proverb will be my guide. 
+Proverbs 3:5-6 King James Version  
+5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.  
+6 In all thy ways acknowledge him, and he shall direct thy paths.
+
     * > Luke 11:1-4 King James Version
       > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
       > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
@@ -98,11 +106,8 @@ BioElectocracy asks:
         * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
         * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
 
-#### Below are notes and links which will be woven into the narative started above.  
-I have no idea where this is all going. The following proverb will be my guide. 
-Proverbs 3:5-6 King James Version  
-5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.  
-6 In all thy ways acknowledge him, and he shall direct thy paths.  
+ 
+  
 
 
 It has been said that information is a difference that makes a difference.  
