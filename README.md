@@ -82,10 +82,15 @@ BioElectocracy asks:
                * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
                * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
              * Levin shows that the underlying cause of cancer is identity.
-             * The Cancer of usury would be completely forbidden in Jewish law if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people). 
-             * So there is a clear link between cancer at the scale of macro-organism and group identity.
+             * The Cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people).
+             * So there is a clear link between cancer at the scale of macro-organism and the scope of group identity.
+             *  Note:
+               *  While I have chosen Christianity, I am Jewish by birth and love Jewish people as much as I love all other people.
+               *  **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
           * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.
-          * **Usery is not evil, it's cancer. Both are just a matter of scale and scope when asking the question "Who is my neighbor?"**
+          * **Usury is not evil, it's cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
+          * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor"
+            * Usury and all the suffering it causes will disapear as humans widen the scope of "neighbor".
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
   ### What form of Governance most widens the scope of who each of us consider to be neighbors?
@@ -134,6 +139,8 @@ If domino (B) is standing when domino (A) falls upon it then both energy and inf
 So underlying the passage of all information is relatioinship.  
 
 Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.
+
+The problem of not wanting to change or resistance to change.
 
 [The instructions for morphogenesis are not in the genes.](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771)
 
