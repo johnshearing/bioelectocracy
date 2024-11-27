@@ -87,26 +87,20 @@ BioElectocracy asks:
           * Jesus and Muhammad both warned against usury and it is completely forbidden under Islamic law.           
 
 #### Below are notes and links which will be woven into the narative started above. 
+I have no idea where this is all going.  
+The following proverb will be my guide.  
+> Proverbs 3:5-6 King James Version  
+> * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
+> * In all thy ways acknowledge him, and he shall direct thy paths.
+  * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
+  * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
+  * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you. 
 
-I have no idea where this is all going. The following proverb will be my guide. 
-Proverbs 3:5-6 King James Version  
-5 Trust in the Lord with all thine heart; and lean not unto thine own understanding.  
-6 In all thy ways acknowledge him, and he shall direct thy paths.
-
-    * > Luke 11:1-4 King James Version
-      > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
-      > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
-      > * Give us day by day our daily bread.
-      > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
-    * > Proverbs 3:5-6 King James Version  
-      > * Trust in the Lord with all thine heart; and lean not unto thine own understanding.
-      > * In all thy ways acknowledge him, and he shall direct thy paths.
-        * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
-        * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
-        * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation when the mind is quiet. If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
-
- 
-  
+> Luke 11:1-4 King James Version
+> * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+> * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+> * Give us day by day our daily bread.
+> * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 
 It has been said that information is a difference that makes a difference.  
@@ -133,7 +127,12 @@ point attractors (a single stable point), limit cycle attractors (periodic oscil
 All intelligence is collective intelligence.  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
-information is living. About the trinity Father - infinite intelligence and love, Son - thats us, Holy Spirit, Our relationship
+information is a living think. Levin says "Thoughts are thinkers."
+
+About The Trinity 
+Father - The mind. Infinite intelligence and love. Nonphysical. Made from the information exchanged in the universe.
+Son - thats us, The body. The sensation. The raw input.
+Holy Spirit, Our relationship. The nervous system. That which causes us to love The Father and which causes The Father to love us.
 
 I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
 This is good for a few but not so good for others.
@@ -172,25 +171,8 @@ What if what we view as the evolution of man is really just morphegenesis of the
 
 Still, where is the target form image (the blueprint) that the human super-organism is reading?  
 What is the target form that the human super-organsim is trying to reach?
-Are 
-Is the target form try
 Is it all just guided by aggrigated preference?
-Are other super-organisms hacking our collective morphogenesis?
-
-I feel like these show where the controls are for human collective intelligence.
-This makes an interesting dilemma for governance because we are not supposed to control the intelligence but rather help it come to good collective decisions.
-
-BioElectocracy will attempt to address:
-What is the morphogenesis target of the human super organism?
-In other words, imagine if each one of us is a cell in a larger organism.
-In that case, what type of animal is the human collective trying to become?
-Where are the controls for morphogenesis of the human super organism,
-Who knows where the controls are and is using them now to control the morphogenesis of the human super organism?
-How to protect the humanity's development from being hijacked and turned it to something other than what it is trying to become?
-Once the target is known, how can we support its development so as to reach its natural target form without defects introduced by central powers?
-In other words, how can we help deliver this baby without defects?
-
-In [The One Great Commandment - Matthew 22:36-40 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#The_One_Great_Commandment) we are told to love God and love thy neighbor as thyself as if these are both one and the same thing. Not "like yourself" but rather "as yourself". As if there is no way to discern the difference. The Latin word for compassion means "to suffer with and "compassion" is the word used in [The Parable of The Good Samaritan - Luke 10:25-37 King James Version](https://johnshearing.github.io/bible_passages_where_jesus_speaks/index.html#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) where we learn what Jesus means when he uses the word "love" and defines the scope of the word "neighbor". I wonder if this can be interpeted as stress sharing, the cognative glue that Levin and Lyons demonstrate. It should also be noted that compassion is exploited by the codependent and is also used to radicalize a population as we have seen in the Effective Altruism movement. So what is healthy compassion with respect to cognative glue?
+Are other super-organisms (Central Banks) hacking our collective morphogenesis?
 
 Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.  
 
@@ -202,7 +184,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 <html>
 <body>
 <DL><p>
-    <DT><H3>BioElectocracy</H3>
+    <DT><H3>Sources of Information for BioElectocracy</H3>
     <DL><p>
         <DT><A HREF="https://www.youtube.com/watch?v=oiuyG-2UKYQ">Tyson Yunkaporta, &quot;Sand Talk: How Indigenous Thinking Can Save the World&quot; - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/">Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work</A>
