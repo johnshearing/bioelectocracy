@@ -40,15 +40,16 @@ BioElectocracy asks:
     * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
     * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
     * This simple rule (written below) has been stated in Jewish teachings and has been amplified by Jesus and Muhammad for clarity.
-    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rules required to help Mac reach it's target state without needing to know what the target state is.
-    * Some readers will not have any interest in looking at spiritual or religious writings. So later as we proceed, all these simple rules will be stated again in a technical manner without making any reference to spiritual or religious teachings.
+    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac reach it's target state without needing to know what the target state is.
     * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
-      * This is not two great commandments, this is one commandment given in two different ways so that we will understand how to love the greatest collective intelligence (God). We love the entire collective (God) when we care for our neighbors.
+      * This is not two great commandments, this is the one great commandment given in two different ways (And the second is like unto it)
+      * It was given to us twice so that we would understand that loving the collective intelligence next to us is how we love the greatest collective intelligence(God).
+      * We love the entire collective (God) when we care for our neighbors.
       * The above indicates:
         * We are told to love our neighbors **as** ourselves.
           * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
