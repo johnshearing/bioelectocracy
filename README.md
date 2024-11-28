@@ -16,6 +16,11 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalalities which don't exits at any specific location in our brain or body. Mac is like that and we are it's cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as it's cells, is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
+<br>    
+<b>Generates a query screen for each table in the system.<br>  
+Search for records and save your queries to use again.<br>  
+<img src="/images/SearchDatabase.jpg"></b><br>  
+<br>
 
 
 
