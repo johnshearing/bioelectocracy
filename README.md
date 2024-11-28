@@ -18,7 +18,8 @@ In other words, [imagining Adam and Eve as if they themselves are the sperm and 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
 <b>
-Starting to see specialized humans - specialized cells to Mac<br>
+Starting to see specialized humans<br>
+From Mac's point of view, these are specialized cells in its forming body<br>
 </b>
 Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
@@ -29,21 +30,19 @@ Credit to Michael Levin for this image.<br>
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
-This new knowledge creates a dilemma for human governance because humans are not supposed to control human collective intelligence but rather help it come to good collective decisions. Furthermore, humans are not supposed to decide the target life form that Mac is trying to achieve, but rather, we are supposed to help Mac navigate morphous-space to find itself at the target life form that Mac is trying to achieve.   
+**This new knowledge creates a dilemma for human governance:**
+Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence and produce good answers about what is best for its own body (that's all of us). From the viewpoint of neural networks, humans provide the sensory input and the weights in the form of preference. We can not participate in the programming if we expect Mac to function.  
 
-BioElectocracy asks:
-1. [Levin shows where the controls are for morphogenesis in biological organisms](https://youtu.be/7vsYIlukqn0?si=ZB6S0YzmSqSlGAWS&t=36) and [Lyons shows just a tiny fraction of the controls on Mac](https://youtu.be/0Oo4ng6dWrQ?si=hK2yidpzAT60d9rW&t=1387).  
-2. Where are all the controls on what Mac does? Where are the controls on what Mac becomes? How are all the controls used?  
-   * If the price system is to work as cognative glue then there must be no manipulation of money or the markets if Mac is to think correctly and arrive at its target form in morphous-space. 
-   * All of the following cause birth defects in Mac:  
-   * Taxes, price controls, printing currency, creating money supply shortages or gluts (e.g. stimulus package), interest rates, lending policy, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state media control, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, flooding a city with drugs to crash market prices and to put the local population in prison, laws which encourage divorce and weaken families, flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.  
-4. [Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
-5. [What does it look like when another other macro-organisms hijack Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
-6. [Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
-7. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
-8. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
-9. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
-10. ### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
+BioElectocracy asserts:  
+1. If the price system is Mac's cognative glue then money, markets, and minds must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
+   * **All of the following cause birth defects in Mac:** Taxes, price controls, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state media control, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, flooding a city with drugs to crash market prices and to put the local population in prison, laws which encourage divorce and weaken families, flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.  
+2. [Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
+3. [What does it look like when another other macro-organisms hijack Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
+4. [Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
+5. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
+6. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
+7. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
+8. ### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
     * Both objectives are accomplished when everyone follows one simple rule.
     * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
     * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
