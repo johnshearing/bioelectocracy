@@ -18,7 +18,7 @@ In other words, [imagining Adam and Eve as if they themselves are the sperm and 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
 <b>
-Starting to see specialized humans<br>
+Starting to see specialized humans - specialized cells to Mac<br>
 </b>
 Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
