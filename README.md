@@ -5,19 +5,19 @@
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation on which this project stands 
 
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
-[See this video](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
+[See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
 Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
-[See this video](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
+[See this video: The Price System As Cognitive gGlue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 
 [Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
-In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being.  
-**Lets call this human collective being a macro-organism and lets call it Mac for short.**  
-BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership.  
-This is easier to imagine when you consider that many humans smoke cigarettes and consume sugar when both are irritating to the cells in the short term and will kill all the cells if enough is consumed in the long term.  
-BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as it's cells, is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
+In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalalities which don't exits at any specific location in our brain or body. Mac is like that and we are it's cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as it's cells, is to help Mac navigate the obstacles in morphous-space so it may reach it's desired (target) form.  
+
+In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
+
+
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
