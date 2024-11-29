@@ -276,8 +276,13 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 > * Give us day by day our daily bread.
 > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
-Of course we can't see God, he appears to us in miracles.  
-But most people are blind to these even though God showers endless miracles upon each and every one of us constantly.  
+Of course we can't see God, he appears to us, not as a person, but in miracles.   
+Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that problems are continualy being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to these miracles even though God showers endless miracles upon each and every one of us in every moment.  
+Jesus explained this to Philip as follows:
+> John 14:8-10 King James Version
+> * Philip saith unto him, Lord, show us the Father, and it sufficeth us.
+> * Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
+> * Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
 
 
 
