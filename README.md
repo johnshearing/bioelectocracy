@@ -18,8 +18,8 @@ In other words, [imagining Adam and Eve as if they themselves are the sperm and 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
 <b>
-Starting to see specialized humans<br>
-From Mac's point of view, these are specialized cells in its forming body<br>
+We are starting to see specialized humans<br>
+From Mac's point of view, these are specialized cells forming in Mac's new body<br>
 </b>
 Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
@@ -31,7 +31,7 @@ Credit to Michael Levin for this image.<br>
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
 **This new knowledge creates a dilemma for human governance:**
-Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence and produce good answers about what is best for its own body (that's all of us). From the viewpoint of neural networks, humans provide the sensory input and the weights in the form of preference. We can not participate in the programming if we expect Mac to function.  
+Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence. From the viewpoint of neural networks, humans provide Mac's sensory input and the weights in the form of preference. We cannot also participate in Mac's programming if we expect Mac to produce good answers about what is best for its own body which also happens to be our home.  
 
 BioElectocracy asserts:  
 1. If the price system is Mac's cognitive glue then money, markets, and minds must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
@@ -82,29 +82,32 @@ BioElectocracy asserts:
             > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
             > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
             > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-          * Lending at interests is arguably the greatest cause of human suffering and the cause (identity) fits Levin's definition of cancer at the scale of macro-organism.
-             * The Central Banks
-               * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
-               * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
-               * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
-               * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
-               * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
-               * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
-             * Levin shows that the underlying cause of cancer is identity.
-             * The Cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity with all people that he felt for his own people (the Jewish people).
-             * So there is a clear link between cancer at the scale of macro-organism and the scope of group identity.
-             *  Note:
-               *  While I have chosen Christianity, I am Jewish by birth and love Jewish people as much as I love all other people.
-               *  **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
-               * Jesus warned against usury but it is still practiced by Christians.
-               * Usury is completely forbidden under Islamic law which may indicate that Muslims have the widest scope of "neighbor" in this category.
+          * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
+          * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.  
+          * Suffering Caused By The Central Banks:
+            * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
+            * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
+            * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
+            * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
+            * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
+            * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
+          * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
+          * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
+          * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
+          * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
+          * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
+          * **The Parable of The Good Samaritan is in the Bible to remind Christians to care for all people not just other Christians**
+          * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
           * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
-            * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
-            * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
-            * All forms of money, market, and mind manipulation will disappear as humans widen the scope of "neighbor".
+          * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
+          * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
+          * **All forms of money, market, and mind manipulation will disappear as humans widen the scope of "neighbor".**
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
   ### What form of Governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+
+Personal Note:
+While I have chosen Christianity, I am Jewish by birth and love all people regardless of group affilliation.  
 
 ---
 
