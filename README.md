@@ -104,8 +104,9 @@ BioElectocracy asserts:
           * **All forms of money, market, and mind manipulation will disappear as humans widen the scope of "neighbor".**
             
   ### The foundational questions we will be asking as we explore BioElectocracy is: 
-  ### What form of Governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
-  ### What form of Governance causes communities to solve problems locally with solutions that scale.
+  ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+  ### What form of governance causes communities to solve problems locally with solutions that scale.
+  ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response.
 
 ---
 
