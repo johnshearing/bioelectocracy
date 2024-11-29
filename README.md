@@ -50,7 +50,7 @@ BioElectocracy asserts:
     * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
     * This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
     * It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
-    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state without our needing to know what that target state is.
+    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state (heaven on earth for us) without our needing to know what that target state is.
     * > Matthew 22:36-40 King James Version, The Great Commandment
       > * Master, which is the great commandment in the law?
       > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
