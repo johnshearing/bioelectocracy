@@ -105,6 +105,7 @@ BioElectocracy asserts:
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
   ### What form of Governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+  ### What form of Governance causes communities to solve problems locally with solutions that scale.
 
 Personal Note:
 While I have chosen Christianity, I am Jewish by birth and love all people regardless of group affiliation.  
