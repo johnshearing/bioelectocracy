@@ -57,7 +57,7 @@ BioElectocracy asserts:
       > * This is the first and great commandment.
       > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
       > * On these two commandments hang all the law and the prophets.
-      * This is not two great commandments, this is the one great commandment given in two different ways (And the second is like unto it)
+      * This is not two great commandments, this is The One Great Commandment given in two different ways (And the second is like unto it).
       * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
       * We love the entire collective (God) when we care for our neighbors.
       * We are told to love our neighbors **as** ourselves.
@@ -98,9 +98,10 @@ BioElectocracy asserts:
                *  **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
                * Jesus warned against usury but it is still practiced by Christians.
                * Usury is completely forbidden under Islamic law which may indicate that Muslims have the widest scope of "neighbor" in this category.
-          * **Usury is not evil, it's cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
+          * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
             * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
             * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
+            * All forms of money, market, and mind manipulation will disappear as humans widen the scope of "neighbor".
             
   ### The foundational question we will be asking as we explore BioElectocracy is: 
   ### What form of Governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
@@ -273,6 +274,9 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
 > * Give us day by day our daily bread.
 > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
+
+Of course we can't see God, he appears to us in miracles.  
+But most people are blind to these even though God showers endless miracles upon each and every one of us constantly.  
 
 
 
