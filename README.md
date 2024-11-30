@@ -136,6 +136,9 @@ The following proverb will be my guide.
 
 Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version
 
+What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).
+My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).
+
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
 Structure (B) must notice that structure (A) has changed, so a small transfer of energy from (A) To (B) must be required to move information but that is not all that is required.  
