@@ -230,6 +230,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://www.youtube.com/watch?v=7vsYIlukqn0&t=60s">A Bioelectric Interface to the Collective Intelligence of Agential Materials for Bioengineering - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://youtu.be/sViUqqkuTkA?si=_oAleBWmCzf8LLyp">Fixing cancer cells and Immortality - YouTube</A>
+        <DT><A HREF="https://youtu.be/YnObwxJZpZc">What are Cognitive Light Cones? - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
         <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
