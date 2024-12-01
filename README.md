@@ -162,7 +162,7 @@ The problem of not wanting to change or resistance to change.
 What type of attractor is human governance?  
 point attractors (a single stable point), limit cycle attractors (periodic oscillations), and strange attractors (complex, chaotic patterns) 
 
-All intelligence is collective intelligence.  
+[All intelligence is collective intelligence](https://youtu.be/YnObwxJZpZc?si=lnnk7VqOBz-127Bz&t=1074).  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
 information is a living think. Levin says "Thoughts are thinkers."
