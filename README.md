@@ -283,7 +283,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 Of course we can't see God, he appears to us, not as a person, but in miracles.   
-Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that problems are continualy being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to these miracles even though God showers endless miracles upon each and every one of us in every moment.  
+Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continualy being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to these miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
 Jesus explained this to Philip as follows:
 > John 14:8-11 King James Version
 > * Philip saith unto him, Lord, show us the Father, and it sufficeth us.
