@@ -13,7 +13,7 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 [Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
-In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales in the video](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that [Mac has a will (goals and desires) which are completely independent of its human membership](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalities which don't exist at any specific location in our brain or body. Mac is like that and we are its cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form.  
+In other words, [imagining Adam and Eve as if they themselves are the sperm and egg](https://youtu.be/lIHUWOv4nkE?si=QDRpbyfev-ueD6Qc&t=331), such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales in the video](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that [Mac has a will (goals and desires) which are completely independent of its human membership](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalities [which don't exist at any specific location in our brain or body](https://youtu.be/YnObwxJZpZc?si=BQdVh3ZMVOA2cU-L&t=1316). Mac is like that and we are its cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form.  
 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
@@ -165,8 +165,6 @@ point attractors (a single stable point), limit cycle attractors (periodic oscil
 [All intelligence is collective intelligence](https://youtu.be/YnObwxJZpZc?si=lnnk7VqOBz-127Bz&t=1074).  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
-[Our brains only carry a portion of our intelligence](https://youtu.be/YnObwxJZpZc?si=BQdVh3ZMVOA2cU-L&t=1316)
-
 information is a living think. Levin says "Thoughts are thinkers."
 
 About The Trinity 
@@ -208,6 +206,7 @@ Been wondering about the inteligence in evolution.
 Where does it come from.  
 We marvel at the intelligence of a single cell as it navigates morphous space to reach it's target form.  
 What if what we view as the evolution of man is really just morphegenesis of the human super-organism as it grows to it's target form.  
+[Here](https://youtu.be/YnObwxJZpZc?si=XvWyS9msxJg3RV9k&t=1485), Levin expresses evolution as morphogenisis of a higher scaled intelligence with a longer life span than our own.  
 
 Still, where is the target form image (the blueprint) that the human super-organism is reading?  
 What is the target form that the human super-organsim is trying to reach?
