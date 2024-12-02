@@ -150,6 +150,10 @@ Jesus wants us to know that when we lend our faith, it compounds with interest, 
 What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).  
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
 
+Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology
+[There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)
+[Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)
+
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
 Structure (B) must notice that structure (A) has changed, so a small transfer of energy from (A) To (B) must be required to move information but that is not all that is required.  
