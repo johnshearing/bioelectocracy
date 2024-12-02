@@ -153,6 +153,7 @@ My reason for thinking so is because that's what [the collective intelligence of
 Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
 [There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)  
 [Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)  
+[Levin's paper on relationship between zen and compassion](https://www.mdpi.com/1099-4300/24/5/710)
 
 psychedelics fda approval  
 [An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
@@ -250,6 +251,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://youtu.be/sViUqqkuTkA?si=_oAleBWmCzf8LLyp">Fixing cancer cells and Immortality - YouTube</A>
         <DT><A HREF="https://youtu.be/YnObwxJZpZc">What are Cognitive Light Cones? - YouTube</A>
+        <DT><A HREF="[https://youtu.be/YnObwxJZpZc](https://www.mdpi.com/1099-4300/24/5/710)">Levin's paper on relationship between zen and compassion</A>         
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
         <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
