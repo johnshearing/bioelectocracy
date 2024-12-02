@@ -154,6 +154,9 @@ Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu
 [There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)  
 [Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)  
 
+psychedelics fda approval  
+[An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
+
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
 Structure (B) must notice that structure (A) has changed, so a small transfer of energy from (A) To (B) must be required to move information but that is not all that is required.  
