@@ -134,7 +134,40 @@ The following proverb will be my guide.
   * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
   * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation (when the mind is quiet). If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
 
-Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version
+Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version   
+This is not a lesson about using money to multiply money.  
+This is a parable about using faith to multiply faith.  
+The minas represent spiritual resources (faith, love for God, and love for each other).  
+And people are expected to use these to create more faith, more love for God, and more love for each other.  
+This is not for God's benefit, it's for our benefit.  
+Near the end of the story, the king admonishes the servant who hid his mina rather than using it to create more wealth.
+"Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?" asked the king.
+Jesus against lending at interest, so you might wonder why he mentions interest in a positive light in The Parable of the Minas?
+It's because he is not really talking about money, he is talking about faith. 
+Jesus wants us to know that when we lend our faith, it compounds with interest.
+
+
+
+
+
+Theological Lessons:
+
+
+Each servant receives an equal initial amount (one mina), suggesting that everyone starts with comparable spiritual opportunities
+The servants' different responses demonstrate individual choice and initiative
+The final accounting represents divine judgment
+
+
+
+
+
+Theological Lessons:
+
+
+Each servant receives an equal initial amount (one mina), suggesting that everyone starts with comparable spiritual opportunities
+The servants' different responses demonstrate individual choice and initiative
+The final accounting represents divine judgment
+
 
 What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).
