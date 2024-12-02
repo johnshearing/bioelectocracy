@@ -140,37 +140,15 @@ This is a parable about using faith to multiply faith.
 The minas represent spiritual resources (faith, love for God, and love for each other).  
 And people are expected to use these to create more faith, more love for God, and more love for each other.  
 This is not for God's benefit, it's for our benefit.  
-Near the end of the story, the king admonishes the servant who hid his mina rather than using it to create more wealth.
-"Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?" asked the king.
-Jesus against lending at interest, so you might wonder why he mentions interest in a positive light in The Parable of the Minas?
-It's because he is not really talking about money, he is talking about faith. 
-Jesus wants us to know that when we lend our faith, it compounds with interest.
+Near the end of the story, the king admonishes the servant who hid his mina rather than using it to create more wealth.  
+"Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?" asked the king.  
+Jesus is against lending at interest as we see in [Luke 6:34-35](https://www.biblegateway.com/passage/?search=Luke%206%3A34-35&version=NIV).  
+So you might wonder why he mentions interest in a positive light in The Parable of the Minas?  
+It's because he is not really talking about money, he is talking about faith.  
+Jesus wants us to know that when we lend our faith, it compounds with interest, but in a way that benefits everyone, not just the lender.  
 
-
-
-
-
-Theological Lessons:
-
-
-Each servant receives an equal initial amount (one mina), suggesting that everyone starts with comparable spiritual opportunities
-The servants' different responses demonstrate individual choice and initiative
-The final accounting represents divine judgment
-
-
-
-
-
-Theological Lessons:
-
-
-Each servant receives an equal initial amount (one mina), suggesting that everyone starts with comparable spiritual opportunities
-The servants' different responses demonstrate individual choice and initiative
-The final accounting represents divine judgment
-
-
-What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).
-My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).
+What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).  
+My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
