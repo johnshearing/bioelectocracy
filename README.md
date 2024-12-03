@@ -107,6 +107,16 @@ BioElectocracy asserts:
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
   ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response.
 
+
+The problem of trust:
+Short term stress such as exercise is good for organisms.   
+Long term stress such as living in chronic fear or rage causes early death.   
+If Mac is to feel a sense of peace as this child develops, then its cells must have a sense of trust for each other.   
+This is true even if if there are no current physical stressors such as war or famine.  
+Citizens in the United States no longer trust our central bank controlled government (CBCG).  
+Our CBCG is a macro-organism too, although not has large as Mac. We know that the CBCG spreads war, famine, disease and instability in order to feed.  
+How can Blockchain Technology (AKA Trustless Technology) be used to restore trust at the citizen level and a sense of peace for Mac so that it can grow normally, and without becoming psychotic?  
+
 ---
 
 ---
@@ -157,6 +167,7 @@ Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu
 
 psychedelics fda approval  
 [An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
+
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
