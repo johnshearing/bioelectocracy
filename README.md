@@ -174,7 +174,9 @@ So underlying the passage of all information is relatioinship.
 
 Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.
 
-The problem of not wanting to change or resistance to change.
+The problem of not wanting to change or resistance to change.  
+
+There is no source of darkness.
 
 [The instructions for morphogenesis are not in the genes.](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771)
 
