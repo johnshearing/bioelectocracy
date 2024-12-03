@@ -108,14 +108,21 @@ BioElectocracy asserts:
   ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response.
 
 
-The problem of trust:
-Short term stress such as exercise is good for organisms.   
-Long term stress such as living in chronic fear or rage causes early death.   
+The Problem of Trust:
+Short term stress such as exercise promotes a long, health, happy life.   
+Long term stress such as living in chronic fear or rage causes early death due to poor health at the cellular level or self-destruction at the level of organism.   
 If Mac is to feel a sense of peace as this child develops, then its cells must have a sense of trust for each other.   
-This is true even if if there are no current physical stressors such as war or famine.  
-Citizens in the United States no longer trust our central bank controlled government (CBCG).  
-Our CBCG is a macro-organism too, although not has large as Mac. We know that the CBCG spreads war, famine, disease and instability in order to feed.  
-How can Blockchain Technology (AKA Trustless Technology) be used to restore trust at the citizen level and a sense of peace for Mac so that it can grow normally, and without becoming psychotic?  
+This is true even if if there are no current physical stressors such as war, famine or disease.  
+Citizens in the United States and the world no longer trust the **U.S. central bank controlled government** (USCBCG).  
+Our USCBCG is a macro-organism too, although not has large as Mac.  
+We know that the USCBCG spreads violence, famine, disease and instability throughout the world and the United States too in order to feed.  
+
+Possible Solutions:
+1. How can Blockchain Technology (AKA Decentralized Trustless Technology) be used as a better price system so as to restore trust for all governments at the citizen level and a sense of peace for Mac so that it can grow normally, without becoming sick, psychotic, and eventually destroying itself?  
+2. Can awareness and love for Mac at the citizen level be hardcoded into a our new decentralized trustless blockchain price system?
+3. How can Levin and Lyon's work be used to show that Mac is a living person that deserves care in its own right and that our lives depend on providing care for Mac?
+4. Same question as above for God.
+5. Is it possible to share each other's stress with out losing our own identities?
 
 ---
 
