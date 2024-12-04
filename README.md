@@ -198,11 +198,39 @@ If domino (B) is already laying down when domino (A) falls upon it then energy i
 If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.  
 So underlying the passage of all information is relatioinship.  
 
-Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.
+Only a small change in the voltage on the base terminal of a transitor creates a large change in the amount of current flowing between the collector and emitter terminals.  
 
 The problem of not wanting to change or resistance to change.  
 
-There is no source of darkness.
+There is no source of darkness.  
+
+
+Choosing the path of least resistance.  
+
+There seems to be a relationship between price equilibrium in ecconomics and impedance matching in electronics.  
+In both systems, we're essentially dealing with the optimization of power or value transfer:  
+
+Price Equilibrium:  
+Market price settles where supply and demand curves intersect  
+This point represents maximum economic efficiency  
+Maximum number of mutually beneficial transactions occur  
+Any deviation reduces the total economic value generated  
+
+
+Impedance Matching:  
+Occurs when source and load impedances are matched  
+Results in maximum power transfer  
+Any mismatch reduces power delivery efficiency  
+The load receives optimal power from the source  
+
+The key parallel is that both systems achieve maximum transfer (of value or power) when their respective "resistances" are matched:  
+In markets, the "resistance" is the price sensitivity of buyers and sellers  
+In electronics, it's the actual electrical impedance of components  
+
+When mismatched:  
+Markets experience deadweight loss (reduced transactions)  
+Circuits experience power reflection and reduced transfer  
+
 
 [The instructions for morphogenesis are not in the genes.](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771)
 
