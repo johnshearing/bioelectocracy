@@ -350,7 +350,11 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 </body>
 </html>
 
+How is it that Levin and Lipton have found the same results but interpret them so differently?  
 
+Does Levin give us a scientific foundation for understanding The Lord's Prayer?  
+Levin himself may not see the connection but that doesn't mean that no connection exists.  
+Polycomputing may explain the discrepency.  
 > Luke 11:1-4 King James Version
 > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
