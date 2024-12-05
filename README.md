@@ -1,8 +1,11 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: [Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)
-## Human Governance Based On Morphogenesis
+# BioElectocracy: 
+## Human Governance Based On Morphogenesis: Widening The Scope Of Neighbor
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation on which this project stands 
+## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
+## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866) 
+Understanding how congnition scales, understanding how the price system controls human collective cognition, how central banks control the price system, Why spreading fear and mistrust is a business model for the central banks. Building a decentralized price system and making the central banks irrelevant.  
 
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
