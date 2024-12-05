@@ -2,10 +2,18 @@
 
 # BioElectocracy: 
 ## Human Governance Based On Morphogenesis: Widening The Scope Of Neighbor
-#### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation on which this project stands 
+#### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation for this project
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
-## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866) 
-Understanding how cognition scales, understanding how the price system controls human collective cognition, how central banks control the price system, Why spreading fear and mistrust is a business model for the central banks. Building a decentralized price system and making the central banks irrelevant.  
+## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
+### Contents:  
+How Cognition Scales   
+How The Price System Controls Collective Cognition And Community Relationships  
+An Honest Unmanipulated Price System Always Seeks Optimum Conditions For All Humans According To Our Preferences  
+How The Central Banks Control The Price System   
+War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Control: The Central Bank Business Model  
+Education As Opposed To Indoctrination  
+Caring For The Price System Is How We Care For Each Other  
+Blockchain: Building An Honest Decentralized Price System Which Cannot Be Manipulated And Which Is Free Serve Humanity.  
 
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
