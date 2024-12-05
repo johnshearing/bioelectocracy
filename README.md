@@ -5,7 +5,7 @@
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation on which this project stands 
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866) 
-Understanding how congnition scales, understanding how the price system controls human collective cognition, how central banks control the price system, Why spreading fear and mistrust is a business model for the central banks. Building a decentralized price system and making the central banks irrelevant.  
+Understanding how cognition scales, understanding how the price system controls human collective cognition, how central banks control the price system, Why spreading fear and mistrust is a business model for the central banks. Building a decentralized price system and making the central banks irrelevant.  
 
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
@@ -16,7 +16,7 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 [Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
-In other words, imagining Adam and Eve as if they themselves are the sperm and egg, such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. [Levin discusses the how the whole can have a different adjenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalities which don't exist at any specific location in our brain or body. Mac is like that and we are its cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form. Humans don't need to know what form Mac is trying to assemble itself into in order to help Mac reach it's target. As we shall see, we all just need to follow one simple rule in order to help Mac reach its target form. While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being on which Mac is dependent.
+In other words, imagining Adam and Eve as if they themselves are the sperm and egg, such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own intelligent personalities which don't exist at any specific location in our brain or body. Mac is like that and we are its cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form. Humans don't need to know what form Mac is trying to assemble itself into in order to help Mac reach it's target. As we shall see, we all just need to follow one simple rule in order to help Mac reach its target form. While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being on which Mac is dependent.
 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
@@ -109,14 +109,14 @@ BioElectocracy asserts:
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
   ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response. 
-  ### Is it possible to share each other's stress with out losing our own identities and our own agency?
+  ### Is it possible to share each other's stress without losing our own identities and our own agency?
   ### The Problem of Trust:
 Short term stress such as exercise promotes a long, healthy, happy life.   
 Long term stress such as living in chronic fear or rage causes poor health and early death.   
 If Mac is to develop normally, then it must feel safe and be free of anxiety as it grows.  
 That means that Mac's cells (that's us) must have a sense of trust for each other.   
 But how can we feel compassion for neighbors that we fear and do not trust.  
-Lack of trust may be the biggest obstacle to compassion and stress sharing and lack of trust his hurting Mac.  
+Lack of trust may be the biggest obstacle to compassion and stress sharing and lack of trust is hurting Mac.  
 This is by design.  
 Although not has large as Mac, our **U.S. central bank controlled government** (USCBCG) is a macro-organism too, and it must feed.  
 We know that the USCBCG spreads violence, famine, toxins, disease, fear, mistrust, and instability throughout the world and in the United States too in order to feed.    
@@ -131,7 +131,7 @@ Hate and fear are instigated by the central bank controlled governments so that 
 
 Possible Solutions To The Trust Problem:  
 1. How can Blockchain Technology (AKA Decentralized Trustless Technology) be used as a better price system so as to restore trust for all governments at the citizen level and a sense of peace for Mac so that it can grow normally, without becoming sick, psychotic, and eventually destroying itself?  
-2. Can awareness and love for Mac at the citizen level be hardcoded into a our new decentralized trustless blockchain price system?  
+2. Can awareness and love for Mac at the citizen level be hardcoded into our new decentralized trustless blockchain price system?  
 3. How can Levin and Lyon's work be used to show that Mac is a living person that deserves care in its own right and that our lives depend on providing care for Mac?  
 4. Same question as above for God.  
 
