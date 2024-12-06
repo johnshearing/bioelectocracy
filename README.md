@@ -10,9 +10,9 @@
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
-The Price System Is A Conscious Living Being And It's Our Home  
+The Price System Is A Conscious Living Being. Its Body Is Our Home  
 Caring For The Price System Is How We Care For Each Other  
-Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Provide Honest Answers   
+Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question   
 
 
 ## Abstract  
