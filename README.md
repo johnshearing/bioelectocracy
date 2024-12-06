@@ -7,7 +7,7 @@
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
 ### Contents:  
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
-[Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
+[Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
 The Price System Is A Conscious Living Being And It's Our Home  
 Caring For The Price System Is How We Care For Each Other  
