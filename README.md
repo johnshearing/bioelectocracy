@@ -9,8 +9,9 @@
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#how-cognition-scales)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
+The Price System Is A Conscious Living Being And It's Our Home  
 Caring For The Price System Is How We Care For Each Other  
-Blockchain: Building An Honest Decentralized Price System Which Cannot Be Manipulated And Which Is Free To Think For Itself  
+Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Provide Honest Answers   
   
 
 ## How Cognition Scales
@@ -169,6 +170,15 @@ The following proverb will be my guide.
   * The above indicates that the intelligence, the competencies, and the plan are stored in the collective intelligence rather than in the individual and that the individual is to trust in the collective intelligence.
   * We are **not** being told to trust the collective intelligence which is Mac, but rather the collective intelligence that sits at the very top - the one made from all the smaller collective intelligences. This is God.
   * Many will ask how one can know what path God is asking us to follow. That's easy - it's the choice that feels most like love and kindness during prayer and meditation (when the mind is quiet). If none of your choices feel loving or kind then your mind is not quite enough. God will never send you a thought that doesn't feel loving and kind. Sit longer until your mind is quiet enough to hear what God is saying to you.
+  * 
+
+> Matthew 5:43-48 King James Version
+> * Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
+> * But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
+> * That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
+> * For if ye love them which love you, what reward have ye? do not even the publicans the same?
+> * And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
+> * Be ye therefore perfect, even as your Father which is in heaven is perfect.  
 
 Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version   
 This is not a lesson about using money to multiply money.  
