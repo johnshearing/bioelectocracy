@@ -6,24 +6,16 @@
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
 ### Contents:  
+[Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
 The Price System Is A Conscious Living Being And It's Our Home  
 Caring For The Price System Is How We Care For Each Other  
 Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Provide Honest Answers   
-  
 
-## How Cognition Scales
-Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
-[See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
-## Unmanipulated Price Systems Seek Preferred Conditions For All Individuals
-Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
-[See this video: The Price System As Cognitive gGlue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
-
-[Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
-
+## Abstract  
 **BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis.  
 In other words, considering the first humans as sperm and egg, and all of us as the resulting cells which continue to multiply and to self-assemble into a single larger organism. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy considers Mac a conscious being with a will (preferences and goals) which are completely independent of its human membership. [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own consciousness which doesn't exist at any specific location in our brain or body. If our cells could think and speak they would likely consider the entire body as their country in a larger geopolitical world, and they would likely think of Mac as their governance or collective decision making process. But at our scale of consciousness, we see ourselves not as governance, but as living beings with thoughts and feelings. Moreover, evolution has put in us a love for our own bodies (or cells). BioElectocracy sees Mac like that conssciousness and sees us as the cells of Mac's body. Mac has been created by evolution to love us. BioElectocracy further considers that Mac is trying to self-assemble itself into a specific (target) life form, and it's the life form that makes the best home for all of us. Our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired form. The few cells that start our journey to become a mature and happy human do not have any idea what they are trying to make. The information to make a human is defined by the few simple things that cells can do and in the structure created by the relationship between the cells. Humans don't need to know what form Mac is trying to assemble itself either into in order to help Mac reach it's target life form. As we shall see, we all just need to follow one simple rule in order to help Mac reach its target form. While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem). Collectively, we need to recognize Mac (our price system) as a living thing and care for it if we are to survive as a species. We do this by following one simple rule which can be enforced through the price system itself.
 
@@ -37,8 +29,17 @@ Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
 <br>  
 <br>
+  
 
+## How Cognition Scales
+Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
+[See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
+## Unmanipulated Price Systems Seek Preferred Conditions For All Individuals
+Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
+[See this video: The Price System As Cognitive gGlue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
+
+[Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 [Lyon's price system](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
