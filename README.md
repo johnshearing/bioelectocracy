@@ -6,26 +6,25 @@
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
 ### Contents:  
-[How Cognition Scales](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#how-cognition-scales)     
-[An Unmanipulated Price System Seeks Optimum Conditions For All Individuals According To Our Preferences](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#an-unmanipulated-price-system-seeks-optimum-conditions-for-all-individuals-according-to-our-preferences)  
-How The Central Banks Control The Price System   
-War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Control: The Central Bank Business Model  
-Education As Opposed To Indoctrination  
+[How Cognition Scales](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#how-cognition-scales)  
+[Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/edit/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
+War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
 Caring For The Price System Is How We Care For Each Other  
-Blockchain: Building An Honest Decentralized Price System Which Cannot Be Manipulated And Which Is Free Serve Humanity.  
+Blockchain: Building An Honest Decentralized Price System Which Cannot Be Manipulated And Which Is Free To Think For Itself  
+  
 
 ## How Cognition Scales
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [See this video on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
-## An Unmanipulated Price System Seeks Optimum Conditions For All Individuals According To Our Preferences
+## Unmanipulated Price Systems Seek Preferred Conditions For All Individuals
 Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
 [See this video: The Price System As Cognitive gGlue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 
 [Their joint paper: Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence](https://osf.io/preprints/osf/3fdya)  
 
 **BioElectocracy** imagines the collective of all humans to be one single very young organism in the process of morphogenesis.  
-In other words, imagining Adam and Eve as if they themselves are the sperm and egg, such that a collective of humans has been created that continue to reproduce and to self-assemble into a single larger organism where each human is considered a single cell of this larger collective being. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own consciousness which doesn't exist at any specific location in our brain or body. Mac is like that and we are its cells. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form. Humans don't need to know what form Mac is trying to assemble itself into in order to help Mac reach it's target. As we shall see, we all just need to follow one simple rule in order to help Mac reach its target form. While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being on which Mac is dependent.
+In other words, imagining Adam and Eve as if they themselves are the sperm and egg, and all of us the resulting cells which continue to multiply and to self-assemble into a single larger organism. **Lets call this human collective being a macro-organism and lets call it Mac for short.** [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). BioElectocracy imagines that Mac has a will (goals and desires) which are completely independent of its human membership. [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153). This is easier to imagine when you consider that we humans can run a long race when our cells are begging for rest. [This short story](https://johnshearing.github.io/where_is_john/index.html) contemplates our own consciousness which doesn't exist at any specific location in our brain or body. Mac is like that conssciousness and we are the cells of Mac's body. BioElectocracy further imagines that Mac is trying to self-assemble itself into a specific (target) life form, and that our job, as its cells, is to help Mac navigate the obstacles in morphous-space so it may reach its desired (target) form. Humans don't need to know what form Mac is trying to assemble itself into in order to help Mac reach it's target. As we shall see, we all just need to follow one simple rule in order to help Mac reach its target form. While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem).
 
 In human years, I imagine Mac to be about 14 days old. This is when the cells start to specialize.
 <br>    
