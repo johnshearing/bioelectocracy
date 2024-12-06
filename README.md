@@ -1,7 +1,7 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # BioElectocracy: Widening The Scope Of Neighbor
-## Human Governance Based On Morphogenesis: 
+## Governance Based On Morphogenesis: 
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
