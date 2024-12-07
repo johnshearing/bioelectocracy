@@ -10,7 +10,7 @@
 [Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
-War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model  
+[War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
 The Price System Is A Conscious Living Being. Its Body Is Our Home  
 Caring For The Price System Is How We Care For Each Other  
 Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question   
