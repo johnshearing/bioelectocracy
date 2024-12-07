@@ -378,6 +378,10 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php">All Wars Are Bankers' Wars: Read as a webpage</A>
         <DT><A HREF="https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf">All Wars Are Bankers' Wars: Read as a PDF</A>
         <DT><A HREF="https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf">The Creature From Jekyll Island: Read as a PDF on Internet Archive</A>
+        <DT><A HREF="https://www.youtube.com/live/x61BoNdjtic?si=MBPF3fLUxHi02_PX&t=1674">Charles Hoskinson Opening Address - YouTube</A>
+        <DT><A HREF="https://www.youtube.com/live/x61BoNdjtic?si=N1Tq_sx4rwYSPtTJ&t=7254">Charles Hoskinson Final Address - YouTube</A>
+
+          
     </DL><p>
 </DL><p>
 </body>
