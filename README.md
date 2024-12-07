@@ -119,7 +119,7 @@ BioElectocracy asserts:
           * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
           * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
           * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
-          * **All forms of money, market, and mind manipulation will disappear as humans widen the scope of "neighbor".**
+          * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
