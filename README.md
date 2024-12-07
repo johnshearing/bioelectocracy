@@ -3,7 +3,7 @@
 # BioElectocracy: Widening The Scope Of Neighbor
 ## Better Governance Based On Morphogenesis: 
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
-#### Neither Levin nor Lyons have endorsed any ideas in this paper about what their work means or how it might be applied 
+#### Neither Levin nor Lyons have endorsed how their work was used in this paper 
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
 ### Contents:  
