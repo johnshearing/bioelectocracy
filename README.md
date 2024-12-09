@@ -423,7 +423,14 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 </body>
 </html>
 
-How is it that Levin and Lipton have found the same results but interpret them so differently?  
+[Levin says you can only determine if something is intelligent if you ask the right questions at test for it.](https://youtu.be/gDWxCkngQNQ?si=589DVEbDrvcj1vN3&t=2645)  
+Levin is not willing to ask God himself any questions to see if he is indeed intelligent and who he is.  
+I don't fault Levin for at all. We all have different journeys. I think however, that our relationship with God is very closely linked to the primary question which drives Levin to do such wonderful work:  
+How can we increase the scope of what beings we care about.  
+But I did ask. First I asked in an ignorant way and later in a more humble way.  
+[God did indeed answer back, and it turns out that he is infinitly loving, kind, and funny.](https://johnshearing.github.io/everyone_gets_out_alive/index.html)  
+One of the things God lead me to understand, is that the way we love him is by caring for each other.  
+Perhaps one of the best ways to care for each other is to care for the living price system which controls the scope of who is our neighbor.  
 
 Does Levin give us a scientific foundation for understanding The Lord's Prayer?  
 Levin himself may not see the connection but that doesn't mean that no connection exists.  
