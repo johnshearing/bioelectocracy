@@ -6,6 +6,7 @@
 #### Neither Levin nor Lyons have endorsed how their work was used in this paper 
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
+
 ### Contents:  
 [Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
@@ -17,10 +18,18 @@ Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To
 
 
 ## Abstract  
+[Video: Michael Levin imagines a being with a big enough mind and with enough compassion to care for every human in a very personal way](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
+[Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
+[Their Joint Paper: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
+So why don't we feel cared for? Why are so many afraid and suffering?  
+[Video: The Price System Has Been Kidnapped By The Blob](https://x.com/MikeBenzCyber/status/1838448979799085456)  
+[Video: Freeing The Price System]()
+
+
 **BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis. In other words, we consider the first humans as sperm and egg, and all of us as the resulting cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
 [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). 
 
-We consider Mac a conscious being with a will (preferences and goals) which are completely independent of its human membership. This is easier to imagine when you consider that we humans can run a long race while our cells are begging for rest.  
+We consider Mac a conscious being with a will (preferences and goals) which are completely independent of its human membership. This is easier to imagine when you consider that we humans can run a long race while our cells are begging for rest or we can eat a scalding hot slice of pizza even though it burns the cells in our mouths. Closer to Mac's scale of existence contemplate governments which regularly send young men to fight profitable wars even though very few of the men wish to fight.     
 [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153).  
 
 If our cells could think and speak they would likely consider the entire body as their country in a larger geopolitical world, and they would likely think of Mac as their governance or collective decision making process. But at our scale of consciousness, we see ourselves not as governance, but as living beings with thoughts and feelings. Moreover, evolution has given us a love for our own bodies which resolves to a love for our own cells. We view Mac like that consciousness and see ourselves as the cells of Mac's body. There is reason to think Mac has been created via evolution to care for us in the same way that we were created via evolution to care for the cells of our own bodies.  
@@ -33,7 +42,6 @@ The following is from Wikipedia about Bruce Lipton:
 > Bruce Harold Lipton is an American writer and lecturer whose work has been dismissed by some peers as pseudoscience.[1] By his own admission, his ideas have not received attention from mainstream science.[2] He has not published original scientific research in a peer-reviewed medical journal in 30 years.
 
 [Denis Nobel also made this point but was able to survive a purge from academia.](https://youtu.be/AJjIlu9tem8?si=j-Z8OcD0EoR2wny6&t=1235)  
-
 
 In any case, the genome is only a recipe book for making all our proteins but it contains no information about what organs are to be made or where they will be placed. Some of the information to make a human is defined by the few simple things that cells can do (their competencies). The rest of the information is stored in the structure created by the bioelectric relationships between the cells (the bioelectric circuits).  
 [Levin uses Conway's Game of Life to give us an intuitive understanding of where the information for morphogenesis is stored](https://youtu.be/whZRH7IGAq0?si=-k3-gzROJq8BpVbO&t=1765)  
