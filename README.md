@@ -424,13 +424,26 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 </html>
 
 [Levin says you can only determine if something is intelligent if you ask the right questions at test for it.](https://youtu.be/gDWxCkngQNQ?si=589DVEbDrvcj1vN3&t=2645)  
-Levin is not willing to ask God himself any questions to see if he is indeed intelligent and who he is.  
-I don't fault Levin for at all. We all have different journeys. I think however, that our relationship with God is very closely linked to the primary question which drives Levin to do such wonderful work:  
-How can we increase the scope of what beings we care about.  
+Levin is not willing to ask God any questions (at least in public) to see if he (God) is indeed intelligent, and what he is like. I don't fault Levin for at all for avoiding the question. No doubt, Levin's work would not be funded if he publicly reached out to God. We all have different journeys and I appreciate all the light Levin's work brings to humanity. I think however, that our relationship with God is very closely linked to the primary question which drives Levin to do such wonderful work:  
+*How can we increase the scope of what beings we care about*.  
 But I did ask. First I asked in an ignorant way and later in a more humble way.  
 [God did indeed answer back, and it turns out that he is infinitly loving, kind, and funny.](https://johnshearing.github.io/everyone_gets_out_alive/index.html)  
-One of the things God lead me to understand, is that the way we love him is by caring for each other.  
-Perhaps one of the best ways to care for each other is to care for the living price system which controls the scope of who is our neighbor.  
+One of the things God lead me to understand, is that he himself is a collective intelligence. God explained to me (not in words but rather by demonstration) that he is much like us but with an important difference - God is so intelligent that he knows us idividually where as we can only know something about our cells but nothing about them as individuals.  
+[Now listen to Levin talk about imagining if we could communicate with our own organs and cells](https://youtu.be/gDWxCkngQNQ?si=7wZsS2cxOJaW26fO&t=3937)    
+I cannot listen to the above recording without wondering if Levin knows God too.  
+In anycase, God showed me that the way we love him is by caring for each other.  
+Levin asks us to increase the scope of the types of intelligences that we care about.  
+He seems to be referring to intelligences that we can perceive at our scale of life such has other humans, a.i. intelligent animals, cyborgs, swarms and more.  
+But the greatest compassion we can show to all humans is to look up the scale of collective intelligence towards God.  
+If we do, the first collective intelligence we will encounter is Mac (our price system).  
+We should care for Mac. Caring for Mac is how we care for each other.  
+If we love Mac; if we act as its simple sensory inputs and provide honest weights with our own individual preferences which we broadcast by the way we as individuals spend our time, attention, and money; if we refuse to allow the price system to be manipulated; then Mac will reach its desired target form, and that is the best possible home for humans according to our own preferences.  
+
+God commands us to love our neighbors as we love ourselves, and a lawyer asked Jesus "Who is my neighbor?"  
+Jesus made clear that whoever needs care is our neighbor.  
+Mac needs our care now. This is how we care for God.  
+Protecting our price system from manipulation is how we care for each other.  
+
 
 Does Levin give us a scientific foundation for understanding The Lord's Prayer?  
 Levin himself may not see the connection but that doesn't mean that no connection exists.  
