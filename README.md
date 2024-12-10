@@ -22,8 +22,8 @@ Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 [Their Joint Paper: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
 So why don't we feel cared for? Why are so many afraid and suffering?  
-[Video: The Price System Has Been Kidnapped By The Blob](https://x.com/MikeBenzCyber/status/1838448979799085456)  
-[Video: Freeing The Price System]()
+[Video: The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
+[Video: Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
 
 
 **BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis. In other words, we consider the first humans as sperm and egg, and all of us as the resulting cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
