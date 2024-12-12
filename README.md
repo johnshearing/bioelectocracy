@@ -3,22 +3,12 @@
 # BioElectocracy: Widening The Scope Of Neighbor
 ## Better Governance Based On Morphogenesis: 
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
-#### Neither Levin nor Lyons have endorsed how their work was used in this paper 
+#### Neither Levin nor Lyons have endorsed how their work is used in this paper 
 ## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
 ## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
 
-### Contents:  
-[Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
-[How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
-[Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
-[War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
-The Price System Is A Conscious Living Being. Its Body Is Our Home  
-Caring For The Price System Is How We Care For Each Other  
-Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question   
-
-
-## Abstract  
-[Video: Michael Levin imagines a being with a big enough mind and with enough compassion to care for every human in a very personal way](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
+## Abstract:  
+[Video: Levin imagines a being with enough intelligence and compassion to care for every human](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 [Their Joint Paper: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
 So why don't we feel cared for? Why are so many afraid and suffering?  
@@ -26,7 +16,7 @@ So why don't we feel cared for? Why are so many afraid and suffering?
 [Video: Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
 
 
-**BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis. In other words, we consider the first humans as sperm and egg, and all of us as the resulting cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
+**BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis. In other words, we consider the first humans as sperm and egg, and all of us as the cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
 [Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454). 
 
 We consider Mac a conscious being with a will (preferences and goals) which are completely independent of its human membership. This is easier to imagine when you consider that we humans can run a long race while our cells are begging for rest or we can eat a scalding hot slice of pizza even though it burns the cells in our mouths. Closer to Mac's scale of existence contemplate governments which regularly send young men to fight profitable wars even though very few of the men wish to fight.     
@@ -77,6 +67,15 @@ Credit to Michael Levin for this image.<br>
 <br>  
 <br>
   
+### Contents:  
+[Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
+[How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
+[Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
+[War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
+The Price System Is A Conscious Living Being. Its Body Is Our Home  
+Caring For The Price System Is How We Care For Each Other  
+Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question  
+
 
 ## How Cognition Scales
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
