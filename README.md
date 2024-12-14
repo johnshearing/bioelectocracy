@@ -20,8 +20,8 @@ You could see a dog and think, "Oh! A collection of cells". You could then study
 Like the dog, there are many things that collections of humans do that you would never discover if you only study individual humans. Markets, Governments, Industries, Cities, Transportation and communication networks are all examples of the wonderful things that groups of humans create and operate but which no individual human knows all that much about. Again, like the dog, you don't control these collective human activities by controlling idividual humans. Rather these activities are controlled by setting group policy on minds, markets, and money. In other words, our leaders act upon the group as a whole using policy and then let the group command the individual humans to achieve the desired results.   
 
 Again, like the dog, there is one thing that groups of humans do as a collective animal which requires no training or manipulation at all - that is caring for individual humans.  
-*I am having trouble with the above statement because humans have been killing and enslaving since the beginning*
-*Prayer and meditation will be required before I can say anything constructive. So the rest below is just notes.*
+**I am having trouble with the above statement because humans have been killing and enslaving since the beginning.  
+Prayer and meditation will be required before I can say anything constructive. So the rest below is just notes.**  
 
 
 **BioElectocracy** sees the collective of all humans to be one single very young organism in the process of morphogenesis. In other words, we consider the first humans as sperm and egg, and all of us as the cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
