@@ -24,7 +24,7 @@ Again, like the dog that cares for its own cells without any training, there is 
 **BioElectocracy** is all about understanding how the unmanipulated price system causes all humans to collect into a single caring group, and how price system manipulation causes all humans to form competing groups that work to exploit, enslave, or kill the others. We seek to understand the controls on the price system, who is manipulating the controls, and how price system manipulation can be prevented.  
 
 Studying individual humans will tell us nothing about the price system. In order to see where the controls are, and who is at the controls, we need to view the collective of all humans as one single very young organism in the process of morphogenesis. In other words, we see the first humans as blastocyst, and all humans now as the cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
-[Levin talks about intelligence that scales](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454).  
+[Levin talks about intelligence that scales](https://youtu.be/gDWxCkngQNQ?si=CsjtkKHix5Ub3iac&t=4536)    
 
 In the same way we interact with dogs mind rather than with its individual cells, we consider Mac a mind with preferences and goals that are completely independent of its human membership. This way of looking at Mac allows us to see where the controls are.   
 [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153).  
@@ -261,7 +261,7 @@ My reason for thinking so is because that's what [the collective intelligence of
 Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
 [There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)  
 [Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)  
-[Levin's paper on relationship between zen and compassion](https://www.mdpi.com/1099-4300/24/5/710)
+[Levin's paper on relationship between zen and compassion](https://www.mdpi.com/1099-4300/24/5/710)  
 
 psychedelics fda approval  
 [An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
@@ -366,7 +366,7 @@ Been wondering about the inteligence in evolution.
 Where does it come from.  
 We marvel at the intelligence of a single cell as it navigates morphous space to reach it's target form.  
 What if what we view as the evolution of man is really just morphegenesis of the human super-organism as it grows to it's target form.  
-[Here](https://youtu.be/YnObwxJZpZc?si=XvWyS9msxJg3RV9k&t=1485), Levin expresses evolution as morphogenisis of a higher scaled intelligence with a longer life span than our own.  
+[Levin expresses evolution as morphogenisis of a higher scaled intelligence with a longer life span than our own.](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454)     
 
 Still, where is the target form image (the blueprint) that the human super-organism is reading?  
 What is the target form that the human super-organsim is trying to reach?
@@ -392,7 +392,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://www.youtube.com/watch?v=whZRH7IGAq0">Agency, Attractors, &amp; Observer-Dependent Computation in Biology &amp; Beyond - YouTube</A>
         <DT><A HREF="https://youtu.be/sViUqqkuTkA?si=_oAleBWmCzf8LLyp">Fixing cancer cells and Immortality - YouTube</A>
         <DT><A HREF="https://youtu.be/YnObwxJZpZc">What are Cognitive Light Cones? - YouTube</A>
-        <DT><A HREF="[https://youtu.be/YnObwxJZpZc](https://www.mdpi.com/1099-4300/24/5/710)">Levin's paper on relationship between zen and compassion</A>         
+        <DT><A HREF="https://www.mdpi.com/1099-4300/24/5/710">Levin's paper on relationship between zen and compassion</A>         
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
         <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
