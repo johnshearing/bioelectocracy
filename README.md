@@ -1,12 +1,9 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Widening The Scope Of Neighbor
-## Better Governance Based On Morphogenesis: 
+# BioElectocracy: Better Governance Based On Morphogenesis: 
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
-## It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
-## We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)  
-
+  
 ## Abstract:  
 [Video: Levin imagines a being with enough intelligence and compassion to care for every human](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
@@ -289,7 +286,6 @@ The problem of not wanting to change or resistance to change.
 
 There is no source of darkness.  
 
-
 Choosing the path of least resistance.  
 
 There seems to be a relationship between price equilibrium in ecconomics and impedance matching in electronics.  
@@ -321,6 +317,9 @@ Circuits experience power reflection and reduced transfer
 
 What type of attractor is human governance?  
 point attractors (a single stable point), limit cycle attractors (periodic oscillations), and strange attractors (complex, chaotic patterns) 
+
+It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)?
+We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)
 
 [All intelligence is collective intelligence](https://youtu.be/YnObwxJZpZc?si=lnnk7VqOBz-127Bz&t=1074).  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
