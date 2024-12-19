@@ -139,7 +139,8 @@ BioElectocracy asserts:
           * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
           * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
             > Exodus 22:25 New International Version (God is speaking to Moses)  
-            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.  
+            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
+            
             > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
             > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
             > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
@@ -149,7 +150,11 @@ BioElectocracy asserts:
             > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
             > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
           * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
-          * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.  
+          * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.
+          * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
+          * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
+          * **[The Parable of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) is in the Bible to remind Christians to care for all people not just other Christians**
+          * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
           * Suffering Caused By The Central Banks:
             * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
             * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
@@ -160,10 +165,6 @@ BioElectocracy asserts:
           * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
           * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
           * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
-          * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
-          * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
-          * **The Parable of The Good Samaritan is in the Bible to remind Christians to care for all people not just other Christians**
-          * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
           * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
           * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
           * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
