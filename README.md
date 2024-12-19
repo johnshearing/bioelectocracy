@@ -137,13 +137,13 @@ BioElectocracy asserts:
           * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
           * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
           * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
-          * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.
-            > Exodus 22:25 New International Version (God is speaking to Moses)
-            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
-            > Leviticus 25:35-37 New International Version (God is speaking to Moses)
-            > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
-            >  * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
-            >  * You must not lend them money at interest or sell them food at a profit.
+          * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
+            > Exodus 22:25 New International Version (God is speaking to Moses)  
+            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.  
+            > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
+            > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
+            > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
+            > * You must not lend them money at interest or sell them food at a profit.  
           * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
             > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
             > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
