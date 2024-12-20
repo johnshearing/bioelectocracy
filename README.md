@@ -101,74 +101,74 @@ Lyons' price system which tracks relative scarcity, seems to answer a lot of que
 Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence. From the viewpoint of neural networks, humans provide Mac's sensory input and the weights in the form of preference. We cannot also participate in Mac's programming if we expect Mac to produce good answers about what is best for its own body which also happens to be our home. If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
 **All of the following manipulations cause birth defects in Mac:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809),  flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, laws which encourage divorce and weaken families, flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.
      
-2. [Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)
-  * [Levin shows this very same phenomena at the cellular level where a wasp hijacks the morphogenesis of an oak leaf in order to make a nice home for its little wasp babies.](https://youtu.be/L5bQnyq4OtQ?si=PgSEKtotjGf1nERf&t=1686) 
-4. [What does it look like when another other macro-organisms hijack Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
-5. [Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
-6. How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
-7. [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
-8. [What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
-9. ### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
-    * Both objectives are accomplished when everyone follows one simple rule.
-    * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
-    * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
-    * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
-    * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
-    * This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
-    * It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
-    * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state (heaven on earth for us) without our needing to know what that target state is.
-    * > Matthew 22:36-40 King James Version, The Great Commandment
-      > * Master, which is the great commandment in the law?
-      > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
-      > * This is the first and great commandment.
-      > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
-      > * On these two commandments hang all the law and the prophets.
-      * This is not two great commandments, this is The One Great Commandment given in two different ways (And the second is like unto it).
-      * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
-      * We love the entire collective (God) when we care for our neighbors.
-      * We are told to love our neighbors **as** ourselves.
-        * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
-        * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-        * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) and in [this video](https://youtu.be/YnObwxJZpZc?si=WPy16qbGLEu6D2uC&t=2456) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
-        * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
-        * This is also very similar to [what Lyons describes in this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
-        #### Who Is My Neighbor? To Whom Do I Charge Interest? Mac's Morphogenesis (Humanity's Destiny) Hangs On This Question.
-          * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
-          * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
-          * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
-          * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
-          * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
-            > Exodus 22:25 New International Version (God is speaking to Moses)  
-            > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
-            
-            > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
-            > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
-            > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
-            > * You must not lend them money at interest or sell them food at a profit.  
-          * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
-            > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
-            > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
-            > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-          * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
-          * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.
-          * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
-          * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
-          * **[The Parable of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) is in the Bible to remind Christians to care for all people not just other Christians**
-          * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
-          * Suffering Caused By The Central Banks:
-            * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
-            * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
-            * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
-            * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
-            * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
-            * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
-          * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
-          * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
-          * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
-          * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
-          * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
-          * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
-          * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
+[Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)
+[Levin shows this very same phenomena at the cellular level where a wasp hijacks the morphogenesis of an oak leaf in order to make a nice home for its little wasp babies.](https://youtu.be/L5bQnyq4OtQ?si=PgSEKtotjGf1nERf&t=1686) 
+[What does it look like when another other macro-organisms hijack Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
+[Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
+How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
+[Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
+[What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
+### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?
+  * Both objectives are accomplished when everyone follows one simple rule.
+  * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
+  * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
+  * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
+  * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
+  * This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
+  * It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
+  * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state (heaven on earth for us) without our needing to know what that target state is.
+  * > Matthew 22:36-40 King James Version, The Great Commandment
+    > * Master, which is the great commandment in the law?
+    > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy [soul](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/#What_Is_The_Soul), and with all thy mind.
+    > * This is the first and great commandment.
+    > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
+    > * On these two commandments hang all the law and the prophets.
+    * This is not two great commandments, this is The One Great Commandment given in two different ways (And the second is like unto it).
+    * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
+    * We love the entire collective (God) when we care for our neighbors.
+    * We are told to love our neighbors **as** ourselves.
+      * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
+      * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
+      * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) and in [this video](https://youtu.be/YnObwxJZpZc?si=WPy16qbGLEu6D2uC&t=2456) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+      * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
+      * This is also very similar to [what Lyons describes in this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
+      #### Who Is My Neighbor? To Whom Do I Charge Interest? Mac's Morphogenesis (Humanity's Destiny) Hangs On This Question.
+        * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
+        * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
+        * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
+        * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
+        * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
+          > Exodus 22:25 New International Version (God is speaking to Moses)  
+          > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
+          
+          > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
+          > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
+          > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
+          > * You must not lend them money at interest or sell them food at a profit.  
+        * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
+          > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
+          > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
+          > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
+        * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
+        * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.
+        * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
+        * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
+        * **[The Parable of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) is in the Bible to remind Christians to care for all people not just other Christians**
+        * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
+        * Suffering Caused By The Central Banks:
+          * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
+          * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
+          * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
+          * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
+          * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
+          * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
+        * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
+        * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
+        * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
+        * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
+        * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
+        * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
+        * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
