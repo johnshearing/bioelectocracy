@@ -78,7 +78,7 @@ Credit to Michael Levin for this image.<br>
 ---  
   
 ### Contents:   
-[How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales-background-on-levins-work)  
+[How Cognition Scales: Background on Levin's Work](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales-background-on-levins-work)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 [War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
 The Price System Is A Conscious Living Being. Its Body Is Our Home  
@@ -86,7 +86,7 @@ Caring For The Price System Is How We Care For Each Other
 Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question  
 
 
-## How Cognition Scales: Background on Levin's Work.  
+## How Cognition Scales: Background on Levin's Work  
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [Video: Levin on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
