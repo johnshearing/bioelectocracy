@@ -57,7 +57,6 @@ The industries and institutions which make up the Blob cooperate in a symbiotic 
 How do we return control of the Price system to Mac? That is effectively the same thing as asking how do we end price system manipulation.  
 The answer is by transitioning to decentralized blockchain for money and finance, voting and governance, news and social media, identity management, and defense.  
 More on this as we proceed.  
-Before we continue we provide some more background on Levin and Lyons' work.  
 
 ---
 
@@ -76,7 +75,6 @@ Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
 <br>  
 <br>  
-
 ---  
   
 ### Contents:   
@@ -88,7 +86,7 @@ Caring For The Price System Is How We Care For Each Other
 Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question  
 
 
-## How Cognition Scales
+## How Cognition Scales: Background on Levin's Work.  
 Morphogenesis, according to Levin, is the process where a single fertilized egg creates a community of cells who work collectively and intelligently to build the target organism.  
 [Video: Levin on Morphogenesis](https://youtu.be/lIHUWOv4nkE?si=1yHTiE4H1V6J58Dy&t=210)  
 
