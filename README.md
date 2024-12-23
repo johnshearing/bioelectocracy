@@ -55,24 +55,31 @@ How does the Blob feed?
 The industries and institutions which make up the Blob cooperate in a symbiotic way so as to create the very problems that they were founded to solve. This ensures that all of the Blob's member industries and institutions will always be able to feed. This is why there is endless war for the weapons industry, endless scarcity to raise prices in the food and energy industries, endless drugs and crime for the police, prision, and justice industries, adequate law enforcement to increase scarcity and raise prices in the drugs and organized crime industry, biolabs and endless sickness to support the pharmaceutical industry, and so on.  Remember almost every person in all these industries are nice people that love their families and their communities. What they don't realize is that their communities are living price systems that exert enormous control over what its members think, feel, and do. 
 
 How do we return control of the Price system to Mac? That is effectively the same thing as asking how do we end price system manipulation.  
-The answer is by transitioning to decentralized blockchain money, voting, social media, and identity management.  
+The answer is by transitioning to decentralized blockchain for money and finance, voting and governance, news and social media, identity management, and defense.  
 More on this as we proceed.  
 Before we continue we provide some more background on Levin and Lyons' work.  
 
+---
+
 <br>    
-<b>
+<b>  
+How Old is Mac?<br>
+</b>  
 Specialized cells start to appear in human morphogenesis at about 14 days.<br>
 The diagram below indicates we are starting to see specialized humans in Mac's morphogenesis now.<br>
 From Mac's point of view, these specialized humans are specialized cells.<br>
 So in terms of human development, Mac is about 14 days old.<br>
-</b>
+Our job is to help Mac develope into a mature well formed macro-organism with no birth defects.<br>
+We do this by protecting the price system (Mac's cognitive glue) from being manipulated.
+
 Credit to Michael Levin for this image.<br>
 <img src="/images/MorphinMac.jpg">
 <br>  
-<br>
+<br>  
+
+---  
   
-### Contents:  
-[Abstract](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#abstract)  
+### Contents:   
 [How Cognition Scales](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 [War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
