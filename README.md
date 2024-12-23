@@ -1,6 +1,6 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Better Governance Based On Morphogenesis: 
+# BioElectocracy: Better Governance Based On [Morphogenesis](https://www.youtube.com/watch?v=lIHUWOv4nkE&t=210s): 
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
   
