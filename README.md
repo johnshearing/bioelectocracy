@@ -112,7 +112,7 @@ Humans cannot both control Mac's thinking and still expect Mac to function as a 
 [Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
 How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
 [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
-[What does cancer look like in Mac?](https://johnshearing.github.io/unseen_creatures_which_feed_on_humans/)  
+What does cancer look like in Mac?  
 ### How can the cure for cancer, which Levin has already discovered, be applied to the human macro-organism (Mac) and how can we help Mac reach its target form when no human knows what type of macro-organism Mac is trying to assemble itself into?  
   * Both objectives are accomplished when everyone follows one simple rule.
   * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
