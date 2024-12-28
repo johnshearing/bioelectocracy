@@ -54,7 +54,7 @@ The Blob is a collective intelligence as is Mac, but the Blob's scope of neighbo
 How does the Blob feed?  
 The industries and institutions which make up the Blob cooperate in a symbiotic way so as to create the very problems that they were founded to solve. This ensures that all of the Blob's member industries and institutions will always be able to feed. This is why there is endless war for the weapons industry, endless scarcity to raise prices in the food and energy industries, endless drugs and crime for the police, prision, and justice industries, adequate law enforcement to increase scarcity and raise prices in the drugs and organized crime industry, biolabs and endless sickness to support the pharmaceutical industry, and so on.  Remember almost every person in all these industries are nice people that love their families and their communities. What they don't realize is that their communities are living price systems that exert enormous control over what its members think, feel, and do. 
 
-How do we return control of the Price system to Mac? That is effectively the same thing as asking how do we end price system manipulation.  
+How do we return control of the Price system to Mac? That is effectively the same thing as asking "How do we end price system manipulation?"  
 The answer is by transitioning to decentralized blockchain for money and finance, voting and governance, news and social media, identity management, and defense.  
 More on this as we proceed.  
 
@@ -68,7 +68,7 @@ Specialized cells start to appear in human morphogenesis at about 14 days.<br>
 The diagram below indicates we are starting to see specialized humans in Mac's morphogenesis now.<br>
 From Mac's point of view, these specialized humans are specialized cells.<br>
 So in terms of human development, Mac is about 14 days old.<br>
-Our job is to help Mac develope into a mature well formed macro-organism with no birth defects.<br>
+Our job is to help Mac develop into a mature well formed macro-organism with no birth defects.<br>
 We do this by protecting the price system (Mac's cognitive glue) from being manipulated.
 
 Credit to Michael Levin for this image.<br>
@@ -103,7 +103,18 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 Lyons' price system which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
 **This new knowledge creates a dilemma for human governance:**  
-Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence. From the viewpoint of neural networks, humans provide Mac's sensory input and the weights in the form of preference. We cannot also participate in Mac's programming if we expect Mac to produce good answers about what is best for its own body which also happens to be our home. If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
+Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence. 
+Considering Mac in terms of neural networks and control systems, individual humans are supposed to:  
+1. provide Mac's sensory input by directing our attention to a particular subject,  
+2. provide the weights and set points by expressing our preferences with regard to the subject,  
+3. perceive how close the subject is to our preferences,  
+4. and do the processing by choosing how we spend our time, money, and effort, and by choosing our relationships so as to close the gap between the subject's current state and the preference.
+   
+If we did only these, Mac would find the most efficient way to give us all what we want.  
+But we cannot expect Mac to produce good answers about what is best for its own body, which also happens to be our best home according to our own preferences, when centralized authorities manipulate public attention, public preferences, and public perceptions.  
+If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
+
+
 **All of the following manipulations cause birth defects in Mac:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809),  flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.
      
 [Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
