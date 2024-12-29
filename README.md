@@ -103,23 +103,29 @@ Lyons theorized that collective intelligence at any scale from cellular morphoge
 Lyons' price system which tracks relative scarcity, seems to answer a lot of questions about where the controls are on any form of collective intelligence including Mac.  
 
 **This new knowledge creates a dilemma for human governance:**  
-Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence. 
-Considering Mac in terms of neural networks and control systems, individual humans are supposed to:  
-1. provide Mac's sensory input by directing our attention to a particular subject,  
-2. provide the weights and set points by expressing our preferences with regard to the subject,  
-3. perceive how close the subject is to our preferences,  
-4. and do the processing by choosing how we spend our time, money, and effort, and by choosing our relationships so as to close the gap between the subject's current state and the preference.
+Humans cannot both control Mac's thinking and still expect Mac to function as a collective intelligence.   
+
+Considering Mac in terms of neural networks and control systems, unmanipulated individual humans are supposed to:  
+1. Provide Mac's sensory input by directing our attention to a particular subject,  
+2. Provide the weights and set points by expressing the strength of our preferences with regard to the subject,  
+3. Perceive how close the subject is to our preferences and determine if action is required,  
+4. Do the processing by choosing how we spend our time, money, attention, and effort, and by choosing our relationships so as to close the gap between the subject's current state and the preference.  
    
-If we did only these, Mac would find the most efficient way to give us all what we want.  
-But we cannot expect Mac to produce good answers about what is best for its own body, which also happens to be our best home according to our own preferences, when centralized authorities manipulate public attention, public preferences, and public perceptions.  
-If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space.  
+If we, as unique unmanipulated individuals, did only this, Mac would find the most efficient way to give us all what we want.  
 
+Wasp Enslaves Oak Tree:  
+[Levin shows one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216) 
 
-**All of the following manipulations cause birth defects in Mac:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809),  flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.
+Central banks and supporting blob enslave Mac:  
+[Mike Benz shows one macro-organism hijacking the morphogenesis of another macro-organism](https://x.com/MikeBenzCyber/status/1859468415070576815)  
+
+We cannot expect Mac to turn itself into all that we would ask for when the central banks and supporting blob manipulate public attention, public preferences, and public perceptions. This is why Mac is becoming a wonderful home for the central banks and supporting blob rather than a wonderful home for all of us individual humans. If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its natural target form in morphous-space.  
+
+**All of the following manipulations cause defects in Mac which serve the central authorities:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809),  flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.
      
-[Levin shows an example of one organism hijacking the morphogenesis of another organism.](https://youtu.be/7vsYIlukqn0?si=mC_nYKDYxDUoFILR&t=2216)  
+ 
 [Levin shows this very same phenomena at the cellular level where a wasp hijacks the morphogenesis of an oak leaf in order to make a nice home for its little wasp babies.](https://youtu.be/L5bQnyq4OtQ?si=PgSEKtotjGf1nERf&t=1686)  
-[What does it look like when another other macro-organisms hijack Mac's morphogenesis?](https://x.com/MikeBenzCyber/status/1859468415070576815)  
+
 [Who already knows where the controls are and is already using them to control Mac's behavior and to hijack Mac's morphogenesis?](https://x.com/JamesMelville/status/1602551782227558400)   
 How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part?  
 [Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
