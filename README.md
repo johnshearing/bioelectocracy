@@ -1,7 +1,7 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Better Governance Based On [Morphogenesis](https://www.youtube.com/watch?v=lIHUWOv4nkE&t=210s): 
-#### Widening the Scope of Neighbor
+# BioElectocracy: Better Governance Based On [Morphogenesis](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
+### [Widening the Scope of Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
   
