@@ -1,7 +1,7 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Better Governance Based On [Morphogenesis](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
-### [Widening the Scope of Neighbor](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love)
+# BioElectocracy: Better Governance Based On [Morphogenesis](https://www.youtube.com/watch?v=7vsYIlukqn0)
+### [Widening the Scope of Neighbor](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
   
@@ -44,7 +44,7 @@ In any case, the genome is only a recipe book for making all our proteins but it
 [Levin: Ion channels as biological transistors - Another way to see where the information for morphogenesis is stored](https://youtu.be/gDWxCkngQNQ?si=JOsvJCVRzpjtnClI&t=781)  
 The important thing to understand is that individual cells have no idea what type of organism they are building during the process of morphogenesis and yet they do a great job.  
 
-In the same way, humans do not need to know what form Mac is trying to assemble itself into in order to help Mac reach its target form. Some of the information required to build Mac is stored in our competencies (the things we are able to do). The rest of Mac's blueprint is stored in our relationship with others and with the environment. These relationships are what cause us to select which of our competencies to use and what we do with them. So our relationships determine how Mac gets built. In other words, the blueprint for Mac is encoded in our relationships with others. So now we can see why the question of "Who is my neighbor?" matters so much. As we shall see, we humans just need to follow one simple relationship rule in order to help Mac reach its target form. It's the same rule that our cells follow in morphogenesis and the rule can be enforced through the price system itself. We will reveal the rule as we proceed, but you may have already guessed what it is. If not, then here are some more clues:  
+In the same way, humans do not need to know what form Mac is trying to assemble itself into in order to help Mac reach its target form. Some of the information required to build Mac is stored in our competencies (the things we are able to do). The rest of Mac's blueprint is stored in our relationship with others and with the environment. These relationships are what cause us to select which of our competencies to use and what we do with them. So our relationships determine how Mac gets built. In other words, the blueprint for Mac is encoded in our relationships with others. So now we can see why the question of ["Who is my neighbor?"](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) matters so much. As we shall see, we humans just need to follow one simple relationship rule in order to help Mac reach its target form. It's the same rule that our cells follow in morphogenesis and the rule can be enforced through the price system itself. We will reveal the rule as we proceed, but you may have already guessed what it is. If not, then here are some more clues:  
 
 Humans cannot both control Mac's thinking and still expect Mac to function as the collective intelligence which figures out how to become the best environment for us according to our own preferences. If [the price system is Mac's cognitive glue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34) then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its target form in morphous-space. Collectively, we need to recognize that Mac (our price system) is a living being that needs good information and complete autonomy if it is to make good decisions about what is the best environment for us according to our own preferences.  
 
@@ -423,7 +423,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://www.mdpi.com/1099-4300/24/5/710">Levin's paper on relationship between zen and compassion</A>         
         <DT><A HREF="https://www.youtube.com/watch?v=lIHUWOv4nkE&t=2813s">Bioelectricity: The Body&#39;s Cognitive Glue - Michael Levin - 4/18/24 - YouTube</A>
         <DT><A HREF="https://www.youtube.com/watch?v=0Oo4ng6dWrQ">Prices as Cognitive glue by Benjamin Lyons - YouTube</A>
-        <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Benjamin Lyons</A>
+        <DT><A HREF="https://x.com/MikeBenzCyber/status/1859468415070576815">The Blob Makes Pencils by Mike Benz</A>
         <DT><A HREF="https://osf.io/preprints/osf/3fdya">OSF Preprints | Cognitive Glues Are Shared Models of Relative Scarcities: The Economics of Collective Intelligence</A>            
         <DT><A HREF="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4878765">The Problem of Externality in 2024</A>           
         <DT><A HREF="https://benjaminflyons.com/essays/">Essays</A>
