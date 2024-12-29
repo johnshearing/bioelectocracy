@@ -1,6 +1,7 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
 # BioElectocracy: Better Governance Based On [Morphogenesis](https://www.youtube.com/watch?v=lIHUWOv4nkE&t=210s): 
+#### Widening the Scope of Neighbor
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
   
@@ -119,7 +120,7 @@ Wasp Enslaves Oak Tree:
 Central banks and supporting blob enslave Mac:  
 [Mike Benz shows one macro-organism hijacking the morphogenesis of another macro-organism](https://x.com/MikeBenzCyber/status/1859468415070576815)  
 
-We cannot expect Mac to turn itself into all that we would ask for when the central banks and supporting blob manipulate public attention, public preferences, and public perceptions. This is why Mac is becoming a wonderful home for the central banks and supporting blob rather than a wonderful home for all of us individual humans. If the price system is Mac's cognitive glue then minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its natural target form in morphous-space.  
+We cannot expect Mac to turn itself into all that we would ask for when the central banks and supporting blob manipulate public attention, public preferences, and public perceptions. All the mind, market, and money maipulation are causing the collective to ask for things that nobody would want if they were not being manipulated. This is why Mac is becoming a wonderful home for the central banks and supporting blob rather than a wonderful home for all of us individual humans. Minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its natural target form in morphous-space - the best home for all of us according to our own preferences.  
 
 **All of the following manipulations, when implemented by the central authorities, cause defects in Mac which serve the central authorities:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809),  flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.  
 
@@ -253,7 +254,9 @@ The following proverb will be my guide.
 > * That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 > * For if ye love them which love you, what reward have ye? do not even the publicans the same?
 > * And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
-> * Be ye therefore perfect, even as your Father which is in heaven is perfect.  
+> * Be ye therefore perfect, even as your Father which is in heaven is perfect.
+
+Remembering the Foundation series where psychohistory would make accurate predictions or offer effective control if the population knew about the manipulation. 
 
 Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version   
 This is not a lesson about using money to multiply money.  
