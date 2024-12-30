@@ -1,17 +1,18 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Better Governance Based On [Morphogenesis](https://www.youtube.com/watch?v=7vsYIlukqn0)
-### [Widening the Scope of Neighbor](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
+# BioElectocracy: Better Governance Based On Morphogenesis  
+[Video: Morphogenesis Primer by Michael Levin](https://www.youtube.com/watch?v=7vsYIlukqn0)  
+[Video: Collective Intelligence Primer by Michael Levin](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
 #### Neither Levin nor Lyons have endorsed how their work is used in this paper 
   
 ## Abstract:  
 [Video: Levin imagines a being with enough intelligence and compassion to care for every human](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
-[Their Joint Paper: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
-So why don't we feel cared for? Why are so many afraid and suffering?  
-[Video: The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
-[Video: Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
+[Joint Paper - Levin and Lyons: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
+Why so much war, corruption, disease, famine and general sense of fear and mistrust?  
+[Video: Mike Benz - The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
+[Video: Charles Hoskinson - Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
 
 You could think of a dog as a collection of cells, and study each cell, without ever discovering what dogs can do - things like rounding up sheep, or pulling sleds. In order to make use of dogs, you need to consider the dog a living whole rather than a collection of living cells. If we want a dog to pull a sled, we don't try to control the dog at the cellular level. Rather we just train the dog and then we let the dog command its own cells in order to accomplish the task. There are some things that dogs do for us which require no training at all. These include guarding our homes or just being a friend. Finally, there is one special thing that dogs do which we don't often think of - Dogs take care of their own bodies (their own cells). They look for food, water, shelter, and such for the benefit of their cells. This ability of the dog as a whole to care for its parts, and to solve problems that the parts know nothing about, is a wonderful example of collective intelligence. We know that a dog's intelligence is collective because it's not located at any particular spot in the dog's body or brain. Rather, a dog's intelligence emerges as a result of all its cells going about their own business and communicating with each other.  
 
