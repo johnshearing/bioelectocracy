@@ -10,7 +10,7 @@
 [Video: Levin imagines a being with enough intelligence and compassion to care for every human](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 [Joint Paper - Levin and Lyons: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
-Why so much war, corruption, disease, famine and general sense of fear and mistrust?  
+So why so much war, corruption, disease, famine and general sense of fear and mistrust?  
 [Video: Mike Benz - The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
 [Video: Charles Hoskinson - Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
 
