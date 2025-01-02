@@ -192,7 +192,7 @@ How can these controls be decentralized so that no central powers can decide the
         * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
         * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
         * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
-        * Most people will think of the neighbors we have in front and behind, and to the right and the left. But we need to start thinking about the neighbors we have at lower scales such as our organs and cells. And more importantly, we need to start caring about our neighbors at higher scales such as Mac.  
+        * Most people will think of the neighbors we have in front and behind, and to the right and the left. But we need to start thinking about the neighbors we have at lower scales such as our organs and cells. And more importantly, we need to start caring about our neighbors at higher scales such as Mac. We need to think about Mac and remember God's One Great Commandment: "Love thy neighbor as thy self". For as we lift our eyes up the scale towards God, the first person we encounter is Mac.   
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
