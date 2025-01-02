@@ -192,13 +192,13 @@ How can these controls be decentralized so that no central powers can decide the
         * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
         * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
         * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
-        * Most people will think of the neighbors we have in front and behind, and to the right and the left. But we need to start thinking about the neighbors we have at lower scales such as our organs and cells. And more importantly, we need to start caring about our neighbors at higher scales such as Mac. We need to think about Mac and remember God's One Great Commandment: "Love thy neighbor as thy self". For as we lift our eyes up the scale towards God, the first person we encounter is Mac.   
+        * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other.     
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
   ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response. 
   ### Is it possible to share each other's stress without losing our own identities and our own agency?
-  The answer to all of these is a governance that protects the price system from manipulation.  
+  The answer to all of these is a governance that protects the price system (Mac) from manipulation.  
 
   
   ### The Problem of Trust:
