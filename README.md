@@ -192,11 +192,15 @@ How can these controls be decentralized so that no central powers can decide the
         * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
         * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
         * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
+        * Most people will think of the neighbors we have in front and behind, and to the right and the left. But we need to start thinking about the neighbors we have at lower scales such as our organs and cells. And more importantly, we need to start caring about our neighbors at higher scales such as Mac.  
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
   ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response. 
   ### Is it possible to share each other's stress without losing our own identities and our own agency?
+  The answer to all of these is a governance that protects the price system from manipulation.  
+
+  
   ### The Problem of Trust:
 Short term stress such as exercise promotes a long, healthy, happy life.   
 Long term stress such as living in chronic fear or rage causes poor health and early death.   
