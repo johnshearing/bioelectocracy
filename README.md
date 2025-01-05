@@ -129,78 +129,77 @@ We cannot expect Mac to turn itself into all that we would ask for when the cent
 **All of the following manipulations, when implemented by central authorities, cause deformations in Mac which serve the central authorities:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809), flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.  
 
 How can these controls be decentralized so that no central powers can decide the target morphogenesis for the human macro-organism of which we are all a part? The answer is by transitioning to decentralized blockchain for money and finance, voting and governance, news and social media, national identity management, and national defense. Bitcoin was invented to serve as an alternative to the corrupt central banks for money and finance, and much of the human population is already using Bitcoin as an alternative to central bank bondage. But decentralized blockchain finance, including Bitcoin, is already being captured by the central banks and the BlackRocks. So how can we stop the central banks and ensure that blockchain services remain decentralized? The strategy depends entirely on how we view the central banks. So far, we have compared the central banks to the wasp that hijacks the morphogenesis of the oak tree. This model helps us to see how the central banks have captured Mac's nervous system (how they control all of us) so as to create endless war for endless spending and endless debt, endless scarcity to drive up prices for more debt, endless sickness for endless spending on medical care for even more debt, and so on. So the wasp model makes it easy to see the problem but we need a different model of the central banks to see the solution. The answer is found by applying Levin's cure for cancer in organisms to the central bank cancer at the scale of Macro-organism.  
-
-[Video: Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
  
 ## Applying Levin's cure for cancer to the central banks and supporting blob  
+[Video: Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
   
-  * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
-  * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
-  * We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
-  * All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
-  * This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
-  * It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
-  * We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state (heaven on earth for us) without our needing to know what that target state is.
-  * > Matthew 22:36-40 King James Version, The Great Commandment
-    > * Master, which is the great commandment in the law?
-    > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
-    > * This is the first and great commandment.
-    > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
-    > * On these two commandments hang all the law and the prophets.
-    * This is not two great commandments, this is The One Great Commandment given in two different ways (And the second is like unto it).
-    * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
-    * We love the entire collective (God) when we care for our neighbors.
-    * We are told to love our neighbors **as** ourselves.
-      * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
-      * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
-      * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) and in [this video](https://youtu.be/YnObwxJZpZc?si=WPy16qbGLEu6D2uC&t=2456) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
-      * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State Blob controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
-      * This is also very similar to [what Lyons describes in this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
-      * This is important! An honest unmanipulated price system at the scale of macro-organism is like bioelectricity at the cellular level. It's the cognitive glue that makes us cooperate and work together so as to satisfy our individual goals. We are talking about honest unmanipulated commerce using honest unmanipulated money. That's what makes us care about each other. That's what makes us neighbors.
-    * #### Who Is My Neighbor? To Whom Do I Charge Interest?
-      * God has given clear instructions to Jews, Christians, and Muslims.
-      * The central bankers ignore these instructions.
-      * Usury is the death of honest money and the death of honest commerce.
-      * Usury as seen through the lens of bioelectricity is cancer.
-      * A cure has been discovered.   
-        * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
-        * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
-        * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
-        * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
-        * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
-          > Exodus 22:25 New International Version (God is speaking to Moses)  
-          > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
-          
-          > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
-          > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
-          > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
-          > * You must not lend them money at interest or sell them food at a profit.  
-        * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
-          > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
-          > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
-          > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-        * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
-        * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.
-        * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
-        * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
-        * **[The Parable of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) is in the Bible to remind Christians to care for all people not just other Christians**
-        * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
-        * Suffering Caused By The Central Banks:
-          * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
-          * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
-          * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
-          * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
-          * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
-          * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
-          * [Central Bank History Overview](https://youtu.be/modgQh23iRA?si=ZH1Yfiic48ck2m_o&t=162)
-        * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
-        * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
-        * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
-        * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
-        * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
-        * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
-        * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
-        * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other.     
+* Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
+* All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
+* We humans do not need to know what type of macro-organism we are building any more than cells need to know what type of organism they are building.  
+* All we need to do is follow one simple rule and Mac will self-assemble into its preferred target form. 
+* This simple rule (written below) has been stated first in Jewish scripture and has been amplified by Jesus and Muhammad for clarity.
+* It may seem like two rules at first but it's just one rule given in two different ways so that we can understand it better.
+* We will be looking at this simple rule through the lens of Morphogenesis and the Price System provided by Levin and Lyons to see if this is the rule required to help Mac navigate the obstacles to reach it's preferred target state (heaven on earth for us) without our needing to know what that target state is.
+* > Matthew 22:36-40 King James Version, The Great Commandment
+  > * Master, which is the great commandment in the law?
+  > * Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+  > * This is the first and great commandment.
+  > * And the second is like unto it, Thou shalt love thy neighbor as thyself.
+  > * On these two commandments hang all the law and the prophets.
+  * This is not two great commandments, this is The One Great Commandment given in two different ways (And the second is like unto it).
+  * It was given to us twice so that we would understand that loving the collective intelligence right next to us is how we love the greatest collective intelligence(God).
+  * We love the entire collective (God) when we care for our neighbors.
+  * We are told to love our neighbors **as** ourselves.
+  * Not "like" ourselves but "as" ourselves - as if we can not distinguish between our neighbor's and ourselves.
+  * In [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love), Jesus brings even more clarity to The One Great Commandment. Jesus uses the word "compassion" to describe what The Good Samaritan was feeling for the injured man. The word "compassion" means to suffer with.
+  * This is very similar to [what Levin describes in this video](https://youtu.be/sViUqqkuTkA?si=G5iRplqEkWeb7MIT&t=1399) and in [this video](https://youtu.be/YnObwxJZpZc?si=WPy16qbGLEu6D2uC&t=2456) where cells work together because their minds are electrically coupled together. The cells in our bodies truly cannot differentiate themselves from other cells. So when one cell is being stressed, the other cells think they are being stressed and so respond to help. Cells have true compassion for each other because they literally feel each other's pain.
+    * Levin states that cells which are electrically coupled have a common identity which forces them to cooperate in achieving goals. Now think about how identity politics has been wielded by Deep State Blob controlled media in recent elections and then consider how identity controls on collective intelligence scale from micro-organism to organism to macro-organism.  
+    * This is also very similar to [what Lyons describes in this video](https://youtu.be/0Oo4ng6dWrQ?si=hre-3jXSljHzJpKY&t=890) where humans share each other's stress via the price system and so work together to find the best solution.
+    * This is important! An honest unmanipulated price system at the scale of macro-organism is like bioelectricity at the cellular level. It's the cognitive glue that makes us cooperate and work together so as to satisfy our individual goals. We are talking about honest unmanipulated commerce using honest unmanipulated money. That's what makes us care about each other. That's what makes us neighbors.
+  * #### Who Is My Neighbor? To Whom Do I Charge Interest?
+  * God has given clear instructions to Jews, Christians, and Muslims.
+  * The central bankers ignore these instructions.
+  * Usury is the death of honest money and the death of honest commerce.
+  * Usury as seen through the lens of bioelectricity is cancer.
+  * A cure has been discovered.   
+    * The [The Parable Of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) gives us another important insight about identity.
+    * The lawyer asks Jesus, "And who is my neighbor?" In other words, "With whom do I identify with?" or "Who is also part of my body?" or "Who's pain besides my own do I feel?"
+    * The Samaritans and the Jews had much animosity towards each other and these feelings were cultivated by the Romans in order to make both peoples easier to manage.
+    * But Jesus tells of a Samaritan who feels compassion for an injured Jew and makes clear that we are to feel compassion and show mercy to anyone in need without any regard for group identity.
+    * #### In the Old Testament, God directly commands Jews not to lend at interest to poor Jews nor to any foreigners.  
+      > Exodus 22:25 New International Version (God is speaking to Moses)  
+      > * If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest.
+      
+      > Leviticus 25:35-37 New International Version (God is speaking to Moses)  
+      > * If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.  
+      > * Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.  
+      > * You must not lend them money at interest or sell them food at a profit.  
+    * #### Contrary to what God has instructed Moses to say, Moses allowed Jews to lend at interest to foreigners (Non-Jews) and forbad lending to any Jew.
+      > Deuteronomy 23:19-20 King James Version (Moses is speaking to his people, the Jews)
+      > * Thou shalt not lend upon usury to thy brother; usury of money, usury of victuals, usury of any thing that is lent upon usury:
+      > * Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the Lord thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
+    * Lending at interests is arguably the greatest cause of human suffering and the cause of usury is a narrow scope of group identity. This fits Levin's definition of cancer at the scale of macro-organism.
+    * In other words, humans only lend at interest to people they don't care about. This understanding is clearly documented all the way back to the time of Moses.
+    * **This question of, "Who is my neighbor?", is a question that all people struggle with - not just Jews.**
+    * **Jesus warned against usury but it is still practiced by Christians as much as it is by Jews.**
+    * **[The Parable of The Good Samaritan](https://johnshearing.github.io/bible_passages_where_jesus_speaks/#Who_Is_My_Neighbor_And_What_Do_You_Mean_By_Love) is in the Bible to remind Christians to care for all people not just other Christians**
+    * **Usury is completely forbidden under Islamic law which indicates that Muslims have the widest scope of "neighbor" (the most compassion) in this category.**
+    * Suffering Caused By The Central Banks:
+      * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
+      * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
+      * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
+      * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
+      * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
+      * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
+      * [Central Bank History Overview](https://youtu.be/modgQh23iRA?si=ZH1Yfiic48ck2m_o&t=162)
+    * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
+    * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
+    * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
+    * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
+    * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
+    * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
+    * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
+    * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other.     
             
   ### The foundational questions we will be asking as we explore BioElectocracy are: 
   ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
