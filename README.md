@@ -195,17 +195,17 @@ How can these controls be decentralized so that no central powers can decide the
     * Levin shows that the underlying cause of cancer is a narrow scope of group identity.
     * The cancer of usury would be forbidden in Jewish law, except between wealthy Jews, if Moses had felt the same sense of identity (compassion) with all people that he felt for his own people (the Jewish people).
     * So there is a clear link between cancer at the scale of macro-organism and a narrow scope of group identity.
-    * **Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow**
-    * **Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".**
-    * **Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".**
-    * **All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".**
-    * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other.     
-            
-  ### The foundational questions we will be asking as we explore BioElectocracy are: 
-  ### What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
-  ### What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response. 
-  ### Is it possible to share each other's stress without losing our own identities and our own agency?
-  The answer to all of these is a governance that protects the price system (Mac) from manipulation.  
+    * Usury is not evil, usury is cancer at the scale of macro-organism when the scope of "neighbor" is narrow
+    * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
+    * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
+    * All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".
+    * #### So how do we widen the scope of "neighbor"?
+      * What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+      * What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response?
+      * Is it possible to share each other's stress without losing our own identities and our own agency?  
+      The answer to all of these is a governance that protects the price system (Mac) from manipulation.
+
+
 
   
   ### The Problem of Trust:
@@ -230,7 +230,11 @@ Hate and fear are instigated by the central bank controlled governments so that 
 Possible Solutions To The Trust Problem:  
 1. How can Blockchain Technology (AKA Decentralized Trustless Technology) be used as a better price system so as to restore trust for all governments at the citizen level and a sense of peace for Mac so that it can grow normally, without becoming sick, psychotic, and eventually destroying itself?  
 2. Can awareness and love for Mac at the citizen level be hardcoded into our new decentralized trustless blockchain price system?  
-3. How can Levin and Lyons' work be used to show that Mac is a living person that deserves care in its own right and that our lives depend on providing care for Mac?   
+3. How can Levin and Lyons' work be used to show that Mac is a living person that deserves care in its own right and that our lives depend on providing care for Mac?
+
+
+
+    * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
