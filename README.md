@@ -85,6 +85,7 @@ Credit to Michael Levin for this image.<br>
 [How Cognition Scales: Background on Levin's Work](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales-background-on-levins-work)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 [War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
+[Applying Levin's cure for cancer to the central banks and supporting blob](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#applying-levins-cure-for-cancer-to-the-central-banks-and-supporting-blob)  
 The Price System Is A Conscious Living Being. Its Body Is Our Home  
 Caring For The Price System Is How We Care For Each Other  
 Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question  
