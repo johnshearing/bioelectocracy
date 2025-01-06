@@ -13,8 +13,9 @@
 So why so much war, corruption, disease, famine and general sense of fear and mistrust?  
 [Video: Mike Benz - The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
 [Video: Top WEF Advisor - Free Will Is Over](https://x.com/Danielj73843963/status/1848206154612039689)  
-How do we decentralize control over collective human consciousness?  
-[Video: Charles Hoskinson - Decentralized Blockchain: Freeing The Price System](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
+Decentralizing Control Over The Collective Human Consciousness:  
+[Video: Charles Hoskinson - Decentralized Blockchain: Freeing The Price System](https://www.youtube.com/live/SkixwjCzQ9c?si=2yyycdb5GRvD7VWp&t=93)  
+[Video: Charles Hoskinson - Cardano Constitutional Convention: Opening & Welcome Address](https://youtu.be/FciRpVKr2ms?si=rAkKzQnH6YgqVe-5&t=548)  
 
 You could think of a dog as a collection of cells, and study each cell, without ever discovering what dogs can do - things like rounding up sheep, or pulling sleds. In order to make use of dogs, you need to consider the dog a living whole rather than a collection of living cells. If we want a dog to pull a sled, we don't try to control the dog at the cellular level. Rather we just train the dog and then we let the dog command its own cells in order to accomplish the task. There are some things that dogs do for us which require no training at all. These include guarding our homes or just being a friend. Finally, there is one special thing that dogs do which we don't often think of - Dogs take care of their own bodies (their own cells). They look for food, water, shelter, and such for the benefit of their cells. This ability of the dog as a whole to care for its parts, and to solve problems that the parts know nothing about, is a wonderful example of collective intelligence. We know that a dog's intelligence is collective because it's not located at any particular spot in the dog's body or brain. Rather, a dog's intelligence emerges as a result of all its cells going about their own business and communicating with each other.  
 
@@ -27,7 +28,7 @@ Again, like the dog that cares for its own cells without any training, there is 
 Studying individual humans will tell us nothing about the price system. In order to see where the controls are, and who is at the controls, we need to view the collective of all humans as one single very young organism in the process of morphogenesis. In other words, we see the first humans as blastocyst, and all humans now as the cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
 [Levin talks about intelligence that scales](https://youtu.be/gDWxCkngQNQ?si=CsjtkKHix5Ub3iac&t=4536)    
 
-In the same way we interact with dogs mind rather than with its individual cells, we consider Mac a mind with preferences and goals that are completely independent of its human membership. This way of looking at Mac allows us to see where the controls are.   
+In the same way we interact with a dogs mind rather than with its individual cells, we consider Mac a mind with preferences and goals that are completely independent of its human membership. This way of looking at Mac allows us to see where the controls are.   
 [Levin discusses the how the whole can have a different agenda than its parts](https://youtu.be/YnObwxJZpZc?si=pSK9doZOSdlpWoAX&t=1153).  
 
 If our cells could think and speak they would likely consider the entire body as their country in a larger geopolitical world, and they would likely think of us (the minds) as their governance or collective decision making process. But at our scale of consciousness, we see ourselves not as governance, but as living beings with thoughts and feelings. Moreover, evolution has given us a love for our own bodies which resolves to a love for our own cells. We view Mac much like our own consciousness and we see ourselves (all humans) as the cells of Mac's body. There is reason to think Mac has been created via evolution to care for us in the same way that we were created via evolution to care for the cells of our own bodies.  
@@ -187,7 +188,7 @@ How can these controls be decentralized so that no central powers can decide the
     * Suffering Caused By The Central Banks:
       * [All Wars Are Bankers' Wars: Search X for 43 minute video](https://x.com/search?q=all%20wars%20are%20bankers%20wars&src=typed_query)
       * [All Wars Are Bankers' Wars: Search Rumble for 43 minute video](https://rumble.com/search/all?q=%22all%20wars%20are%20bankers%20wars%22)          
-      * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://www.youtube.com/watch?v=BrKf9nYeXT0)
+      * [All Wars Are Bankers' Wars: Watch 43 minute video on YouTube if not deleted](https://youtu.be/5hfEBupAeo4?si=yE75rZBg4gI5-Mrg) 
       * [All Wars Are Bankers' Wars: Read as a webpage](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerwars.php)
       * [All Wars Are Bankers' Wars: Read as a PDF](https://whatreallyhappened.com/WRHARTICLES/allwarsarebankerswars.pdf)
       * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
@@ -199,16 +200,14 @@ How can these controls be decentralized so that no central powers can decide the
     * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
     * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
     * All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".
-    * #### So how do we widen the scope of "neighbor"?
-      * What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
-      * What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response?
-      * Is it possible to share each other's stress without losing our own identities and our own agency?  
-      The answer to all of these is a governance that protects the price system (Mac) from manipulation.
-
-
-
+### Widening The Scope of "Neighbor"
+* What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+* What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response?
+* What form of governance allows us to share each other's stress without losing our own identities and our own agency?  
   
-  ### The Problem of Trust:
+**The answer to all of these is a governance that promotes honest commerce and protects the price system (Mac) from manipulation.**  
+
+### The Problem of Trust:
 Short term stress such as exercise promotes a long, healthy, happy life.   
 Long term stress such as living in chronic fear or rage causes poor health and early death.   
 If Mac is to develop normally, then it must feel safe and be free of anxiety as it grows.  
