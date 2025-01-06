@@ -206,34 +206,7 @@ How can these controls be decentralized so that no central powers can decide the
 * What form of governance allows us to share each other's stress without losing our own identities and our own agency?  
   
 **The answer to all of these is a governance that promotes honest commerce and protects the price system (Mac) from manipulation.**  
-
-### The Problem of Trust:
-Short term stress such as exercise promotes a long, healthy, happy life.   
-Long term stress such as living in chronic fear or rage causes poor health and early death.   
-If Mac is to develop normally, then it must feel safe and be free of anxiety as it grows.  
-That means that Mac's cells (that's us) must have a sense of trust for each other.   
-But how can we feel compassion for neighbors that we fear and do not trust.  
-Lack of trust may be the biggest obstacle to compassion and stress sharing and lack of trust is hurting Mac.  
-This is by design.  
-Although not has large as Mac, our **U.S. central bank controlled government** (USCBCG) is a macro-organism too, and it must feed.  
-We know that the USCBCG spreads violence, famine, toxins, disease, fear, mistrust, and instability throughout the world and in the United States too in order to feed.    
-It feeds by damaging Mac and devouring the broken parts.  
-
-Christ tells us to love our enemies and that God will protect us.  
-The USCBCG tells us to hate our enemies and that we are in constant danger.  
-Which one is true?  
-It's the one we think is true.  
-Love and trust is the natural state of man.  
-Hate and fear are instigated by the central bank controlled governments so that they can feed.  
-
-Possible Solutions To The Trust Problem:  
-1. How can Blockchain Technology (AKA Decentralized Trustless Technology) be used as a better price system so as to restore trust for all governments at the citizen level and a sense of peace for Mac so that it can grow normally, without becoming sick, psychotic, and eventually destroying itself?  
-2. Can awareness and love for Mac at the citizen level be hardcoded into our new decentralized trustless blockchain price system?  
-3. How can Levin and Lyons' work be used to show that Mac is a living person that deserves care in its own right and that our lives depend on providing care for Mac?
-
-
-
-    * Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
+Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
@@ -295,7 +268,7 @@ Nevertheless when one recognizes that gliders patterns are real, then one can do
 What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).  
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
 
-Cell respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
+Cells respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
 [There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)  
 [Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)  
 [Levin's paper on relationship between zen and compassion](https://www.mdpi.com/1099-4300/24/5/710)  
@@ -324,7 +297,7 @@ Only a small change in the voltage on the base terminal of a transistor creates 
 
 The problem of not wanting to change or resistance to change.  
 
-There is no source of darkness.  
+There is no source of darkness, only lack of light
 
 Choosing the path of least resistance.  
 
@@ -364,7 +337,7 @@ We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZ
 [All intelligence is collective intelligence](https://youtu.be/YnObwxJZpZc?si=lnnk7VqOBz-127Bz&t=1074).  
 The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
-information is a living think. Levin says "Thoughts are thinkers."
+information is a living thing. Levin says "Thoughts are thinkers."
 
 About The Trinity 
 Father - The mind. Infinite intelligence and love. Nonphysical. Made from the information exchanged in the universe.
@@ -419,6 +392,7 @@ Are other super-organisms (Central Banks) hacking our collective morphogenesis?
 Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.  
 
 Do cells war with each other during morphogenesis? If not, why do countries war?  
+The answer must be honest commerce and an honest price system at the cellular level which does not exist at the scale of Mac.  
 
 It will be an interesting and fun challenge to ask these questions, communicate these ideas, and tell this story.
 
