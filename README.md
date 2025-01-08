@@ -1,6 +1,6 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# BioElectocracy: Better Governance Based On Morphogenesis  
+# Biolectocracy: Better Governance Based On Morphogenesis  
 [Video: Morphogenesis Primer by Michael Levin](https://www.youtube.com/watch?v=7vsYIlukqn0)  
 [Video: Collective Intelligence Primer by Michael Levin](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
@@ -226,7 +226,7 @@ Most people will think of the neighbors we have in front and behind, and to the 
 
 ---
 
-**Below are notes and links which will be woven into the narative started above.**  
+**Below are notes and links which will be woven into the narrative started above.**  
 I have no idea where this is all going.  
 The following proverb will be my guide.  
 > Proverbs 3:5-6 King James Version  
@@ -262,10 +262,10 @@ Jesus wants us to know that when we lend our faith, it compounds with interest, 
 
 Levin talks about gliders in the game of life.  
 He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds.
-Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the the Game Of Life itself.
+Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.
 
 
-What is it that Mac is trying to assemble itself into. I think the answer is the best possible home (society?) for its cells (that would be us).  
+What is it that Mac is trying to assemble itself into? I think the answer is the best possible home (society?) for its cells (that would be us).  
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
 
 Cells respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
@@ -273,10 +273,10 @@ Cells respond to expectation: [Similarity between Levin and Lipton](https://yout
 [Levin talks about zen with respect to compassion but is not ready to talk about compassion as it relates to the Abrahamic religions.](https://youtu.be/YnObwxJZpZc?si=-dt3QFkC9XVfjGc1&t=4492)  
 [Levin's paper on relationship between zen and compassion](https://www.mdpi.com/1099-4300/24/5/710)  
 
-psychedelics fda approval  
+psychedelics FDA approval  
 [An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
 
-While it is reasonable to consider Mac as single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem).
+While it is reasonable to consider Mac as a single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem).
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
@@ -290,7 +290,7 @@ Perhaps it would be better to say that there is a relationship between domino (A
 Whether or not information is passed from domino (A) to (B) depends on a relationship already being in place between the two.  
 If domino (B) is already laying down when domino (A) falls upon it then energy is being passed between the two but no information that we are interested in is passed.  
 If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.  
-So underlying the passage of all information is relatioinship.  
+So underlying the passage of all information is relationship.  
 
 Only a small change in the voltage on the base terminal of a transistor creates a large change in the amount of current flowing between the collector and emitter terminals.  
 [Levin discusses transistors](https://youtu.be/gDWxCkngQNQ?si=wyF2Tt2D-YSAsJoa&t=778)  
@@ -341,17 +341,17 @@ information is a living thing. Levin says "Thoughts are thinkers."
 
 About The Trinity 
 Father - The mind. Infinite intelligence and love. Nonphysical. Made from the information exchanged in the universe.
-Son - thats us, The body. The sensation. The raw input.
+Son - that's us, The body. The sensation. The raw input.
 Holy Spirit, Our relationship. The nervous system. That which causes us to love The Father and which causes The Father to love us.
 
 I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
 This is good for a few but not so good for others.
-It's a lot like the cells in the body speciallizing. 
+It's a lot like the cells in the body specializing. 
 Is this what Mac wants or is Mac's morphogenesis being hijacked?
 
-For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like a single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different than other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our toe with greater concern than the death of a large group of people seen on a news cast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share it's stress directly with the rest of our body where as the dying and injured on the news have no such direct connection with which to share their stress. 
+For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different from other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our own toe with greater concern than the death of a large group of people seen on a newscast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share its stress directly with the rest of our body whereas the dying and injured on the news have no such direct connection with which to share their stress. 
 
-Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf to grows into a gall which becomes a home for the wasp's offspring. 
+Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf grows into a gall which becomes a home for the wasp's offspring. 
 I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
 The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
 Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
@@ -378,15 +378,15 @@ Leaders must appear irrational (insane) in order to obscure their preferences, s
 This is so other leaders will have a more difficult time predicting their actions using Game Theory maths.
 Of course other nations with their own game theorists ignore the show and also create their own show of insanity in order to prevent being gamed.
 
-Been wondering about the inteligence in evolution.  
-Where does it come from.  
+Been wondering about the intelligence in evolution.  
+Where does it come from?  
 We marvel at the intelligence of a single cell as it navigates morphous space to reach it's target form.  
-What if what we view as the evolution of man is really just morphegenesis of the human super-organism as it grows to it's target form.  
-[Levin expresses evolution as morphogenisis of a higher scaled intelligence with a longer life span than our own.](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454)     
+What if what we view as the evolution of man is really just morphogenesis  of the human super-organism as it grows to its target form.  
+[Levin expresses evolution as morphogenesis of a higher scaled intelligence with a longer life span than our own.](https://youtu.be/YnObwxJZpZc?si=4rsnMKImAAbTMcCR&t=1454)     
 
 Still, where is the target form image (the blueprint) that the human super-organism is reading?  
 What is the target form that the human super-organsim is trying to reach?
-Is it all just guided by aggrigated preference?
+Is it all just guided by aggregated preference?
 Are other super-organisms (Central Banks) hacking our collective morphogenesis?
 
 Compare this [Abraham Hicks cartoon](https://youtu.be/Nb5yL7vkV9k?si=9wy7kgQxXMwLoBup&t=21) with Benjamin Lyon's ideas about cognitive glue.  
@@ -461,8 +461,8 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 Levin is not willing to ask God any questions (at least in public) to see if he (God) is indeed intelligent, and what he is like. I don't fault Levin for at all for avoiding the question. No doubt, Levin's work would not be funded if he publicly reached out to God. We all have different journeys and I appreciate all the light Levin's work brings to humanity. I think however, that our relationship with God is very closely linked to the primary question which drives Levin to do such wonderful work:  
 *How can we increase the scope of what beings we care about*.  
 But I did ask. First I asked in an ignorant way and later in a more humble way.  
-[God did indeed answer back, and it turns out that he is infinitly loving, kind, and funny.](https://johnshearing.github.io/everyone_gets_out_alive/index.html)  
-One of the things God lead me to understand, is that he himself is a collective intelligence. God explained to me (not in words but rather by demonstration) that he is much like us but with an important difference - God is so intelligent that he knows us idividually where as we can only know something about our cells but nothing about them as individuals.  
+[God did indeed answer back, and it turns out that he is infinitely loving, kind, and funny.](https://johnshearing.github.io/everyone_gets_out_alive/index.html)  
+One of the things God lead me to understand, is that he himself is a collective intelligence. God explained to me (not in words but rather by demonstration) that he is much like us but with an important difference - God is so intelligent that he knows us individually where as we can only know something about our cells but nothing about them as individuals.  
 [Now listen to Levin talk about imagining if we could communicate with our own organs and cells](https://youtu.be/gDWxCkngQNQ?si=7wZsS2cxOJaW26fO&t=3937)    
 I cannot listen to the above recording without wondering if Levin knows God too.  
 In anycase, God showed me that the way we love him is by caring for each other.  
@@ -481,7 +481,7 @@ Protecting our price system from manipulation is how we care for each other.
 
 Does Levin give us a scientific foundation for understanding The Lord's Prayer?  
 Levin himself may not see the connection but that doesn't mean that no connection exists.  
-Polycomputing may explain the discrepency.  
+Polycomputing may explain the discrepancy.  
 > Luke 11:1-4 King James Version
 > * And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 > * And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
@@ -489,7 +489,7 @@ Polycomputing may explain the discrepency.
 > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
 Of course we can't see God, he appears to us, not as a person, but in miracles.   
-Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continualy being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to these miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
+Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continually being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to these miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
 Jesus explained this to Philip as follows:
 > John 14:8-11 King James Version
 > * Philip saith unto him, Lord, show us the Father, and it sufficeth us.
