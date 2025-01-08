@@ -133,6 +133,8 @@ How can these controls be decentralized so that no central powers can decide the
  
 ## Applying Levin's cure for cancer to the central banks and supporting blob  
 [Video: Levin explains cancer in an organism and demonstrates a cure.](https://youtu.be/lIHUWOv4nkE?si=yipnr8uxzCT6ohv3&t=2761)  
+
+Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different from other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our own toe with greater concern than the death of a large group of people seen on a newscast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share its stress directly with the rest of our body whereas the dying and injured on the news have no such direct connection with which to share their stress. 
   
 * Individual cells don't know what type of biological organism they are trying to build any more than we know what type of macro-organism we are trying to build.  
 * All the cells do is follow one simple rule, and the target organism results from the intelligence in the collective that no individual cell knows anything about. 
@@ -202,11 +204,16 @@ How can these controls be decentralized so that no central powers can decide the
     * All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".
 ### Widening The Scope of "Neighbor"
 * What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
+  * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
 * What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response?
-* What form of governance allows us to share each other's stress without losing our own identities and our own agency?  
+  * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.   
+* What form of governance allows us to share each other's stress without losing our own identities and our own agency?
+  * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
+* What form of governance hardcodes "Love thy neighbor as thyself" into the governance system as it appears to happen in bioelectric networks.?
+  * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
   
-**The answer to all of these is a governance that promotes honest commerce and protects the price system (Mac) from manipulation.**  
-Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and then cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
+   
+Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
@@ -348,15 +355,6 @@ I am realizing that the human super-organism is using groups of humans to form 
 This is good for a few but not so good for others.
 It's a lot like the cells in the body specializing. 
 Is this what Mac wants or is Mac's morphogenesis being hijacked?
-
-For instance Michael Levin shows that cancer occurs when a cell or group of cells loses the ability to communicate with neighbors (blocked ion channels). The cells then act like single cell organisms rather than community members and so feed upon neighbors. This same kind of cancer seems to happen at the level of human society as well. When communication is blocked between communities, or when communities identify as different from other communities then they will all stop cooperating and start to feed upon the others. Benjamin Lyons makes this comparison intuitively accessible to us by asking to imagine why we react to stubbing our own toe with greater concern than the death of a large group of people seen on a newscast. The fact that we can feel the pain of a stubbed toe, but the best we can do is imagine the suffering of people shown in a news cast. The toe is part of the self because it can share its stress directly with the rest of our body whereas the dying and injured on the news have no such direct connection with which to share their stress. 
-
-Bioelectricity explains how an oak gall wasp can hack the bioelectric network in the leaf of an oak tree, hijacking its morphogenesis such that the leaf grows into a gall which becomes a home for the wasp's offspring. 
-I think we see the central banks, corporations, and supporting industrial complexes hacking humanity's morphogenesis. 
-The body of work raises the question of what exactly is the target of morphogenesis for the human collective if allowed to develop without being hacked. 
-Finally, I am wondering if it is possible to hardcode "Love thy neighbor as thyself" into a governance system as it appears to happen in bioelectric networks.  
-
-[Levin shows how wasp hijacks the morphogenesis of an oak leaf in order to make a nice home for its little wasp babies.](https://youtu.be/L5bQnyq4OtQ?si=PgSEKtotjGf1nERf&t=1686)  
 
 [WEF](https://x.com/JamesMelville/status/1602551782227558400)   
  
