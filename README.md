@@ -86,10 +86,9 @@ Credit to Michael Levin for this image.<br>
 [How Cognition Scales: Background on Levin's Work](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#how-cognition-scales-background-on-levins-work)  
 [Unmanipulated Price Systems Seek Preferred Conditions For All Individuals](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#unmanipulated-price-systems-seek-preferred-conditions-for-all-individuals)  
 [War, Scarcity, Fear, Mistrust, Division, Disunity, And Isolation Via Price System Manipulation: The Central Bank Business Model](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#war-scarcity-fear-mistrust-division-disunity-and-isolation-via-price-system-manipulation-the-central-bank-business-model)  
-[Applying Levin's cure for cancer to the central banks and supporting blob](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#applying-levins-cure-for-cancer-to-the-central-banks-and-supporting-blob)  
-The Price System Is A Conscious Living Being. Its Body Is Our Home  
-Caring For The Price System Is How We Care For Each Other  
-Blockchain: Building A Decentralized Price System; Free Of Manipulation; Free To Give An Honest Answer To The Most Important Question  
+[Applying Levin's cure for cancer to the central banks and supporting blob](https://github.com/johnshearing/bioelectocracy/blob/main/README.md#applying-levins-cure-for-cancer-to-the-central-banks-and-supporting-blob)    
+Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System;
+Caring For The Price System Is How We Care For Each Other 
 
 
 ## How Cognition Scales: Background on Levin's Work  
@@ -202,7 +201,7 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
     * Levin's cure for cancer does not kill the cancer. Rather it widens the scope of "neighbor".
     * Usury and all the suffering it causes will disappear as humans widen the scope of "neighbor".
     * All forms of mind, market, and money manipulation will disappear as humans widen the scope of "neighbor".
-### Widening The Scope of "Neighbor"
+### Widening The Scope of "Neighbor: The cure for central bank cancer"
 * What form of governance most widens the scope of who each of us consider to be neighbors across all categories and demographics?
   * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
 * What form of governance transmits local stresses globally to all communities and encourages all communities to take local action with solutions that scale in response?
@@ -212,7 +211,7 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
 * What form of governance hardcodes "Love thy neighbor as thyself" into the governance system as it appears to happen in bioelectric networks.?
   * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
   
-   
+## Caring For The Price System Is How We Care For Each Other   
 Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
