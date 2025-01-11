@@ -212,7 +212,7 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
   * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
  
 ## Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System  
-
+This content will be written shortly.  
 
   
 ## Caring For The Price System Is How We Care For Each Other   
