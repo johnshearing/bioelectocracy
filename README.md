@@ -302,6 +302,8 @@ If domino (B) is already laying down when domino (A) falls upon it then energy i
 If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.  
 So underlying the passage of all information is relationship.  
 
+[Demonstration of Faith Using Domminos](https://youtube.com/shorts/kjMJbiYhEqw?si=jHMkArs9AQjNlb4S)  
+
 Only a small change in the voltage on the base terminal of a transistor creates a large change in the amount of current flowing between the collector and emitter terminals.  
 [Levin discusses transistors](https://youtu.be/gDWxCkngQNQ?si=wyF2Tt2D-YSAsJoa&t=778)  
 
