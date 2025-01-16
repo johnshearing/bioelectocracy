@@ -216,14 +216,13 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
   * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
  
 ## Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System   
-There really isn't anything we need to do that we aren't doing already.  
 [Everything is happening according to God's plan](https://youtu.be/iBHe_gTHs1E?si=WW7gKWbKdOQd0Aca)  
 As we transition from central bank control to decentralized blockchain for money and finance, voting and governance, news and social media, national identity management, and national defense, Mac will become free to think for itself about how to give us all what we want according to our own preferences. The structure that Mac becomes when it controls its own morphogenesis will incentivize God's One Great Commandment: "Love thy neighbor as thyself".  
 Heaven is coming to earth.  
-
+There really isn't anything we need to do that we aren't doing already except for one thing...  
   
 ## Caring For The Price System Is How We Care For Each Other   
-Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thyself) we need to consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
+Most of us will think of the neighbors we have in front and behind, and to the right and the left - the neighbors we have at our level of cognition (other humans and perhaps some animal species). Within the last 200 years, we have learned to give care to our neighbors at lower scales of cognition (our organs and cells). Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thyself) we need to consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
