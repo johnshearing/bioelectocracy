@@ -23,7 +23,7 @@ Like the dog, there are many things that collections of humans do that you would
 
 Again, like the dog that cares for its own cells without any training, there is one thing that groups of humans do as a collective animal which requires no training or manipulation at all - that is caring for individual humans which are members of the group. Yes, packs of dogs fight with other packs of dogs and groups of humans fight with other groups of humans, but within the pack of dogs or within the group of humans, care is the rule and violence or exploitation is the rare exception.   
 
-**BioElectocracy** is all about understanding how the unmanipulated price system causes all humans to collect into a single caring group, and how price system manipulation causes all humans to form competing groups that work to exploit, enslave, or kill the others. We seek to understand the controls on the price system, who is manipulating the controls, and how price system manipulation can be prevented.  
+**Bioelectocracy** is all about understanding how the unmanipulated price system causes all humans to collect into a single caring group, and how price system manipulation causes all humans to form competing groups that work to exploit, enslave, or kill the others. We seek to understand the controls on the price system, who is manipulating the controls, and how price system manipulation can be prevented.  
 
 Studying individual humans will tell us nothing about the price system. In order to see where the controls are, and who is at the controls, we need to view the collective of all humans as one single very young organism in the process of morphogenesis. In other words, we see the first humans as blastocyst, and all humans now as the cells which continue to multiply and self-assemble into a single larger organism. **Let's call this human collective being a macro-organism and let's call it Mac for short.**  
 [Levin talks about intelligence that scales](https://youtu.be/gDWxCkngQNQ?si=CsjtkKHix5Ub3iac&t=4536)    
@@ -133,7 +133,7 @@ Central banks and supporting blob enslave Mac:
 * [The Creature From Jekyll Island: Read as a PDF on Internet Archive](https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf)
 * [Central Bank History Overview](https://youtu.be/modgQh23iRA?si=ZH1Yfiic48ck2m_o&t=162)
 
-We cannot expect Mac to turn itself into all that we would ask for when the central banks and supporting blob manipulate public attention, public preferences, and public perceptions. All the mind, market, and money maipulation are causing the collective to ask for things that nobody would want if they were not being manipulated. This is why Mac is becoming a wonderful home for the central banks and supporting blob rather than a wonderful home for all of us individual humans. Minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its natural target form in morphous-space - the best home for all of us according to our own preferences.  
+We cannot expect Mac to turn itself into all that we would ask for when the central banks and supporting blob manipulate public attention, public preferences, and public perceptions. All the mind, market, and money manipulation are causing the collective to ask for things that nobody would want if they were not being manipulated. This is why Mac is becoming a wonderful home for the central banks and supporting blob rather than a wonderful home for all of us individual humans. Minds, markets, and money must be completely free of manipulation if Mac is to think correctly and arrive at its natural target form in morphous-space - the best home for all of us according to our own preferences.  
 
 **All of the following manipulations, when implemented by central authorities, cause deformations in Mac which serve the central authorities:** [Taxes](https://youtu.be/0Oo4ng6dWrQ?si=MzDYNdRJIhqm2EFp&t=1385), price controls, fiat money, printing currency, creating money supply shortages or gluts, manipulating interest rates, manipulating lending policy, usury in general, tariffs, sanctions, creating supply shortages or supply gluts, creating artificial demand with provocative advertising, unfavorable regulations to target a competing industry (e.g. SEC and Central Banks crushing crypto industry with regulation), giving corporations the same rights as humans, cultivating identity politics to prevent a united population, staging riots, social media censorship of non-state narratives, state controlled media, state controlled education, state controlled scientific research, state controlled a.i., state controlled search engines, creating crises both real and imagined (e.g. pandemics, climate change), sabotage to close markets (e.g. Nord Stream), false flag events to justify wars, using wars to seize land and assets and to close markets, using war to create artificial markets, using wars to launder money, using wars to force nations into debt, [destroying countries that won't exchange in our currency](https://x.com/GUnderground_TV/status/1214205772017655809), flooding a city with drugs to crash market prices and to put the local population in prison, using drug money to finance covert operations and regime change, [laws which encourage divorce and weaken families](https://youtu.be/Tq_MQVlefwE?si=WzOpXcaqFfCAeY2l), flooding a city with immigrants to crash market prices, lawfare and prison for journalists and honest politicians, blackmail operations for vulnerable politicians and media influencers, election manipulation, assasionation, anything which makes people feel isolated from each other and separated from God.  
 
@@ -215,12 +215,15 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
 * What form of governance hardcodes "Love thy neighbor as thyself" into the governance system as it appears to happen in bioelectric networks.?
   * A governance that promotes honest commerce and protects the price system (Mac) from manipulation.
  
-## Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System  
-This content will be written shortly.  
+## Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System   
+There really isn't anything we need to do that we aren't doing already.  
+[Everything is happening according to God's plan](https://youtu.be/iBHe_gTHs1E?si=WW7gKWbKdOQd0Aca)  
+As we transition from central bank control to decentralized blockchain for money and finance, voting and governance, news and social media, national identity management, and national defense, Mac will become free to think for itself about how to give us all what we want according to our own preferences. The structure that Mac becomes when it controls its own morphogenesis will incentivize God's One Great Commandment: "Love thy neighbor as thyself".  
+Heaven is coming to earth.  
 
   
 ## Caring For The Price System Is How We Care For Each Other   
-Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thy self) we need consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
+Most people will think of the neighbors we have in front and behind, and to the right and the left - other humans. Already, we know to care for our neighbors at lower scales - our organs and cells. Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thyself) we need to consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
@@ -407,7 +410,7 @@ It will be an interesting and fun challenge to ask these questions, communicate 
 <html>
 <body>
 <DL><p>
-    <DT><H3>Sources of Information for BioElectocracy</H3>
+    <DT><H3>Sources of Information for Bioelectocracy</H3>
     <DL><p>
         <DT><A HREF="https://www.youtube.com/watch?v=oiuyG-2UKYQ">Tyson Yunkaporta, &quot;Sand Talk: How Indigenous Thinking Can Save the World&quot; - YouTube</A>
         <DT><A HREF="https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/">Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work</A>
