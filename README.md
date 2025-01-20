@@ -242,7 +242,7 @@ Most of us will think of the neighbors we have in front and behind, and to the r
 
 ---
 
-**Below are notes and links which will be woven into the narrative started above.**  
+**Below are notes and links and ideas which inspired the narative above.**  
 I have no idea where this is all going.  
 The following proverb will be my guide.  
 > Proverbs 3:5-6 King James Version  
@@ -259,9 +259,10 @@ The following proverb will be my guide.
 > * That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 > * For if ye love them which love you, what reward have ye? do not even the publicans the same?
 > * And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
-> * Be ye therefore perfect, even as your Father which is in heaven is perfect.
+> * Be ye therefore perfect, even as your Father which is in heaven is perfect.  
 
-Remembering the Foundation series where psychohistory would make accurate predictions or offer effective control if the population knew about the manipulation. 
+Remembering Asimov's Foundation Trilogy where Psychohistory would make accurate predictions about a population or offer effective control over it only if the population knew nothing about the manipulation.  
+There is some degree of protection from manipulation when the population is aware of it, understands how it works, where it's coming from, and who gains from it.  
 
 Interesting to note that the word Mina is found in "[The Parable of the Ten Minas](https://www.biblegateway.com/passage/?search=Luke%2019%3A11-27&version=NIV)", Luke 19:11-27 New International Version   
 This is not a lesson about using money to multiply money.  
@@ -280,9 +281,9 @@ Levin talks about gliders in the game of life.
 He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds.
 Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.
 
-
 What is it that Mac is trying to assemble itself into? I think the answer is the best possible home (society?) for its cells (that would be us).  
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
+See [Beemocracy](https://github.com/johnshearing/beemocracy/blob/main/BeemocracyMina.md)  
 
 Cells respond to expectation: [Similarity between Levin and Lipton](https://youtu.be/YnObwxJZpZc?si=5T98x273sgCt4Un-&t=3886), Hypnodermatology  
 [There was a time when Levin had to be careful about what he said](https://youtu.be/YnObwxJZpZc?si=aupq9heWRWIBJ39V&t=4080)  
@@ -291,8 +292,10 @@ Cells respond to expectation: [Similarity between Levin and Lipton](https://yout
 
 psychedelics FDA approval  
 [An advisory committee convened by FDA in June also raised concerns that MDMA's mind-altering effects made it nearly impossible to “blind” participants to whether they were getting drug or placebo.](https://www.science.org/content/article/fda-rejected-mdma-assisted-ptsd-therapy-other-psychedelics-firms-intend-avoid-fate#:~:text=An%20advisory%20committee%20convened%20by,therapies'%20benefits%20outweigh%20the%20risks.)  
+So FDA approval was denied not because the drug doesn't work but rather because they didn't have a way to test it against a placebo.  
+Good thing the FDA doesn't regulate spirituality.  
 
-While it is reasonable to consider Mac as a single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem).
+While it is reasonable to consider Mac as a single intelligent life form, our own lives depend on understanding that Mac is also a developing organ in a much larger being (our planetary ecosystem).  
 
 It has been said that information is a difference that makes a difference.  
 In other words a change in one structure (A) causes a change in some other structure (B).  
@@ -308,14 +311,22 @@ If domino (B) is already laying down when domino (A) falls upon it then energy i
 If domino (B) is standing when domino (A) falls upon it then both energy and information is passed because the state of domino (B) will change from standing to laying down.  
 So underlying the passage of all information is relationship.  
 
+About The Trinity  
+Father - The mind. Infinite collective intelligence and collective love. Nonphysical. Made from all the information exchanged in the universe.  
+Son - The body, the sensation, the raw input. That's us as we follow Jesus.  
+Holy Spirit, The nervous system. The relationship of all things between Father and Son. Also a person. That which causes us to love The Father and which causes The Father to love us.
+
 [Demonstration of Faith Using Domminos](https://youtube.com/shorts/kjMJbiYhEqw?si=jHMkArs9AQjNlb4S)  
 
 Only a small change in the voltage on the base terminal of a transistor creates a large change in the amount of current flowing between the collector and emitter terminals.  
 [Levin discusses transistors](https://youtu.be/gDWxCkngQNQ?si=wyF2Tt2D-YSAsJoa&t=778)  
 
-The problem of not wanting to change or resistance to change.  
+Minds at all levels of cognition have inertia or resistance to change.  
 
-There is no source of darkness, only lack of light
+There is no source of darkness, only lack of light.  
+In other words, there is no switch to turn on darkness but rather a switch to turn off light.  
+I imagine the same relationship exists between good and evil.  
+There is no source of evil. Rather there is only resistance to that which is good.  
 
 Choosing the path of least resistance.  
 
@@ -353,14 +364,8 @@ It's an old question: [Jesus on: Who Is My Neighbor](https://johnshearing.github
 We are still asking: [Levin on: Who Is My Neighbor?](https://youtu.be/YnObwxJZpZc?si=nJ40wWaUPfNpLseZ&t=866)
 
 [All intelligence is collective intelligence](https://youtu.be/YnObwxJZpZc?si=lnnk7VqOBz-127Bz&t=1074).  
-The sensation of feeling that I experience in my finger tips, for instance, is not a direct experience, but rather virtual experience assembled from many signals starting a with the cells in my fingers and then relayed along by other cells to the brain cells that process the signals to produce a result which my collective self (me) perceive as sensation in the finger tips. My collective self (me) and therefore all my experience is not physical, but rather just signals passing between my parts (the cells) which causes all the cells, as a collective (me), to respond in some way. That the group of cells (I) am conscious at all is simply because some of my cells retain a relational memory of these events. What is this price system and how do my cells make use of it to create me?
 
 information is a living thing. Levin says "Thoughts are thinkers."
-
-About The Trinity 
-Father - The mind. Infinite intelligence and love. Nonphysical. Made from the information exchanged in the universe.
-Son - that's us, The body. The sensation. The raw input.
-Holy Spirit, Our relationship. The nervous system. That which causes us to love The Father and which causes The Father to love us.
 
 I am realizing that the human super-organism is using groups of humans to form organs such that humans are locked into performing a single function and have little or no capacity to change their lives or even move from their geographic location.
 This is good for a few but not so good for others.
