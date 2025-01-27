@@ -12,6 +12,7 @@
 [Joint Paper - Levin and Lyons: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
 So why so much war, corruption, disease, famine and general sense of fear and mistrust?  
 [Video: Mike Benz - The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
+[Video: Mike Benz - The Blob Makes Pencils](https://x.com/MikeBenzCyber/status/1859468415070576815)  
 [Video: Top WEF Advisor - Free Will Is Over](https://x.com/Danielj73843963/status/1848206154612039689)  
 Decentralizing Control Over The Collective Human Consciousness:  
 [Video: Charles Hoskinson - Decentralized Blockchain: Freeing The Price System](https://www.youtube.com/live/SkixwjCzQ9c?si=2yyycdb5GRvD7VWp&t=93)  
