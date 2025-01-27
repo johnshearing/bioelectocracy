@@ -279,8 +279,19 @@ It's because he is not really talking about money, he is talking about faith.
 Jesus wants us to know that when we lend our faith, it compounds with interest, but in a way that benefits everyone, not just the lender.  
 
 Levin talks about gliders in the game of life.  
-He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds.
-Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.
+He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds. Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.  
+So the question of whether or not gliders exist is not a constructive question.  
+The constructive question is: "What can I do with gliders if I accept that they are real?"  
+I think the same is true about God. Wondering if God exists is not a constructive question.  
+So much better to ask: How wonderful can life be if I love God and love my neighbors as he commands?  
+
+Of course we can't see God. The last time he appeared to us as human was 2000 years ago. Never-the-less, God is with us all the time. Although God does speak through those who are filled with the Holy Spirit, normally, he appears to us, not as a person, but in miracles. This is what we are able to see of God. Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continually being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
+Jesus explained this to Philip as follows:
+> John 14:8-11 King James Version
+> * Philip saith unto him, Lord, show us the Father, and it sufficeth us.
+> * Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
+> * Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
+> * Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
 
 What is it that Mac is trying to assemble itself into? I think the answer is the best possible home (society?) for its cells (that would be us).  
 My reason for thinking so is because that's what [the collective intelligence of the honey bee colony searches for](https://youtu.be/NDnQ4pAjBUg?t=310) with respect to its cells (the bees).  
@@ -503,11 +514,5 @@ Polycomputing may explain the discrepancy.
 > * Give us day by day our daily bread.
 > * And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 
-Of course we can't see God. The last time he appeared to us as human was 2000 years ago. Never-the-less, God is with us all the time. Although God does speak through those who are filled with the Holy Spirit, normally, he appears to us, not as a person, but in miracles. Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continually being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
-Jesus explained this to Philip as follows:
-> John 14:8-11 King James Version
-> * Philip saith unto him, Lord, show us the Father, and it sufficeth us.
-> * Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Show us the Father?
-> * Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
-> * Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
+
 
