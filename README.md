@@ -278,11 +278,11 @@ So you might wonder why he mentions interest in a positive light in The Parable 
 It's because he is not really talking about money, he is talking about faith.  
 Jesus wants us to know that when we lend our faith, it compounds with interest, but in a way that benefits everyone, not just the lender.  
 
-Levin talks about gliders in the game of life.  
-He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds. Nevertheless when one recognizes that gliders patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.  
+[Levin talks about gliders in the game of life](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771).  
+He says that gliders don't actually exist physically in the game but rather exist as patterns that we notice as the game proceeds. Nevertheless when one recognizes that glider patterns are real, then one can do useful things with them such as using the patterns to make a Turing complete computer with the Game Of Life itself.  
 So the question of whether or not gliders exist is not a constructive question.  
 The constructive question is: "What can I do with gliders if I accept that they are real?"  
-I think the same is true about God. Wondering if God exists is not a constructive question.  
+I think similar is true about God. Wondering if God exists is not a constructive question.  
 So much better to ask: How wonderful can life be if I love God and love my neighbors as he commands?  
 
 Of course we can't see God. The last time he appeared to us as human was 2000 years ago. Never-the-less, God is with us all the time. Although God does speak through those who are filled with the Holy Spirit, normally, he appears to us, not as a person, but in miracles. This is what we are able to see of God. Think of it this way - our cells can't see us and yet we are obviously real. The only thing our cells could possibly observe about us as a whole is that their problems are continually being solved even though no individual cell is responsible for the solution or even understands how the problems are solved. But most people are blind to miracles even though God showers endless miracles upon each and every one of us in every moment, and many in direct response to our needs, wants, and asking.  
@@ -365,9 +365,6 @@ In electronics, it's the actual electrical impedance of components
 When mismatched:  
 Markets experience deadweight loss (reduced transactions)  
 Circuits experience power reflection and reduced transfer  
-
-
-[The instructions for morphogenesis are not in the genes.](https://youtu.be/whZRH7IGAq0?si=XK6hkvzAPQ-dS9lL&t=1771)
 
 What type of attractor is human governance?  
 point attractors (a single stable point), limit cycle attractors (periodic oscillations), and strange attractors (complex, chaotic patterns) 
