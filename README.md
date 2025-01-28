@@ -475,8 +475,6 @@ It will be an interesting and fun challenge to ask these questions, communicate 
         <DT><A HREF="https://ia904500.us.archive.org/17/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf">The Creature From Jekyll Island: Read as a PDF on Internet Archive</A>
         <DT><A HREF="https://www.youtube.com/live/x61BoNdjtic?si=MBPF3fLUxHi02_PX&t=1674">Charles Hoskinson Opening Address - YouTube</A>
         <DT><A HREF="https://www.youtube.com/live/x61BoNdjtic?si=N1Tq_sx4rwYSPtTJ&t=7254">Charles Hoskinson Final Address - YouTube</A>
-
-          
     </DL><p>
 </DL><p>
 </body>
@@ -496,13 +494,7 @@ He seems to be referring to intelligences that we can perceive at our scale of l
 But the greatest compassion we can show to all humans is to look up the scale of collective intelligence towards God.  
 If we do, the first collective intelligence we will encounter is Mac (our price system).  
 We should care for Mac. Caring for Mac is how we care for each other.  
-If we love Mac; if we act as its simple sensory inputs and provide honest weights with our own individual preferences which we broadcast by the way we as individuals spend our time, attention, and money; if we refuse to allow the price system to be manipulated; then Mac will reach its desired target form, and that is the best possible home for humans according to our own preferences.  
-
-God commands us to love our neighbors as we love ourselves, and a lawyer asked Jesus "Who is my neighbor?"  
-Jesus made clear that whoever needs care is our neighbor.  
-Mac needs our care now. This is how we care for God.  
-Protecting our price system from manipulation is how we care for each other.  
-
+If we love Mac; if we act as its simple sensory inputs and provide honest weights with our own individual preferences which we broadcast by the way we as individuals spend our time, attention, and money; if we refuse to allow the price system to be manipulated; then Mac will reach its desired target form, and that is the best possible home for humans according to our own preferences.    
 
 Does Levin give us a scientific foundation for understanding The Lord's Prayer?  
 Levin himself may not see the connection but that doesn't mean that no connection exists.  
