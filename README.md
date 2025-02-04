@@ -1,6 +1,6 @@
 <a href="https://johnshearing.github.io/">Main list of projects</a>  
 
-# Biolectocracy: Better Governance Based On Morphogenesis  
+# Bioelectocracy: Better Governance Based On Morphogenesis  
 [Video: Morphogenesis Primer by Michael Levin](https://www.youtube.com/watch?v=7vsYIlukqn0)  
 [Video: Collective Intelligence Primer by Michael Levin](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
 #### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
