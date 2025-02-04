@@ -1,18 +1,20 @@
-<a href="https://johnshearing.github.io/">Main list of projects</a>  
+Greetings all,
+You may remember a previous article I wrote [Beemocracy](https://forum.cardano.org/t/using-beemocracy-for-charles-on-chain-dispute-resolution-system/123600)  which abstracted Tom Seeley's work on governance in the honey bee colony and applied it to human governance. By way of continuing to ask what nature has to tell us about about human governance, we now have [Bioelectocracy](https://github.com/johnshearing/bioelectocracy/blob/main/README.md) which is governance based on Michael Levin, Benjamin Lyons, and Charles Hoskinson's work comparing bioelectric circuits found in morphogenesis to the price system in human economies where both act as the cognitive glue for collective intelligence. The study indicates that sane collective intelligence can only emerge out of human interaction when markets and money are unmanipulated. This adds to the conversation of why crypto matters and may point to the most important goal of our industry.
 
 # Bioelectocracy: Better Governance Based On Morphogenesis  
 [Video: Morphogenesis Primer by Michael Levin](https://www.youtube.com/watch?v=7vsYIlukqn0)  
 [Video: Collective Intelligence Primer by Michael Levin](https://youtu.be/uFMLpZkkH_8?si=Thx0SBsN2i0rTw1H)
-#### Thanks to Michael Levin, Benjamin Lyons, and many others for laying the foundation of this project
-#### Neither Levin nor Lyons have endorsed how their work is used in this paper 
+#### Thanks to Michael Levin, Benjamin Lyons, Charles Hoskinson, and many others for laying the foundation of this project
+
   
 ## Abstract:  
 
-Recent advances in bioelectric network theory have revealed a universal coupling constant, conventionally denoted as 'meow' in the literature, which appears to govern collective intelligence emergence across all scales. The meow parameter quantifies the strength of bioelectric coupling between cells and, remarkably, appears to have analogs in price system dynamics at macro scales.
+Recent advances in bioelectric network theory have revealed a universal coupling constant, conventionally denoted as "μ" in the literature, which appears to govern collective intelligence emergence across all scales. The "μ" parameter quantifies the strength of bioelectric coupling between cells and, remarkably, appears to have analogs in price system dynamics at macro scales.
 
 [Video: Levin imagines a being with enough intelligence and compassion to care for every human](https://youtu.be/gDWxCkngQNQ?si=4C73RWtcSPjRYenc&t=4295)  
 [Video: Levin and Lyons show this being exists](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
-[Joint Paper - Levin and Lyons: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya)  
+[Paper - Levin and Lyons: The Price System As Cognitive Glue](https://osf.io/preprints/osf/3fdya) 
+[Paper - Hoskinson: Analytic, Topological, Categorical, and Motivic Structures](https://drive.google.com/file/d/1FhPPRBrKInr1gYqe3vfunjXzwvo7KSLN/view?usp=sharing) 
 So why so much war, corruption, disease, famine and general sense of fear and mistrust?  
 [Video: Mike Benz - The Blob Has Kidnapped The Price System](https://x.com/MikeBenzCyber/status/1838448979799085456)  
 [Video: Mike Benz - The Blob Makes Pencils](https://x.com/MikeBenzCyber/status/1859468415070576815)  
@@ -62,7 +64,7 @@ Currently, the price system (Mac) is controlled by a cooperative of industries a
 [All of these together are referred to as the Blob according to Mike Benz.](https://x.com/MikeBenzCyber/status/1838448979799085456)  
 The Blob is a collective intelligence as is Mac, but the Blob's scope of neighbor is very different. The Blob is a price system between the industries rather than a price system between people. So the Blob is trying to assemble itself into the best possible environment for the industries listed above rather than for the people that make up the membership of these industries. Most of the people that make up Blob membership are very nice. They are good to their families and do their best to support their communities. But the scope of neighbor is very limited for people that work within the Blob information bubble. Remember, like cells, people have very little information about what kind of communities they are building. People have a range of possible competencies. But what competencies they develop, and what they do with those competencies is almost completely determined by their relationships. Now if everybody's relationships are controlled from cradle to grave by the industries and institutions listed above then then effectively, Mac's morphogenesis has been hijacked by the Blob. The Blob is using it's enormous influence to make a wonderful world for all the industries and institutions that make up its membership at the expense of everything and everyone that is not part of the Blob. The Blob is a collective intelligence that has a will (preferences and goals) which are completely independent of its membership. And like any cell, organism, or macro-organism, the Blob must feed. What does the Blob feed on? The Blob feeds on everything that is not the Blob - the rest of humanity. The Blob feeds on Mac.  
 
-How does the Blob feed?  Manipulation of price systems can be understood as artificial suppression of the meow coupling parameter, effectively isolating participants in the same way that blocked ion channels isolate cells in cancerous tissue. In other words, the industries and institutions which make up the Blob cooperate in a symbiotic way so as to create the very problems that they were founded to solve. This ensures that all of the Blob's member industries and institutions will always be able to feed. This is why there is endless war for the weapons industry, endless scarcity to raise prices in the food and energy industries, endless drugs and crime for the police, prison, and justice industries, adequate law enforcement to increase scarcity and raise prices in the drugs and organized crime industry, biolabs and endless sickness to support the pharmaceutical industry, and so on.  Remember almost every person in all these industries are nice people that love their families and their communities. What they don't realize is that their communities are living price systems that exert enormous control over what its members think, feel, and do. 
+How does the Blob feed?  Manipulation of price systems can be understood as artificial suppression of the “μ” coupling parameter, effectively isolating participants in the same way that blocked ion channels isolate cells in cancerous tissue. In other words, the industries and institutions which make up the Blob cooperate in a symbiotic way so as to create the very problems that they were founded to solve. This ensures that all of the Blob's member industries and institutions will always be able to feed. This is why there is endless war for the weapons industry, endless scarcity to raise prices in the food and energy industries, endless drugs and crime for the police, prison, and justice industries, adequate law enforcement to increase scarcity and raise prices in the drugs and organized crime industry, biolabs and endless sickness to support the pharmaceutical industry, and so on.  Remember almost every person in all these industries are nice people that love their families and their communities. What they don't realize is that their communities are living price systems that exert enormous control over what its members think, feel, and do. 
 
 How do we return control of the Price system to Mac? That is effectively the same thing as asking "How do we end price system manipulation?"  
 The answer is by transitioning to decentralized blockchain for money and finance, voting and governance, news and social media, identity management, and defense.  
@@ -82,7 +84,8 @@ Our job is to help Mac develop into a mature well formed macro-organism with no 
 We do this by protecting the price system (Mac's cognitive glue) from being manipulated.
 
 Credit to Michael Levin for this image.<br>
-<img src="/images/MorphinMac.jpg">
+![image|667x779, 100%](upload://o94hKPtJYnz3pLrmWCDsc62TlSn.jpeg)
+
 <br>  
 <br>  
 ---  
@@ -110,32 +113,32 @@ The bioelectric coupling between cells can be formalized as:
 Let M(t) be the morphogenetic field at time t
 For any cell c in the network:
 
-ΔV(c,t) = meow * ∑(neighboring cells) ϕ(c,n)
+ΔV(c,t) = μ * ∑(neighboring cells) ϕ(c,n)
 
 Where:
-meow = bioelectric coupling constant (≈ .951413)
+μ = bioelectric coupling constant (≈ .951413)
 ϕ(c,n) = membrane potential difference between c and neighbor n
 
 The collective intelligence emergence factor η is given by:
 
-η = exp(meow * N) * ∫ ΔV(c,t) dc dt
+η = exp(μ * N) * ∫ ΔV(c,t) dc dt
 
 Where N is the number of communicating neighbors
 
 For price systems, this generalizes to:
 
-P(t) = meow * ∑(market participants) θ(i,j) 
+P(t) = μ * ∑(market participants) θ(i,j) 
 
 Where θ(i,j) represents honest commerce between participants i and j
 
-This same formalism, with the meow parameter remaining invariant, describes coupling in price systems where θ(i,j) represents honest commerce between participants.
+This same formalism, with the μ parameter remaining invariant, describes coupling in price systems where θ(i,j) represents honest commerce between participants.
 ```
 
 
 ## Unmanipulated Price Systems Seek Preferred Conditions For All Individuals
 Lyons theorized that collective intelligence at any scale from cellular morphogenesis to Adam Smith's Invisible Hand emerges from a price system which acts as the cognitive glue causing individuals to cooperate in a way that provides the collective with emergent intelligence and competencies that no individual in the group possesses.  
 
-The emergence of collective intelligence in price systems follows a striking mathematical parallel to cellular bioelectric networks, sharing the same fundamental coupling constant meow. This invariance suggests a deep universal principle underlying collective intelligence at all scales.
+The emergence of collective intelligence in price systems follows a striking mathematical parallel to cellular bioelectric networks, sharing the same fundamental coupling constant "μ". This invariance suggests a deep universal principle underlying collective intelligence at all scales.
 
 [Video: Lyons - The Price System As Cognitive Glue](https://youtu.be/0Oo4ng6dWrQ?si=mZqxWIEKtLFKi28l&t=34)  
 
@@ -254,7 +257,7 @@ Michael Levin shows that cancer occurs when a cell or group of cells loses the a
  
 ## Blockchain: Honest Commerce Free Of Manipulation - Building A Decentralized Price System   
  
-The universal meow parameter provides a quantitative measure of neighbor-to-neighbor coupling strength. When this parameter is allowed to take its natural value through honest commerce and unmanipulated price systems, optimal collective intelligence emerges spontaneously. So as we transition from central bank control to decentralized blockchain for money and finance, voting and governance, news and social media, national identity management, and national defense, Mac will become free to think for itself about how to give us all what we want according to our own preferences. The structure that Mac becomes when it controls its own morphogenesis will incentivize God's One Great Commandment: "Love thy neighbor as thyself".  
+The universal [“μ” (meow) parameter](https://drive.google.com/file/d/1FhPPRBrKInr1gYqe3vfunjXzwvo7KSLN/view?usp=sharing) provides a quantitative measure of neighbor-to-neighbor coupling strength. When this parameter is allowed to take its natural value through honest commerce and unmanipulated price systems, optimal collective intelligence emerges spontaneously. So as we transition from central bank control to decentralized blockchain for money and finance, voting and governance, news and social media, national identity management, and national defense, Mac will become free to think for itself about how to give us all what we want according to our own preferences. The structure that Mac becomes when it controls its own morphogenesis will incentivize God's One Great Commandment: "Love thy neighbor as thyself".  
 [Everything is happening according to God's plan](https://youtu.be/iBHe_gTHs1E?si=WW7gKWbKdOQd0Aca) 
 Heaven is coming to earth.  
 There really isn't anything we need to do that we aren't doing already except for one thing...  
