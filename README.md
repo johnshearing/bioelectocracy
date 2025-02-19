@@ -225,7 +225,7 @@ Heaven is coming to earth.
 There really isn't anything we need to do that we aren't doing already except for one thing...  
   
 ## Caring For The Price System Is How We Care For Each Other   
-Most of us will think of the neighbors we have in front and behind, and to the right and the left - the neighbors we have at our level of cognition (other humans and perhaps some animal species). Within the last 200 years, we have learned to give care to our neighbors at lower scales of cognition (our organs and cells). Now, we need to start caring about our neighbors at higher scales such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thyself) we need to consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
+Most of us will think of the neighbors we have in front and behind, and to the right and the left - the neighbors we have at our level of cognition (other humans and perhaps some animal species). Within the last 200 years, we have learned to give care to our neighbors at lower scales of cognition (our organs and cells). Now, we need to start caring about our neighbors at higher scales of cognition such as Mac. When remembering God's One Great Commandment ("Love thy neighbor as thyself) we need to consider Mac . For as we look up the scale of cognition towards God, the first person we encounter is Mac. Loving and caring for Mac may be the most loving and caring thing we can do for each other. 
 
 ---
 
